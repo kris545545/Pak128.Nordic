@@ -1,1966 +1,10277 @@
-Abbekås
-Abborrberget
-Agunnaryd
-Alberga
-Alby
-Alfta
-Algutsrum
-Alingsås
-Allerum
-Almborga
-Almunge
-Alsike
-Alstad
-Alster
-Alsterbro
-Alstermo
-Alunda
-Alvesta
-Alvhem
-Alvik
-Alvik
-Ambjörby
-Ambjörnarp
-Ammenäs
-Andalen
-Anderslöv
-Anderstorp
-Aneby
-Angelstad
-Angered
-Ankarsrum
-Ankarsvik
-Anneberg
-Anneberg
-Annelund
-Annelöv
-Antnäs
-Aplared
-Arboga
-Arbrå
-Ardala
-Arentorp
-Arild
-Arjeplog
-Arkelstorp
-Arnäsvall
-Arnö
-Arontorp
-Arvidsjaur
-Arvika
-Aröd
-Timmervik
+Abbetved
+Abed
+Abild
+Abild Mark
+Abildgård Mark
+Abildgårde
+Abildhave
+Abildhede
+Abildholt
+Abildro
+Abildskov
+Abildtorpe
+Abildtrup
+Abildøre
+Abildå
+Abkær
+Aborg
+Aborg Minde
+Abterp
+Adamshøj
+Adbøl
+Addit
+Adelsvejsvang
+Adelvad
+Adsbøl
+Adsersbøl
+Adslev
+Adslev Hede
+Agdrup
+Agdrup Kær
+Ager By
+Ager Vejle
+Agerbo
+Agerbæk
+Agerfeld
+Agerholm
+Agerkrog
+Agermose
+Agernæs
+Agersbæk
+Agersbøl
+Agersig
+Agerskov
+Agerskov Hede
+Agerskov Vesterhede
+Agersnap
+Agersted
+Agersted Fælled
+Agerstedskov
+Agersø
+Agerup
+Agervig
+Aggebo
+Aggebo Skovhuse
+Agger
+Aggerhus
+Aggersborg
+Aggersund
+Aggerup
+Aggestrup
+Agri
+Agtrupskov
+Agtrupvig
+Ahler Gårde
+Aidt
+Aidt Hede
+Ajke
+Ajstrup
+Ajstrup Hede
+Akkerup
+Akselholm
+Akselterp
+Akær
+Albertslund
+Albjerg
+Albæk
+Albæk Gårde
+Albæk Hede
+Albæk Hedehuse
+Albæk Mark
+Albøge
+Aldrup
+Algestrup
+Alken
+Alkærlund
+Alkærsig
+Alle
+Alléhuse
+Alléhusene
+Allelev
+Allelevsund
+Aller
+Allerslev
+Allerup
+Allerup Knolde
+Allerup Mark
+Allerup Torup
+Alleruphave
+Allesgårde
+Alleshave
+Allested
+Allestedskov
+Allestrup
+Allesø
+Allikegårde
+Allindelille
+Allindelille Old
+Allindemagle
+Allindemagle Ø
+Alling
+Allingdam
+Allingåbro
+Allingålyst
+Almager
+Alme
+Alme Englod
+Alme Orned
+Almegård
+Almind
+Almind Hede
+Alminde
+Almindehuse
+Almindingen
+Almsted
+Almstedskov
+Almstofte
+Almstrup
+Almstrup Mark
+Alrum
+Als
+Als Hede
+Als Odde
+Alsbjerg
+Alsbro
+Alslev
+Alslev Kro
+Alslev over Åen
+Alslev Vrå
+Alslev Østermark
+Alsted
+Alsted Mark
+Alsted-Flinterup
+Alstrup
+Alstrup Hede
+Alstrup Nymark
+Alsø
+Alsønderup
+Alsønderup Indelukke
+Alsønderup Overdrev
+Altona
+Amager Huse
+Amalieager
+Ambrosgårde
+Ambæk
+Amdal
+Amerika
+Amerikanergårde
+Amlund
+Ammelhede
+Ammendrup
+Ammerup
+Ammitsbøl
+Amstrup
+Amstrup Skov
+Amtoft
+Amtrup
+Andaks
+Andebølle
+Andebøllemose
+Andebølleskov
+Andemose
+Anderstrup
+Anderup
+Andholm
+Andi
+Andkær
+Andkær Skovby
+Andkær Sønderskov
+Andkær Vig
+Andrup
+Andst Fælled
+Andst Vestermark
+Anebro
+Anholt
+Ankelbo
+Ankerstræde
+Annebjerg Huse
+Annebjerg Mark
+Annekshuse
+Annekspræstegårde
+Annerup
+Annisse
+Annisse Nord
+Annisse Overdrev
+Ans
+Ansager
+Ansbjerg
+Anshede
+Apager
+Apholm
+Apotekerhuse
+Appenæs Hoved 
+Aptrup
+Aptrup Mark
+Arden
+Arentsminde
+Arløse
+Arløse Skovhuse
+Arløse Torp
+Armose
+Arnager
+Arnagerbro
+Arnakke
+Arnborg
+Arndrup
+Arninge
+Arnitlund
+Arnkil
+Arnum
+Arnum Nykro
+Arnum Nørremark
+Arnum Søndermark
+Arnøje
+Arresødal
+Arrild
+Arvad
+As Ore
+Asbjerg
+Asbo
+Asbæk Hede
+Asbækholt
+Asbøl
+Asferg
+Asferg Nørremark
+Asferg Søndermark
+Asferg Østermark
+Ask
 Askeby
-Askersby
-Askersund
-Asmundtorp
-Asperö
-Aspås
-Avan
-Avesta
-Axvall
-Backa
-Backaryd
-Backberg
-Backe
-Baggetorp
-Ballingslöv
-Balsby
-Bammarboda
-Bankekind
-Bankeryd
-Bara
-Barkarö
-Barsebäck
-Barsebäckshamn
-Bastuträsk
-Beddingestrand
-Beden-Grevie
-Benareby
-Bengtsfors
-Bengtsheden
-Bensbyn
-Berg
-Berg
-Berg
-Berga
-Bergagård
-Bergby
-Bergeforsen
-Berghem
-Bergkvara
-Bergnäset
-Bergsbyn
-Bergshammar
-Bergshamra
-Bergsjö
-Bergströmshusen
-Bergsviken
-Bergvik
-Bestorp
-Bettna
-Bie
-Billdal
-Billeberga
-Billesholm
-Billinge
-Billingsfors
-Billsta
-Bjurholm
-Bjursås
-Bjuv
-Bjärnum
-Bjärred
-Bjärsjölagård
-Bjästa
-Björbo
-Björboholm
-Björke
-Björketorp
-Björklinge
-Björkvik
-Björkviken
-Björkö
-Björköby
-Björlanda
-Björna
-Björneborg
-Björnlunda
-Björnänge
-Björnö
-Björnömalmen
-Klacknäset
-Björsäter
-Blackstalund
-Bleket
-Blentarp
-Blidsberg
-Blikstorp
-Blombacka
-Blomstermåla
-Blåsmark
-Blötberget
-Bockara
-Boda
-Bodafors
-Boden
-Boholmarna
-Boliden
-Bollebygd
-Bollnäs
-Bollstabruk
-Bonäs
-Boo
-Bor
-Borensberg
-Borggård
-Borgholm
-Borgstena
-Borlänge
-Borrby
-Borås
-Bosnäs
-Botsmark
-Bottnaryd
-Bovallstrand
-Boxholm
-Brantevik
-Brastad
-Brattås
-Braås
-Bredared
-Bredaryd
-Bredbyn
-Bredviken
-Brevik
-Brevikshalvön
+Askebæk Huse
+Askegårde
+Askemose
+Askevad
+Askildrup
+Askkrog
+Asklev
+Askov
+Askov Huse
+Askov Mark
+Askær
+Askær Mark
+Askø
+Askø By
+Askø Fæland
+Asløkke
+Asmildgårde
+Asmindrup
+Asnæs
+Asp
+Aspedam
+Asperup Mark
+Aspesbakken
+Assedrup
+Assemose
+Assenbølle
+Assendløse
+Assendrup
+Assens
+Assenshøj
+Assentoft
+Assentorp
+Asserballe
+Asserballe Mark
+Asserballe Station
+Asserballeskov
+Asserballeskov Strand
+Asseregårds Huse
+Assersmølle
+Asset
+Assing
+Astedbro
+Astofte
+Astrup
+Astrup Gårde
+Astrup Hede
+Astrup Mark
+Asaa
+Asaa Hede
+Attekøb
+Attenagre
+Atterup
+Atterup Huse
+Atterup Overdrev
+Attrup
+Attrup Kær
+Auderød
+Augustenborg
+Augustenhof
+Aulum
+Auning
+Auning Kær
+Aunsbjerg Huse
+Aunslev
+Avbæk
+Avdebo
+Avderød
+Avernak By
+Avernakke Gårde
+Aversi
+Avlbjerg
+Avlkær
+Avnbøl
+Avnbøl Mark
+Avnbøløsten
+Avnevig
+Avnstrup
+Avnø
+Avtrup
+Babberup
+Badskær
+Badsted
+Bagenkop
+Baggesgårde
+Baggesholm
+Baghave Huse
+Bagmarken
+Bagmose
+Bagmose Huse
+Bahl
+Bajlum
+Bajstrup
+Bajstrup Mark
+Bakbjerg
+Bakholm
+Bakhuse
+Bakkebjerg
+Bakkebølle
+Bakkehuse
+Bakkely
+Bakkemose Huse
+Bakken
+Bakkendrup
+Baldersbæk
+Bale
+Balgårde
+Balka
+Balle
+Balle Hede
+Balle Huse
+Balle Kær
+Balle Mark
+Balle Nørremark
+Balle Skovhuse
+Balle Strand
+Ballebo
+Balleby
+Ballebæk
+Balle-Findal
+Ballegårde
+Ballehede
+Ballehøj
+Ballemose
+Ballen
+Ballerum
+Ballerup
+Ballesig
+Balling
+Balling Gårde
+Balsgyden
+Balslev
+Bammeskov
+Banbjerg
+Bandholm
+Bandsbjerg
+Bandsby
+Bandsbøl
+Bandsholm
+Banggårde
+Bangsbo
+Bangsbo Gårde
+Bankehuse
+Banken
+Bannebjerg
+Bannerslund Hede
+Bannerslund Mark
+Bannerup
+Barager
+Barbesgård
+Bare Brøndstrup
+Barholt
+Barkemose Huse
+Barkholt
+Barkmose
+Barkær
+Barlund
+Barløse
+Barløse Tårup
+Barmer
+Barmhjertigheden
+Barmose Huse
+Barnekær
+Barrit
+Barrit Station
+Barrittykke
+Barsbøl
+Barsbøl Mark
+Barsbølforte
+Barslev
+Barslund
+Barsmark
+Barsnap Hede
+Barsø
+Barsø Landing
+Barup
+Basballe
+Basholt Huse
+Baslund
+Basnæs
+Basselund
+Bastebjerg
+Bastemose
+Bastholm
+Bastrup
+Bastrup Sønderstrand
+Bastrupskov
+Baså
+Battrup
+Battrupholt
+Batum
+Bavn
+Bavnborg
+Bavnbæk
+Bavnehuse
+Bavngård
+Bedegade
+Bedehaver
+Bedelund
+Beder
+Bederholm
+Bederslev
+Bedskov Huse
+Bedsted
+Bedsted Bjerg
+Bedsted Mark
+Bedsted Overdrev
+Beersted
+Begtrup
+Begyndt
+Bejlevad
+Bejsnap
+Bejstrup
+Bejstrup Nørrevang
+Bejstrup Søndervang
+Beldringe
+Belle
+Belle Møllebanke
+Belle Ødegård
+Bellelund
+Bellinge
+Bellinge Mark
+Bendslev
+Bendstrup
+Bendstrup Overdrev
+Bendtskov Huse
+Bennebo
+Benslehøj
+Bering
+Berlin
+Bernstorffsminde
+Besser
+Betryk
+Bette Mjels
+Bevtoft
+Biersted
+Biersted Mejeriby
+Bigum
+Bigum Huse
+Bildsø
+Bilgrav
+Bi-lidt
+Billerup
+Billesbølle
+Billum
+Billum Kær
+Billumvad
+Billund
+Bilsbæk
+Biltoft
+Biltris
+Bindeballe
+Binderup
+Binderup Mølle
+Binderup Vesterskov
+Bindesbøl
+Bindslev
+Binnitse Mark
+Birgittelyst
+Birk
+Birkeballe
+Birkebjerg
+Birkebæk
+Birkede
+Birkede Skov
+Birkehave
+Birkehuse
+Birkelev
+Birkelev Nørremark
+Birkelev Søndermark
+Birkelse
+Birkelund
+Birkemose
+Birkende
+Birkerød
+Birkeshøj
+Birkesig
+Birket
+Birketved
+Birkevad
+Birkhede
+Birkholm By
+Birkkær
+Birkmose
+Birkmose Gårde
+Birknæs
+Birkum
+Birkum Kohave
+Birkum Mose
+Bisballe
+Bisgård
+Bisgårde
+Biskopstorp
+Bislev
+Bisserup
+Bissinge
+Bistrup
+Bistrup Huse
+Bitteby
+Bjalderup
+Bjallerbæk
+Bjarup
+Bjarupmose
+Bjedstrup
+Bjerager
+Bjergby
+Bjergby Mark
+Bjergby Overmark
+Bjerge
+Bjergegård
+Bjergemark
+Bjergene
+Bjergeskov
+Bjergesø
+Bjergesø Hestehave
+Bjergesø Tangmose
+Bjerget
+Bjergholt
+Bjerghuse
+Bjergland
+Bjergskov
+Bjergsted
+Bjergsted Bakker
+Bjerlev
+Bjerlev Rode
+Bjerndrup
+Bjerndrup Mark
+Bjerndrup Vestermark
+Bjerndrup Østermark
+Bjerne Mark
+Bjernede
+Bjernede Huse
+Bjernemark
+Bjernæs
+Bjernæs Husby
+Bjerre
+Bjerreby
+Bjerrede
+Bjerregrav
+Bjerregrav Hede
+Bjerregrav Østervang
+Bjerregravholm
+Bjerregård
+Bjerrehuse
+Bjerrelide
+Bjerremose
+Bjerring Hede
+Bjerringbro
+Bjerrum
+Bjerrumhuse
+Bjert Strand
+Bjertrup
+Bjolderup
+Bjælkehoved
+Bjærup
+Bjæverskov
+Bjødstrup
+Bjølbøl
+Bjørndrup
+Bjørnemose
+Bjørnholm
+Bjørnholt
+Bjørnkær
+Bjørnodde
+Bjørnsbølle
+Bjørnskov
+Bjørnstrup
+Bjørnø By
+Bjørslev
+Bjørum Mark
+Bjørup
+Bjøvlund
+Bladmose Huse
+Bladstrup
+Blakskær
+Blaksmark
+Blandebjerg
+Blangshave
+Blangslev
+Blangstrup
+Blankager
+Blanke
+Blankenborg
+Blans
+Blans Nørremark
+Blans Østermark
+Blansgårdsmark
+Blansskov
+Blegebrønde
+Blegebæk
+Blegedy
+Bleghule
+Blegind
+Bleld
+Blemmelyng
+Blenstrup
+Blenstrup Bjerge
+Blenstrup Mark
+Blidstrup
+Blidstrup Mark
+Blinkbjerg
+Blirup
+Blistrup
+Blodmose
+Blokengen
+Blokhus
+Blommenslyst
+Blovsgårde
+Blovstrød
+Blykobbe
+Blykobbe Plantage
+Blære
+Blære Hede
+Blæsbjerg
+Blæsebjerg
+Blæsenborg
+Blæsgård
+Blæsinge
+Blåbjerg Gårde
+Blåbæks Mølle
+Blåholm
+Blåholt
+Blåhøj
+Blåkilde
+Blåkær
+Blåsholm
+Blåsiggårds Mark
+Bobjerg
+Bobøl
+Boddum
+Boddum Bisgård Mark
+Bode
+Bode Enge
+Bodebjerg
+Bodelyng Huse
+Boderne
+Bodholt
+Bodilsker
+Bodilsker Højlyng
+Bodum
+Bodum Mark
+Boelbjerg
+Boelsbro
+Boes
+Boesdal
+Boeslunde
+Boest
+Boestholt
+Bogens
+Bogense
+Bogentved
+Bognæs
+Bogø
+Bogø By
+Bogø Huse
+Boholm
+Boholt
+Bojen
+Bojskov
+Bojskov Mark
+Bojskovskov
+Bokær
+Bolderis
+Bolderslev
+Bolderslevskov
+Bolding
+Boldrup
+Boldrup Huse
+Bolhede
+Bolilmark
+Bolle
+Bollehede
+Boller
+Boller Hede
+Boller Mark
+Bollerup
+Bolleskov
+Bolmerod
+Bolsbjerg Huse
+Bolskov
+Bolsmose
+Bolteskov
+Boltinge
+Boltinggårds Enemærke
+Boltinggårdsskov
+Bommerlund
+Bondens Nakke
+Bonderup
+Bonderup Vang
+Bonderød
+Bonnet
+Borbjerg
+Bording
+Bording Gårde
+Bording Kirkeby
+Bordrup
+Borg
+Borghuse
+Borgmark
+Borgnæs
+Borgsted
+Boring
+Boringskov
+Boringsø
+Bork Mærsk
+Borlev
+Bormose Huse
+Borre
+Borreby
+Borredal
+Borredige
+Borregård
+Borren
+Borreshoved
+Borrevang
+Borridsø
+Borridsø Mark
+Borrisholt
+Borsholm
+Borsholm Overdrev
+Borum
+Borum Feldhede
+Borumbro
+Borup
+Borup Gårde
+Borup Hede
+Borød
+Borød Holme
+Borød-Flinterup
+Boserup
+Boskov
+Bossen
+Bostrup
+Botofte
+Bottrup
+Bov Mark
+Bovbjerg
+Bovense
+Bovet
+Bovlstrup
+Bovlstrup Mark
+Bovlund
+Bovlund Bjerg
+Bovlund Nymark
+Bovnum
+Bovrup
+Bovrup Mark
+Bovrup Nørremark
+Bovrup Østermark
+Bovtrup
+Brabæk
+Brabæk Huse
+Bradsted
+Bradstrup
+Brageland
+Bragenholt
+Brakker
+Bramdrup
+Bramdrup Mark
+Bramming
+Bramslev
+Bramstrup
+Brandbjerg
+Brandborg
+Brande
+Brande Harrild
+Brandelev
+Branden
+Branderslev
+Branderslevvig
+Branderup
+Branderup Dal
+Branderup Hede
+Branderup Kådnere
+Branderup Mark
+Branderup Østermark
+Brandgårde
+Brandholt
+Brandsby
+Brandsbøl
+Brandsbøl Mark
+Brandsbøl Sø
+Brandskovhuse
+Brandsmark
+Brandsmose
+Brandstolpe
+Brandstrup
+Brandstub
+Brandsø
+Brangstrup
+Brangstrup Mark
+Brarup
+Brarup Stubbe
+Brasholt
+Brastrupholm
+Bratbjerg
+Bratbjerg Gårde
+Braulstrup
+Bred Mosehuse
+Bredal
+Bredal Kær
+Bredal Vestermark
+Bredbjerg
+Brede
+Bredebro
+Bredeland
+Bredemiste
+Brederød
+Bredetved
+Bredevad
+Bredho
+Bredholtskov
+Bredkær
+Bredkær Mark
+Bredlænge
+Bredmose
+Bredning Huse
+Bredsgårde
+Bredsig
+Bredsten
+Bredstenlund
+Bredstrup
+Bredstruplund
+Bredvadmølle
+Bredvig
+Bredvig Gårde
+Bregnebjerg
+Bregneholt
+Bregnemose
+Bregnerød
+Bregnetved
+Bregnhoved
+Bregninge
+Bregnør
+Bregnør Fiskerleje
+Brejl
+Brejning
+Brem
+Bremdal
+Bremsbøl
+Brenderup
+Brendstrup
+Brentebjerg
+Brestenbro
+Breth
+Breth Surmose
+Breum
+Briet
+Brigsted
+Briksbøl
+Bringstrup
+Brinkgård
 Bro
-Broaryd
-Broby
-Brokind
-Bromölla
-Brottby
-Brunflo
-Brunn
-Brunna
-Brunnsberg
-Bruzaholm
-Brålanda
-Bräcke
-Bräkne-Hoby
-Brändön
-Brännland
-Brännö
-Brösarp
-Bua
-Buerås
-Bullmark
-Bunkeflostrand
-Bureå
-Burgsvik
-Burlövs Egnahem
-Burseryd
-Burträsk
-Buskhyttan
-Butbro
-Bygdeå
-Bygdsiljum
-Byske
-Bålsta
-Bårslöv
-Båstad
-Båtskärsnäs
-Bäckaskog
-Bäckebo
-Bäckefors
-Bäckhammar
-Bälgviken
-Bälinge
-Bälinge
-Bärby
-Bäsna
-Böle
-Bönan
-Charlottenberg
-Dalarö
+Broager
+Broager Mark
+Broballe Mark
+Broballe Nedermark
+Broby Overdrev
+Brobyværk
+Brobøl
+Brodal
+Brodersgård
+Brodersgård Mark
+Broderup
+Broderup Mark
+Broeng
+Brofeld
+Brogårde
+Brohave
+Broholm
+Broholm Hede
+Brohuse
+Brokgraven
+Brokholm
+Brokhuse
+Brokkebjerg
+Broktved
+Brokær
+Brokøb
+Brokøb Overdrev
+Broland
+Broløs
+Broløs Hedehuse
+Bromade
+Bromark Gårde
+Bromlehuse
+Bromme
+Brordrup
+Brorfelde
+Brorstrup
+Brorup
+Broskov
+Brovst
+Brovst Enge
+Brudager
+Brunbjerg
+Brund
+Brundby
+Brundbymark
+Brundt
+Brunemark
+Brunemose
+Brunhede
+Brunholm
+Brunkær
+Brunmose
+Brunsgård
+Brunshuse
+Brunsmose
+Brunsnæs
+Bruntofte
+Brusen
+Bruserup
+Brusholt
+Bruunshåb
+Brydbjerg
+Brydebjerg
+Brydebølle
+Brydegård
+Brydkær
+Brydsmose
+Bryggerhuse
+Brylle
+Brylle Mark
+Bryndum
+Bryndumdam
+Bryrup
+Brystrup
+Brædstrup
+Bræk
+Brændbjerg
+Brænde Lydinge
+Brændebjerg
+Brændegårde
+Brændekilde
+Brændemose
+Brændesgårde
+Brændeskov
+Brændesmark
+Brændgårde
+Brændholt
+Brændskov
+Brændstrup
+Brændstrup Østermark
+Brændt
+Brænore
+Brærå
+Brødbæk
+Brødeskov
+Brødland
+Brødløse
+Brødslev
+Brølbæk
+Brøllund
+Brøndbjerg
+Brøndby Strand
+Brøndbyvester
+Brønden
+Brøndens Mark
+Brønderslev
+Brøndholt
+Brøndlund
+Brøndsted
+Brøndstrup
+Brøndstrup Huse
+Brøndum
+Brøndum Pytter
+Brøndumbæk
+Brøndumsager
+Brøns
+Brønsager
+Brønserod
+Brønsholm
+Brørup
+Brøstrup
+Brøttrup
+Brå
+Bråby
+Bråde Overdrev
+Brådebæk
+Brådjord
+Brådshave
+Brårup
+Bråskov
+Bubbel Mark
+Buddum
+Buddum Enge
+Buerup
+Bukbjerg
+Bukgårdsjorden
+Bukholm
+Bukkegård
+Bukkehave
+Bukkerup
+Bukkerup Huse
+Bukkeruplund
+Bukkeskov
+Bukkær
+Buksager
+Buksti
+Bulbjergbakke
+Bulbjergmarken
+Bulbro
+Bulskov
+Bulte
+Bundgård
+Bundsgård
+Bunken
+Buntje-Ballum
+Bur
+Burgårde
+Burkal
+Burlund
+Burskov
+Burskov Huse
+Bursø
+Busemarke
+Busene
+Busgårde
+Busholm
+Busk
+Buske
+Buskehuse
+Buskhede
+Buskhuse
+Buskov
+Busseris
+Butterup
+Bybjerg
+Bygum
+Bygvangen
+Byholm
+Bylderup Mark
+Bylderup-Bov
+Byllerup
+Bymose
+Bynkel
+Byrholt
+Byrsted
+Byrsted Hede
+Byrum
+Byskov
+Bysted
+Bystrup
+Bytofte
+Bæk
+Bæk Kraftmose
+Bæk Nørremark
+Bækager
+Bækbølling
+Bækhuse
+Bække
+Bække Mark
+Bækkegårde
+Bækkehave
+Bækkelund
+Bækken
+Bækkeskov
+Bækkeskov Stræde
+Bækmark
+Bækmarksbro
+Bækmojen
+Bæksgård
+Bækskov
+Bækstrup
+Bæla
+Bælum
+Bæring
+Bærkær
+Bærmose
+Bærs
+Bærsholm
+Bødskov
+Bøffelkobbel
+Bøgager
+Bøgballe
+Bøgebjerg
+Bøged
+Bøgedal
+Bøgede
+Bøgelund
+Bøgelunde
+Bøgeskov
+Bøgeskoven
+Bøgesø
+Bøgholm
+Bøgholt
+Bøghoved
+Bøgild
+Bøgsted Mark
+Bøgvad
+Bøgvadskov
+Bøjden
+Bøjen
+Bøjet
+Bøjholm
+Bøjstrup
+Bøl
+Bølkemose
+Bøllemose
+Bøllemose Huse
+Bølling
+Bøllund
+Bølshavn
+Bølå
+Bønderby
+Bøndergårde
+Bønderskov Huse
+Bønnelandshuse
+Bønnerup
+Bønnerup Strand
+Bønnet
+Bønnet Holme
+Bøns
+Bønstrup
+Bønsvig
+Børglum
+Børglum Kær
+Børglum Sønderhede
+Børkop
+Børsmose
+Børsted
+Børstingerød
+Børum Gårde
+Børupskov
+Bøssehuse
+Bøsseløkke
+Bøsserup
+Bøsthøj
+Bøstofte
+Bøstrup
+Bøstrup Overdrev
+Bøsøre
+Bøtterup
+Bøvl
+Bøvl Mark
+Bøvl Norge
+Bøvlingbjerg
+Bådesgårds Kohave
+Bådsted
+Bådsø
+Bågø By
+Bålsted
+Båndhagen
+Båndrup
+Bårdesø
+Båring
+Båring Mark
+Båringskov
+Båringvad
+Bårse
+Bårse Nakke
+Bårup
+Bårup Mark
+Båslunde
+Båsted Hede
+Båstlund
+Båstrup
+Båstrup Huse
+Centrum
+Charlottenlund
+Christiansdal
+Christiansfeld
+Christianshede
+Cirkelhuse
+Constantia
+Dade
+Dageløkke
+Dagstrup
+Dagsvad
+Dal
+Dalager
+Dalbjerg
 Dalby
-Dals Långed
-Dals Rostock
-Dalsjöfors
-Dalstorp
-Dalum
-Danholn
-Dannemora
-Dannike
-Degeberga
-Degerfors
-Degerhamn
-Deje
-Delary
-Delsbo
-Dingersjö
-Dingle
-Dingtuna
-Diseröd
-Diö
-Djulö kvarn
-Djupedalen
-Djura
-Djurmo
-Djurås
-Djurö
-Docksta
-Domsten
-Donsö
-Dorotea
-Drottningholm
-Drängsmark
-Dunö
-Duved
-Dvärsätt
-Dyvelsten
-Dösjebro
-Ed
-Edane
-Edsbro
-Edsbruk
-Edsbyn
-Edsvalla
-Eggby
-Ekeby
-Ekeby
-Ekeby
-Ekeby
-Ekeby-Almby
-Ekedalen
-Ekenässjön
-Ekerö
-Ekerö Sommarstad
-Eket
-Ekshärad
-Eksjö
-Eksund
-Ekängen
-Eldsberga
-Ellös
-Emmaboda
-Emmaljunga
-Emsfors
-Emtunga
-Eneryda
-Enhagen-Ekbacken
-Enköping
-Ensjön
-Enstaberga
-Enviken
-Enånger
-Eriksmåla
-Eringsboda
-Ersmark
-Ersmark
-Ersnäs
-Eskilsby
-Snugga
-Eskilstuna
-Eslöv
-Essvik
-Evertsberg
-Everöd
-Fagerhult
-Fagersanna
-Fagersta
-Fagerås
-Falerum
-Falkenberg
-Falköping
-Falla
-Falun
-Fanbyn
-Fellingsbro
-Fengersfors
-Figeholm
-Filipstad
-Filsbäck
-Finja
-Finkarby
-Finnerödja
-Finspång
-Finsta
-Fiskebäckskil
-Fisksätra
-Fjugesta
-Fjälkinge
-Fjällbacka
-Fjärdhundra
-Fjärås Kyrkby
-Flen
-Flisby
-Fliseryd
-Floby
-Floda
-Flurkmark
-Flygsfors
-Flyinge
-Flädie
-Fornåsa
-Fors
-Forsbacka
-Forsby
-Forserum
-Forshaga
-Forsheda
-Forssjö
-Forsvik
-Fotö
-Fredrika
-Fredriksberg
-Fredriksdal
-Fridafors
-Fridlevstad
-Friggesund
-Frillesås
-Frinnaryd
-Fristad
-Fritsla
-Frufällan
-Frånö
-Främmestad
-Frändefors
-Fränsta
-Frödinge
-Frösakull
-Frövi
-Funäsdalen
-Furuby
-Furudal
-Furulund
-Furusjö
-Furuvik
-Fyllinge
-Fågelfors
-Fågelmara
-Fågelsta
-Fågelvikshöjden
-Fårbo
-Fårösund
-Färgelanda
-Färila
-Färjestaden
-Färlöv
-Färnäs
-Föllinge
-Förslöv
-Gagnef
-Gamleby
-Gammelgården
-Gammelstad
-Gantofta
-Garpenberg
-Garphyttan
-Geijersholm
-Gemla
-Genarp
-Genevad
-Gessie Villastad
-Gesunda
-Getinge
-Gideå
-Gimmersta
-Gimo
-Gimåt
-Gislaved
-Gistad
-Gladö Kvarn
-Glanshammar
-Glemmingebro
-Glimåkra
-Glommen
-Glommersträsk
-Glumslöv
-Gnarp
-Gnesta
-Gnosjö
-Godegård
-Gonäs
-Gottne
-Grangärde
-Granö
-Graversfors
-Grebbestad
-Grebo
-Grevie
-Grillby
-Grimslöv
-Grimstorp
-Grimsås
-Gripenberg
-Grisslehamn
-Grums
-Grundsund
-Grycksbo
-Grytgöl
-Grythyttan
-Gråbo
-Gräfsnäs
-Grängesberg
-Gränna
-Gränum
-Grästorp
-Grödby
-Gualöv
-Gubbo
-Gudhem
-Gullbrandstorp
-Gullbranna
-Gulleråsen
-Gullringen
-Gullspång
-Gundal
-Högås
-Gunnarskog
-Gunnarstorp
-Gunnebo
-Gunsta
-Gusselby
-Gustavsberg
-Gustavsberg
-Gustavsvik
-Gusum
-Gyttorp
-Gånghester
-Gårdby
-Gårdskär
-Gårdstånga
-Gåvsta
-Gäddede
-Gällivare
-Gällstad
-Gällö
-Gängletorp
-Gärds Köpinge
-Gärsnäs
-Gävle
-Göta
-Göteborg
-Götene
-Götlunda
-Habo
-Hackås
-Haga
-Hagby
-Hagbyhöjden
-Hagfors
-Hagge
-Hagryd-Dala
-Hakkas
-Halla Heberg
-Hallabro
-Hallen
-Hallerna
-Hallsberg
-Hallstahammar
-Hallstavik
-Hallsåsåsen
-Halltorp
-Halmstad
-Halvarsgårdarna
-Hamburgsund
-Hammar
-Hammar
-Hammarby
-Hammarslund
-Hammarstrand
-Hammenhög
-Hammerdal
-Hampetorp
-Hamrångefjärden
-Hanaskog
-Haparanda
-Harads
-Harbo
-Hargshamn
-Harlösa
-Harmånger
-Harplinge
-Hassela
-Hasselfors
-Hasslarp
-Hasslö
-Hasslöv
-Havdhem
-Haverdal
-Heberg
-Heby
-Hedared
+Dalbyneder
+Dalbyneder Kær
+Dalbyover
+Dalbøl
+Dalene
+Daler
+Dalgård
+Dalgårde
+Dall
+Dall Villaby
+Dallerup
+Dalmose
+Dalsgård
+Dalsgårde
+Dalshuse
+Dalshøj
+Dalslunde
+Dalstrup
+Damgren
+Damgård
+Damgårde
+Damhale
+Damhus
+Damhuse
+Damkobbel
+Damkær
+Damledet
+Damme Kobbel
+Dammehave
+Dammen
+Dammergårde
+Damsbro
+Damsgård
+Damsholte
+Damsmark
+Damsten
+Dannemare
+Dannemare Enge
+Dannemare Høje
+Dannerhøj
+Danstrup
+Danstrup Mark
+Darumspang
+Darup
+Daugbjerg
+Daugård
+Daugård Mark
+Daugård Stationsby
+Daugårdstrand
+Davding
+Davgård
+Davgård Mark
+Davinde
+Debel
+Debelmose
+Degnbol
+Degnbøl
+Degnehuse
+Degnsgårde
+Dejbjerg
+Dejgård
+Dejret
+Dejrup
+Delhoved
+Dellerup
+Demstrup
+Demstrup Hede
+Demstrup Huse
+Demstrup Vase
+Dianalund
+Diernæs
+Diernæs Mark
+Diget
+Dilbjerg
+Dimen
+Dinestrup
+Ditlevgårde
+Ditlevshøj
+Djeld
+Djørup
+Dokkedal
+Dolebanke
+Dollerup
+Dommerborg
+Donbæk
+Dong
+Dongs Højrup
+Dons
+Donse
+Donskov
+Donskær
+Donslund
+Donslund Mark
+Dorf
+Dorf Enge
+Dorf Kirkeby
+Dorfgade
+Dover
+Dover Mark
+Doverodde
+Dragerup
+Dragshuse
+Dragstrup
+Dragstrup Enghave
+Dragør
+Drammelstrup
+Dramstrup
+Drantum
+Drastrup
+Drastrup Kær
+Draved
+Dravshave
+Drejager
+Drejby
+Drejens
+Drejerbyen
+Drejergårde
+Drejø By
+Drenderup
+Drenderupmark
+Drenderupskov
+Drengsted
+Dreslette
+Dridevad
+Driften
+Drigstrup
+Drisdal
+Drongstrup
+Dronninglund
+Dronninglund Enge
+Dronningmølle
+Drostrup
+Drostrup Gårde
+Drostrupkrog
+Druestrup
+Druestrup Overdrev
+Drusebjerg
+Dræby
+Dræby Fed
+Drøjsbjerg
+Drøsselbjerg
+Drøstrup
+Dubgård
+Dubjerg
+Duborg
+Duebjerg
+Duegård
+Dueholm
+Dueholm Mark
+Duelund
+Dukkerup
+Dumphuse
+Dunkær
+Dunkær Mark
+Durup
+Durup Gårde
+Duruplund
+Dvergetved
+Dybbøl
+Dybbøl Gårde
+Dybbøl Mark
+Dybbøløsten
+Dybdal
+Dybdal Huse
+Dybe
+Dybmose
+Dybskrog
+Dybvad
+Dybvad Gårde
+Dybvadbro
+Dybvighoved
+Dyndeby
+Dynden
+Dyndeng
+Dyndet
+Dyngby
+Dyngby Lund
+Dynt
+Dynt Mark
+Dynt Strand
+Dyrby
+Dyrebjerg
+Dyreborg
+Dyreby
+Dyrehave
+Dyrehave Huse
+Dyreholm
+Dyreng
+Dyrhave
+Dyrheden
+Dyrhus
+Dyrhøje
+Dyringhave
+Dyrlev
+Dyrvig
+Dyssehuse
+Dysselodden
+Dysted
+Dystrup
+Dystrupkær
+Dyvelsrække
+Dærup
+Dærup Grave
+Dævidsrød
+Døes
+Døjringe
+Døjringe Huse
+Dølbyvad
+Døllefjelde
+Døllefjelde-Langet
+Dømmestrup
+Dømmestrup Kohave
+Dønnevælde
+Dørken
+Dørken Vestermark
+Dørslund
+Dørup
+Døssing
+Døstrup
+Døstrup Søndermark
+Døvling
+Døvredal
+Døvregårde
+Dårbak Mark
+Ebbeløkke
+Ebberup
+Ebberup Banker
+Ebberup Mosehuse
+Ebbeskov
+Ebdrup
+Ebeltoft
+Ebstrup
+Edderup
+Edelgave
+Edelgave Huse
+Edslev
+Edslev Knude
+Eg
+Egeballe
+Egebjerg
+Egebjerg Bakker
+Egebjerg Hede
+Egebjerg Kær
+Egebjerg Tvede
+Egeby
+Egebæk
+Egedal
+Egehoved
+Egelev
+Egelund
+Egemose
+Egemosedam
+Egen Mølle
+Egens
+Egense
+Egense Fælled
+Egensemark
+Egeris
+Egernsund
+Egerup
+Egeskov
+Eget
+Eggebæk
+Eggebæk Mark
+Eggeslevlille
+Eggeslevmagle
+Egholm
+Egholm By
+Egholt
+Egknud
+Egneborg Løkker
+Egsgård
+Egsmarken
+Egtved
+Egtved Skov
+Egum
+Egypten
+Egøje
+Ejby
+Ejby Hestehave
+Ejbykrog
+Ejdom
+Ejdrup
+Ejer
+Ejerslev
+Ejerslev Vang
+Ejersted
+Ejlby
+Ejlby Lunde
+Ejlinge
+Ejlskov
+Ejlstrup
+Ejlstrup Huse
+Ejsing
+Ejsingholm
+Ejskær
+Ejstrup
+Ejstrup Mark
+Ejstrup Skovsteder
+Ejstrupholm
+Ejås
+Elbrønd
+Elbæk
+Eldrup
+Elev
+Elholt
+Elkenøre
+Elkær
+Elkær Gårde
+Elkær Mark
+Elkærdam
+Elleby
+Elleby Gårde
+Ellebæk
+Ellehus
+Ellehus Østermark
+Ellekær
+Ellemose
+Ellemose Have
+Ellerup
+Ellerup Kohave
+Ellerød
+Ellesgård
+Elleskov
+Elleskovhuse
+Ellested
+Ellesø
+Ellidsbøl
+Ellidshøj
+Ellidshøj Vesterhede
+Ellidshøj Østerkær
+Elling
+Elling Hede
+Ellinge
+Ellinge Huse
+Ellinge Mark
+Ellum
+Ellum Hede
+Ellum Mark
+Elløv
+Elmelund
+Elmelunde Kohave
+Elmose
+Elsborg
+Elsegårde
+Elsig
+Elsmark
+Elsted
+Elstrup
+Elstrupskov
+Elsø
+Eltang
+Eltang Kirkeby
+Elved
+Elverod
+Elvid
+Em
+Emb
+Emborg
+Emborg Vestermark
+Emmedsbo
+Emmelev
+Emmerbølle
+Emmerlev
+Emmerske Bjerg
+Emtekær
+Emtkær
+Endegårde
+Endelt
+Enderup
+Enderup Mark
+Enderupskov
+Enderupskov Østermark
+Endeslev
+Endeslev Hestehave
+Endeslev Høstmark
+Endeslev Overdrev
+Endrup
+Enebjerg
+Enemark
+Enemærket
+Engager
+Engbakkerne
+Engbjerg
+Engbjerg Huse
+Engebæk
+Engedal
+Engegård
+Engegårde
+Engeldrup
+Engelsholm Mark
+Engelst
+Engelstofte
+Engelstrup
+Engelund
+Engesgård
+Engestofte
+Engesvang
+Engesvang Huse
+Engetved
+Engkrog
+Englandshuse
+Englerup
+Engmose
+Engsig
+Engskov
+Engum
+Engvang
+Enkelund
+Ennebølle
+Enner
+Enodden
+Enslev
+Enslev Bjerge
+Enslev Mose
+Enslev Sønderhuse
+Erdrup
+Erdrup Enghave
+Eriknauer
+Eriknauer Skovhuse
+Eriksholm Mark
+Erikstrup
+Errested
+Errindlev
+Errindlev Fæland
+Errindlev Havn
+Erslev
+Ersted
+Ertebjerg
+Ertebjerghav
+Ertebjergryde
+Ertebjergskov
+Ertebølle
+Esbjerg
+Esbogårde
+Esby
+Esbønderup
+Esholte
+Eske
+Eskebakke
+Eskebjerg
+Eskekrogen
+Eskelund
+Eskelundkær
+Eskemose
+Eskerod
+Eskildborg
+Eskilstrup
+Eskilstrup Overdrev
+Eskilstrup Skovhave
+Eskær
+Eskær Hede
+Eskør
+Espe
+Espe Højlodder
+Espelund
+Esrum
+Essendrup
+Essig
+Estre Huse
+Estrup
+Estrup Mark
+Estrupkær
+Estvad
+Estvadgård Mark
+Ettehave
+Ettehave Rode
+Etterup
+Ettrup
+Even Huse
+Everdrup
+Fabjerg
+Faddersbøl
+Fagsted
+Fakkegrav
+Fakkemose
+Faksemose
+Faksinge
+Faldborg
+Faldehuse
+Faldsled
+Faldt
+Falkerslev
+Falkær Gårde
+Falle
+Fallesgårde
+Falling
+Falling Skov
+Falsig
+Falslev
+Falslev Hede
+Falslev Mark
+Fandrup
+Fangel
+Fangel Hede
+Fangel Torp
+Fangel Vestermark
+Fannerup
+Fannerup Mark
+Farbjerg
+Farendløse
+Farre
+Farre Hede
+Farre Mark
+Farris
+Farsbølle
+Farsdal
+Farstrup
+Farstrup Hede
+Farsø
+Farum
+Farum Lillevang
+Farø
+Fasbro
+Fastemose
+Faster
+Fasterholt
+Fasterkær
+Fasterlund
+Fastrup
+Faurholt
+Faurholt Huse
+Fausing
+Favervrå
+Favrbjerg
+Favrbo
+Favrby
+Favrholm
+Favrholt
+Favrholt Hede
+Favrlund
+Favrskov
+Favrskov Bjerge
+Favrskov Mark
+Favskær
+Favstrup
+Faxe
+Faxe Ladeplads
+Febbersted
+Feggesund Nord
+Feggesund Syd
+Fejenseng
+Fejerskov Huse
+Feldballe
+Feldborg
+Feldborg Hede
+Feldbæk
+Felde
+Felden
+Feldmose
+Feldsgårde
+Feldsing
+Feldum
+Felsted
+Felsted Mark
+Felstedskov
+Felt
+Feltlund
+Femhøj
+Femhøjsande
+Femtning
+Fensholt
+Fensholt Mark
+Fensmark
+Fensten
+Ferle
+Ferring
+Ferritslev
+Ferslev
+Ferslev Mark
+Ferup
+Ferup Nyvang
+Ferup Storedam
+Fikintevænge
+Fil
+Filholm
+Fillerup
+Filshuse
+Filskov
+Filskov Søndermark
+Filsø
+Filsø Ø
+Finderup
+Finderup Hede
+Finderup Nørremark
+Findinge
+Firehuse
+Firgårde
+Firhuse
+Firhøj
+Firhøje
+Fiskbæk
+Fiskbækskov
+Fiskebæk
+Fiskerholt
+Fiskerhuse
+Fiskholm
+Fisknæs
+Fitting
+Fittingkrat
+Fjallerslev
+Fjaltring
+Fjand Gårde
+Fjand Huse
+Fjederholt
+Fjederløkken
+Fjelby
+Fjelde
+Fjellenstrup
+Fjellerad
+Fjellerup
+Fjellerup Kær
+Fjelsted
+Fjelstedskov
+Fjelstervang
+Fjelstrup
+Fjelstruprød
+Fjelsø
+Fjemb Hede
+Fjendstrup
+Fjenneslev
+Fjenneslevmagle
+Fjerbæk
+Fjerritslev
+Fjersted
+Fjersted Nørremark
+Fjerupgårde
+Fjællebro
+Fjællebro Huse
+Fjællebroen
+Fladbjerg
+Fladbro Hede
+Flade
+Fladholt
+Fladholte
+Fladkær
+Fladmose
+Fladsbjerg
+Fladskær
+Fladsten
+Fladstrand
+Fladstrup
+Fladså Løjed
+Flakkebjerg
+Flakkebjerg Stationsby
+Flamsted
+Flamsted Hede
+Flamsted Mark
+Flansmose
+Flarup
+Flarup Hede
+Flaskehuse
+Flauenskjold
+Fledskov
+Flegum
+Flejsborg
+Flejsborg-Svenstrup
+Flemløse
+Flemløse Grave
+Flemming
+Flemstofte
+Fleng
+Fleninge
+Flensted
+Flintebjerg
+Flintemose
+Flinterupkrogen
+Flintinge
+Flodmålene
+Floes
+Floes Skov
+Flougårde
+Floutrup
+Flovlev
+Flovt
+Fluebjerg
+Fly
+Fly Opmark
+Flynder Gårde
+Flytkær
+Flyvbjerg
+Flædebæk
+Flæskedal
+Flø
+Flødal
+Flødstrup
+Fløe
+Fløj
+Fløjbjerg
+Fløjgærde
+Fløjgårde
+Fløjstrup
+Fløjstrup Kær
+Fløjterup
+Flåris
+Flårup
+Flårupmelle
+Fodby
+Fodby Old
+Fodslette
+Foersum
+Foersumho
+Fogager
+Fogderup
+Fogense
+Fogstrup
+Folby
+Foldager
+Foldbjerg
+Folding
+Folding Gårde
+Foldingbro
+Foldsted
+Fole
+Follerup
+Fonager
+Fonnesbæk
+Fonvad
+Forager
+Forballum
+Forlev
+Forlev Mærsk
+Forlunde
+Formyre
+Forneby
+Fornetofte
+Forsinge
+Fortunen
+Forum
+Forumlund
+Foulum
+Foulum Hede
+Fousing
+Fousing Gårde
+Fovlum
+Fovslet
+Fovslet Mark
+Fragdrup
+Fragtrup
+Framlev
+Frammerslev
+Frankerup
+Frankfri
+Frankrig
+Fraugde
+Fraugde-Kærby
+Frausing
+Fredbjerg
+Fredebo Overdrev
+Fredensborg
+Fredensdal
+Fredericia
+Frederiks
+Frederiksberg
+Frederiksdal
+Frederiksgård Mark
+Frederikshavn
+Frederikshøj
+Frederikshøj Mark
+Frederikshåb
+Frederikslund
+Frederiksnåde
+Frederikssund
+Frederiksværk
+Fredmose
+Fredsgårde
+Fredskilde
+Fredskoven
+Fredsted
+Fredsø
+Fredsø Gårde
+Fredtofte
+Freerslev
+Freerslev Mose
+Freersvang
+Fregerslev
+Frejlev
+Frejlev Enghave
+Frejlev Mark
+Frejlev Østermark
+Frejstrup
+Frellesvig
+Frelling
+Freltofte
+Fremmelev
+Frenderup
+Frendrup Gårde
+Frendstrup
+Frendved
+Frestrup
+Frestrup Mark
+Frifelt
+Frigård
+Friheden
+Frijsendal Mark
+Frisbæk
+Frisdal
+Frisenvold
+Frisgårde
+Frishuse
+Friskmark
+Friskær
+Frislund
+Frismose
+Fristrup
+Frisvad
+Froense Huse
+Frostrup
+Fruedal
+Fruegårde
+Fruelund
+Fruenshave
+Fruergård Mark
+Fruering
+Fruerlund
+Fruerløkke
+Fruerskov
+Frydenborg
+Frydkær
+Fræer
+Frøbjerg
+Frøbjerg Vænge
+Frøkær
+Frølund
+Frørup
+Frøruprød
+Frøsang
+Frøsig
+Frøslev
+Frøslev Mark
+Frøslevvang
+Frøstrup
+Frøstrup Hede
+Fugdal
+Fuglbjerg
+Fuglbæk
+Fuglebjerg
+Fuglebjerglund
+Fuglebæk
+Fuglebækshuse
+Fuglesangen
+Fugleå
+Fuglsang
+Fuglsbølle
+Fuglsbølle Sønderskov
+Fuglse
+Fuglse Bagskov
+Fuglsig
+Fuglsig Mark
+Fuglskær
+Fuglslev
+Fuglsø
+Fuglsø Mark
+Fulby
+Fulby Hestehave
+Fulden
+Funder Kirkeby
+Funder Nørhede
+Fusager
+Futting
+Futtrup
+Fyel
+Fyllested
+Fynshav
+Fynslund
+Fyrkilde
+Fyrskov
+Fæbroen
+Fæby
+Fæbæk
+Fæland
+Fælled
+Fælleden
+Fælledgård
+Fællesmark
+Fæsted
+Fæsted Hede
+Fæsted Toft
+Fæstibakke
+Føllenslev
+Føllenslev Englodder
+Føltved
+Føns
+Føns Strand
+Fønsskov
+Førby
+Førslev
+Førstballe
+Føvling
+Fåborg
+Faaborg
+Fårbjerg
+Fårborg
+Fårbæk
+Fårdal
+Fårdrup
+Fåre
+Fåreby
+Fårefælled
+Fårevadskrog
+Fårevejle Kirkeby
+Fårevejle Stationsby
+Fårhus
+Fårkrog
+Fårkrog Mark
+Fårtoft
+Fårup
+Fårup Mark
+Fårvang
+Gabøl
+Gadbjerg
+Gade
+Gadeby
+Gadegård
+Gadegårde
+Gadehuse
+Gadehusene
+Gadeskov
+Gadevang
+Gadholt
+Gadsbølle
+Gadstrup
+Galdbjerg
+Galdbjerg Kohave
+Galgebakke
+Galgebjerg
+Galgehøj
+Galgemark
+Galgevang
+Galgevangen
+Galkær
+Gallehus
+Galsgård
+Galsted
+Galsted Mark
+Galstho
+Galtebjerg
+Galten
+Galtho
+Galtlund
+Galtrup
+Gamborg
+Gamby
+Gamlebro
+Gamlevælde
+Gammel Agersted
+Gammel Bedsted
+Gammel Dejbjerg
+Gammel Gellerup
+Gammel Hald
+Gammel Hanning
+Gammel Have
+Gammel Hjortkær
+Gammel Hodsager
+Gammel Hvam
+Gammel Højen
+Gammel Kalvehave
+Gammel Kirkhede
+Gammel Korup
+Gammel Ladegård
+Gammel Løgten
+Gammel Nyby
+Gammel Nørager
+Gammel Orehoved
+Gammel Pjedsted
+Gammel Pøl
+Gammel Rye
+Gammel Råsted
+Gammel Skovbøl
+Gammel Skørping
+Gammel Stenderup
+Gammel Vesløs
+Gammel Ørum
+Gammel Østerby
+Gammel Ålbo
+Gammel Åsted
+Gammelager
+Gammelby
+Gammelby Overdrev
+Gammeldige
+Gammeleng
+Gammelgab
+Gammelgang
+Gammelgård
+Gammelgårde
+Gammelhede
+Gammelhuse
+Gammeljord
+Gammelkirke
+Gammelmark
+Gammelmose
+Gammelskov
+Gammelskov Mark
+Gammelsogn
+Gammelsole
+Gammelstrup
+Gammeltoft
+Gammelværk
+Gammerød
+Gamskær
+Gamst
+Gamst Vestermark
+Gamtofte
+Ganderup
+Ganderup Mark
+Gandrup
+Ganer
+Ganer Kær
+Gangesbro
+Gangsted
+Ganløse
+Ganløse Bund
+Ganløse Mørke
+Gannebro
+Gantrup
+Gantrup Mark
+Garbølle
+Garret Huse
+Gasekær Huse
+Gasseløkken
+Gassum
+Gastrupgårde
+Gatten
+Gauerslund
+Gauerslund Skov
+Gavlhuse
+Gavnby
+Geddal
+Gedebjerg
+Gedehave
+Gederød
+Gedesby
+Gedesskov Huse
+Gedevase
+Gedholm
+Geding
+Gedsbjerg
+Gedser
+Gedser Odde
+Gedsted
+Gedved
+Geelsskov
+Geestrup
+Geestrup Vestermark
+Geestruplund
+Gejl
+Gejlager
+Gejlbjerg
+Gejlå
+Gejlå Mark
+Gejsing
+Gelballe
+Gelballeskov
+Gellerup
+Gelleruplund
+Gellesten
+Gelsbro
+Gelsted
+Gelsted Mose
+Gelstedskov
+Gelstoft
+Gelstrup
+Geltingskov
+Geltofte
+Genner
+Gentofte
+Georgsminde
+Gerding
+Gerding Huse
+Gerdrup
+Gerdrup Ravnemark
+Gerlev
+Gerning
+Gerrebæk
+Gersholt
+Gershøj
+Gerskov
+Gersø Huse
+Geraa
+Geraa Enge
+Gesager
+Gesing Mark
+Gesinge
+Gestelev
+Gestelev Lunde
+Gesten
+Gestenkær
+Gestlunde
+Gettrup
+Gettrup Mark
+Gevninge
+Gevninge Old
+Gevninge Overdrev
+Gevnø Mark
+Gierslev
+Giesegård
+Gilbjerg
+Gildbro
+Gildesbo
+Gildhøj
+Gilleleje
+Gilsager
+Gimlinge
+Gimlinge Enghave
+Gimming
+Gindeskov
+Gingsholm
+Ginnerup
+Gishale
+Gislev
+Gislev Holme
+Gislinge
+Gislum
+Gistrup
+Give
+Giver
+Givskud
+Givskud Mark
+Givskudlund
+Gjaldbæk
+Gjandrup
+Gjellerup-Lund
+Gjelstrup
+Gjerlev
+Gjerlev Østermark
+Gjern
+Gjern Vejle
+Gjern Vestermark
+Gjerrild
+Gjersbøl
+Gjesing
+Gjessø
+Gjurup
+Gjøl
+Gjøl Mark
+Gladsaxe
+Glamsbjerg
+Glappe
+Glarbjerg
+Glargårde
+Glattrup
+Glatved
+Glatved Strand
+Glavendrup
+Glejbjerg
+Glenstrup
+Glerup
+Glerupvad
+Glesborg
+Glesborg Kær
+Glibstrup
+Glibstrup Gårde
+Glim
+Glimsholt
+Glindvad Hede
+Glistrup
+Glomstrup Mark
+Gloslunde
+Gloslunde Hestehave
+Glostrup
+Glostrup Overdrev
+Glud
+Gluemose
+Glukse
+Glumsø
+Glynge Hede
+Glyngvad
+Glyngøre
+Glæde
+Glænø
+Godrum
+Godsted
+Godthåb
+Goldbæk
+Gosmer
+Gottenborg
+Graderup
+Gram
+Grammegårde
+Gramrode
+Gramstrup
+Gramtange
+Gransgård
+Granslev
+Granslev Hede
+Grarup
+Grasten
+Grathe
+Grauballe
+Grauballe Østermark
+Graum
+Graverhuse
+Gravlev
+Gravlev Hede
+Gravlund
+Gravsholt
+Gravvænge
+Gredsted
+Gredstedbro
+Green
+Grejs
+Grejsholthus
+Gremmeløkke
+Gren
+Grene
+Grensten
+Grenaa
+Greve
+Greve Strand
+Grevelshøj
+Grevelund
+Grevinge
+Gribstrup
+Grimlund
+Grimmeshave
+Grimsbjerg
+Grimstrup
+Grinderslev
+Grindløse
+Grindsmose
+Grindsnap
+Grindsted
+Grindsted Mark
+Grippenfelt
+Grisby
+Grisbæk
+Grishøjgård
+Grobe
+Groest
+Grotten
+Grove
+Grumløse
+Grumløse Hestehave
+Grumløse Overdrev
+Grumstedbjerg
+Grumstrup
+Grund
+Grunderup
+Grundfør
+Grundfør Mark
+Grurup
+Grusmose
+Grydbæk
+Grydehøj
+Gryderup
+Grydholt
+Grydhøj
+Grydstrup
+Grydvad Huse
+Gryet
+Grynborg
+Grynderup
+Grædstrup
+Grækerhuse
+Grænge
+Grænge Skovby
+Grærup
+Græsbjerg
+Græsdal
+Græse
+Græse Bakkeby
+Græshave
+Græsmark
+Græsrimmen
+Græsted
+Græsted Overdrev
+Græsted Præstemark
+Græsvænge
+Grættrup
+Grødby
+Grødde Mark
+Grødebøl
+Grøderis
+Grøfte
+Grøftehave
+Grøftestykkerne
+Grølsted
+Grølsted Mark
+Grønbjerg
+Grønborg
+Grønbæk
+Grønbæk Huse
+Grøndal
+Grøndam
+Grønderup
+Grønfeld
+Grønfeld Mark
+Grønfelt
+Grøngrøft
+Grøngård Mark
+Grønhede
+Grønholm
+Grønholme
+Grønholt
+Grønholt Overdrev
+Grønhøj
+Grønkær
+Grønland
+Grønlandsgårde
+Grønlandshuse
+Grønløkke
+Grønmark
+Grønmose
+Grønnebæk
+Grønnebæk Mark
+Grønnegade
+Grønnehave
+Grønnehuse
+Grønneløkke
+Grønnemose
+Grønnerup
+Grønneskov
+Grønnestrand
+Grønning
+Grønningehuse
+Grønninghoved
+Grønninghoved Søndermark
+Grønnæs
+Grønskær
+Grønstrædet
+Grønsund
+Grøntoft
+Grøntved
+Grøttrup
+Grågårde
+Gråhede
+Gråkær
+Gråkær Bakke
+Gråmose
+Gråmose Hede
+Grårup
+Gråsand
+Gråskegårde
+Gråsten
+Gudbjerg
+Gudbjerglund
+Gudbjergskov
+Guddal
+Guderup
+Gudhjem
+Gudmandstrup
+Gudme
+Gudme Kohave
+Gudmindrup
+Gudnæs
+Gudnæs Strand
+Gudsgave
+Gudskov
+Gudsø
+Gudum
+Gudum Kær
+Gudumholm
+Gudumkær
+Gudumlund
+Gulager
+Guldager
+Guldager Hede
+Guldager Mark
+Guldager Stationsby 
+Guldbjerg
+Guldborg
+Guldbæk
+Guldbæk Syd
+Guldforhoved
+Guleløkke
+Gullerup
+Gullestrup
+Gullev
+Gulstav
+Gultentorp
+Gultved
+Gummersmarke
+Gummerød
+Gummesmark
+Gumpehave
+Gundelund
+Gunderslevlille
+Gundersted
+Gundersø Gårde
+Gunderup
+Gunderup Hede
+Gunderød
+Gundesbøl
+Gundestrup
+Gundestrup Mark
+Gundslev
+Gundslevmagle
+Gundstrup
+Gundsølille
+Gundsømagle
+Gundtoft
+Gungerne
+Gunhildsbro
+Gunnestrup
+Gurede
+Gurre
+Gurre Overdrev
+Gurreby
+Gusegård
+Gustenborg
+Gydehuse
+Gydeje
+Gydkær
+Gyldenbjerg
+Gyldendal
+Gyldenmose
+Gyldensteen
+Gylling
+Gyllingskov
+Gyngstrup
+Gyris
+Gyrstinge
+Gyrstinge Præstemark
+Gyrstinge Skovhuse
+Gyrup
+Gyrup Mark
+Gærum
+Gærup
+Gærup Mark
+Gærupør
+Gødding Huse
+Gøderup
+Gødsbøl
+Gødsbøl Mark
+Gødstrup
+Gødsvang
+Gøggård
+Gølstrup Hede
+Gønderup
+Gøngeherred
+Gøngehuse
+Gørding
+Gørdingbjerg
+Gørklint
+Gørlev
+Gørlev Mose
+Gørløse
+Gørslev
+Gørslev Overdrev
+Gørup
+Gøttrup
+Gøttrup Have
+Gøttrup Hede
+Gøttrup Holme
+Gøttrup Nørmark
+Gøttrup Rimme
+Gøttrup Sten
+Gøttrup Strand
+Gåbense
+Gånsager
+Gårde
+Gårdeby
+Gårdeby Mark
+Gårdkrog
+Gårdsholt
+Gårdstedgård
+Gårdstofte
+Gårdsvig
+Gårestrup
+Gårsdal
+Gårslev
+Gåsblok
+Gåsdal
+Gåsemosedam
+Gåser
+Gåser Kær
+Gåsetofte
+Gåskær
+Hadbjerg
+Haderis
+Haderslev
+Haderup
+Hadrup
+Hadsten
+Hadsund
+Hadsund Syd
+Haelby
+Hafdrup
+Hage
+Hagelkær
+Hagelskær
+Hagendrup
+Hagenør
+Hagerup
+Hagerupsø
+Hagested
+Hagested Huse
+Hajslund
+Hajstrup
+Hajstrup Mark
+Hakkemose
+Halby
+Hald
+Hald Holte
+Hald Krat
+Hald Søndermark
+Hald Tostrup
+Haldager
+Haldager Gårde
+Haldager Mark
+Haldagerlille
+Haldagermagle
+Haldbjerg
+Haldrup
+Haldrup Gårde
+Haldrup Overmark
+Haldrup Strand
+Haldum
+Hale
+Halegårde
+Halk
+Halkevad
+Halkær
+Halkær Huse
+Halkær Mark
+Halle
+Halleby Hale
+Halleby Ore
+Hallegård
+Hallelev
+Hallelev Huse
+Hallendrup
+Hallenslev
+Hallenslev Gårde
+Halling
+Halling Mark
+Hallingskov Huse
+Hallingsmark
+Hallum
+Hallumvad
+Hallund
+Hallund Hede
+Hallund Kær
+Hallundbjerg
+Hallundbæk
+Hals
+Halshuse
+Halskov
+Halskov Gårde
+Halsmose
+Halsted
+Halsted Hede
+Halsted Skovby
+Halsted Tvede
+Haltrup
+Halved
+Halvrebene
+Halvrimmen
+Hamborg
+Hamborg Bakke
+Hammel
+Hammelev
+Hammelmose
+Hammelsvang
+Hammer
+Hammer Alminde
+Hammer Hestehave
+Hammer Sandhuse
+Hammer Tvede
+Hammeren
+Hammerholt
+Hammersholt
+Hammershus
+Hammershøj
+Hammersmølle
+Hammer-Torup
+Hampeland
+Hampen
+Hampenbjerg
+Handbjerg
+Handermelle
+Handest
+Handrup
+Hanemose
+Hanerup
+Hannebjerg Huse
+Hannenov
+Hannerup
+Hannesborg
+Hannevang
+Hanning
+Hanstholm
+Haraldskær Fabrik
+Haraldsted
+Haraldsted Skovhuse
+Harbogårde
+Harboøre
+Hardeshøj
+Harekær
+Hareskovby
+Harken
+Harkes
+Harkær
+Harlev
+Harlevholm
+Harløse
+Harnbjerg
+Harndrup
+Harndrup Holme
+Harndrup Lillemark
+Harpelunde
+Harpsø
+Harre
+Harreby
+Harres
+Harres Hede
+Harres Mark
+Harreshøj
+Harreskov
+Harrested
+Harrestrup
+Harresø
+Harresøholm
+Harridslev
+Harrild
+Harring
+Harring Hede
+Harritslev
+Harsmark
+Harvig
+Haseje
+Hasle
+Haslev
+Haslevgårde
+Haslund
+Haslund Kær
+Hasmark
+Hasmark Bomose
+Hasselholt
+Hasselø Plantage
+Hassig
+Hassing
+Hassing Huse
+Hastrup
+Hattenæs
+Hatting
+Hauge
+Haugstrup
+Haurbak
+Haurum
+Haurum Mark
+Havbro
+Havbyrd
+Havbækhuse
+Havbølle
+Havbølle Mose
+Havdrup
+Have Borup
+Haved
+Havehuse
+Haven
+Haverslev
+Haverslev Vang
+Havervad
+Havgård
+Havgårde
+Havhuse
+Havland
+Havlund
+Havløkke
+Havmølle
+Havnbjergskov
+Havndal
+Havndrup
+Havneby
+Havnebyen
+Havnelev-Boestofte
+Havnemark
+Havnskov
+Havnstrup
+Havnsø
+Havrebjerg
+Havrebjerg Huse
+Havredal
+Havreholm
+Havrekobbel
+Havremark
+Havrevænge
+Havris
+Havrum
+Havsager
+Havsted
+Havsted Mark
+Heager
 Hede
-Hedekas
-Hedemora
-Hedenäset
-Hedeskoga
-Hedesunda
-Hedvigsberg
-Helsingborg
-Hemavan/Bierke
-Hemmesta
-Hemmingsmark
-Hemse
-Henån
-Herrestad
-Herrljunga
-Herräng
-Herstadberg
-Hestra
-Hestra
-Hillared
-Hillerstorp
-Himle
-Hindås
-Hishult
-Hissjön
-Hittarp
-Hjo
-Hjorted
-Hjortkvarn
-Hjortsberga
-Hjuvik
-Hjälm
-Hjälmared
-Hjälmared
-Hjältevad
-Hjärnarp
-Hjärsås
-Hjärtum
-Hjärup
-Hofors
-Hofterup
-Hogstad
-Hogstorp
-Hok
+Hede Enge
+Hedeager
+Hedebobakker
+Hedeboerne
+Hedebogårde
+Hedeboryde
+Hedeby
+Hededamshuse
+Hedegård
+Hedegårde
+Hedegårdsmark
+Hedehuse
+Hedehusene
+Hedekrog
+Hedelund
+Hedemark
+Hedemarken
+Hedemose
+Heden
+Hedensted
+Hedenstedskov
+Hedeskov
+Hedestederne
+Hedetoft
+Heds
+Heds Mark
+Hee
+Hegedal
+Hegelund
+Hegnede
+Hegnetsmølle
+Hegngårde
+Hegning
+Hejbøl
+Hejede Gårde
+Hejede Huse
+Hejls
+Hejls Skovhuse
+Hejlskov
+Hejlsminde
+Hejnerup
+Hejninge
+Hejnstrup
+Hejnsvig
+Hejrede
+Hejring
+Hejringe
+Hejringe Huse
+Hejrskov
+Hejselholt
+Hejseltlund
+Hekkenfeld
+Helberskov
+Helberskov Udflyttere
+Heldager
+Heldum Kirkeby
+Helle
+Hellebæk
+Helledi
+Hellegårde
+Hellehøj
+Hellemose
+Hellerup
+Hellerød
+Helleskov
+Hellested
+Hellested Overdrev
+Hellested Præstemark
+Hellestrup
+Hellesø
+Hellet
+Helletofte
+Hellev
+Hellevad
+Hellevad Mark
+Helleved
+Hellighøj
+Helligkilde
+Helligpeder
+Helligsø
+Hellinge
+Hellum
+Hellum Nørreside
+Hellumtved
+Helmadkrog
+Helmosedal
+Helnæs By
+Helsinge
+Helsingør
+Helsned
+Helsned Møllevænge
+Helsted Huse
+Helstrup
+Heltborg
+Heltoft
+Helved
+Helvigmagle
+Hem
+Hemdrup
+Hemme
+Hemmed
+Hemmeshøj
+Hemmestrup
+Hemmet
+Hemmingslodder
+Hemmingstrup
+Hemstok
+Henne Stationsby
+Hennebjerg
+Hennekesdam
+Hennetved
+Henninge
+Henningsgårde
+Herborg
+Herbæk Huse
+Herfølge Kohave
+Herfølge Overdrev
+Herlev
+Herluflille
+Herlufmagle
+Hermansgårde
+Herning
+Herredsbjerg
+Herredsfogedhuse
+Herredstoft
+Herrestrup
+Herringe
+Herringløse
+Herritslev
+Herrup
+Herskind
+Herskind Hede
+Herslev
+Herslevmark
+Hersnap
+Hersom
+Hesbjerg
+Hesle
+Hesnæs
+Hessel
+Hessel Skovhuse
+Hesselager
+Hesselballe
+Hesselballe Kær
+Hesselballe Østermark
+Hesselbjerg
+Hesselbjerge
+Hesselho
+Hesselholt
+Hesselhuse
+Hessellund
+Hesselmed
+Hesselrød
+Hesselskov
+Hesselvad
+Hessum
+Hestbjerg
+Hestbæk
+Hestehave
+Hestehaven
+Hestetangshuse
+Hestholm
+Hestholmen
+Hestkær
+Hestlund
+Hestofte
+Hestvang
+Hetofte
+Hevring
+Hevring Kær
+Hevring Mølle
+Hevringholm
+Hevringholm Strand
+Hillerslev
+Hillerup
+Hillerup Mark
+Hillerød
+Hillested
+Hillestolpe
+Hillestrup
+Himlingøje
+Himmark Mark
+Himmelstrup
+Himmerig
+Himmeriggårde
+Hindballe
+Hindbjerg
+Hindborg
+Hinderup
+Hindevad
+Hinding
+Hindsgavlsbro
+Hindsig
+Hindskov
+Hinge
+Hinge Søfald
+Hingeballe
+Hinkbøl
+Hinnedrup
+Hinnerup
+Hinnum
+Hirtshals
+Hjabelund
+Hjadstrup
+Hjallerup
+Hjarbæk
+Hjardemål
+Hjardemål Klit
+Hjarnø By
+Hjartbro
+Hjarup
+Hjaruplund
+Hjedding
+Hjeds
+Hjeds Østermark
+Hjedsbæk
+Hjelm
+Hjelm Kobbel
+Hjelmdrup
+Hjelmerup
+Hjelmholt
+Hjelmkær
+Hjelmshoved
+Hjelmsted
+Hjelmsølille
+Hjelmsølille Bakker
+Hjelmsømagle
+Hjembæk
+Hjembæk Frihed
+Hjerm
+Hjerm Gårde
+Hjerm Hede
+Hjermind
+Hjermitslevgårds Mark
+Hjerndrup
+Hjerpsted
+Hjerritsdal
+Hjertebjerg
+Hjerting
+Hjertingskov
+Hjolderup
+Hjoptarp
+Hjordkær
+Hjortdal
+Hjorte
+Hjortebjerg
+Hjortebjerg Huse
+Hjortekær
+Hjortelund
+Hjorthede
+Hjorthede Hede
+Hjortholm
+Hjortholmshuse
+Hjorthøj Gårde
+Hjortkær
+Hjortlund
+Hjortmose
+Hjortrimmen
+Hjortsballe
+Hjortshøj
+Hjortspring Kobbel
+Hjortsvang
+Hjortsvang Fælled
+Hjortsvang Kær
+Hjortsvang Vestermark
+Hjortvad
+Hjulby
+Hjulebæk
+Hjulsager
+Hjærup
+Hjærupgyde
+Hjøllund
+Hjørring
+Ho
+Hobro
+Hoby
+Hobyskov
+Hodde
+Hodde Mark
+Hoddeskov
+Hodsager
+Hofmansfeld
+Hofmanslyst
+Hogager
+Hohøj
+Hokkerup
+Hokkerup Hede
+Hokkerup Vestermark
+Holbæk
+Holbøl
+Holbøl Mark
+Holeby
+Holemarken
+Holeskov
+Holev
+Holevad
+Holgerskøb
+Holland
+Hollandsbjerg
+Holleby
+Hollensted
+Hollerup
+Holleskov
+Hollændergårde
+Holløse
 Holm
-Holmeja
-Holmsjö
-Holmsund
-Holsbybrunn
-Holsljunga
-Horda
+Holm Mark
+Holmager
+Holmdrup
+Holmdrup Stævning
+Holme
+Holme Mark
+Holmegård
+Holmegårde
+Holmehave
+Holmehuse
+Holmemark
+Holmemarken
+Holmen
+Holmene
+Holme-Olstrup
+Holmgård
+Holmgård Mark
+Holmgårde
+Holmhuse
+Holmkobbel
+Holmskov
+Holmstol
+Holmstrup
+Holmsø
+Holse
+Holskovbæk
+Holstebro
+Holsted
+Holsted Vesterby
+Holstensgårde
+Holt
+Holtbjerg
+Holte
+Holtegårds Mark
+Holtehuse
+Holteland
+Holtensminde
+Holtet
+Holtgårde
+Holthuse
+Holtug
+Holtum
+Homå
+Honum
+Honum Mark
+Honumskov
+Hopballe
+Hoppeold
+Hoppeshuse
+Hopsøhøj
+Hoptrup
+Hoptrup Mark
+Horbelev
 Horn
-Horndal
-Horred
-Hortlax
-Hoting
-Hova
-Hovid
-Hovmantorp
-Hovsta
-Huaröd
-Hudiksvall
-Hult
-Hultafors
-Hultsfred
-Hulu
-Hummelsta
-Hunnebostrand
-Hurva
+Hornborg
+Hornborg Gammelmark
+Hornborg Vestermark
+Hornborg Østermark
+Hornbæk
+Horndrup
+Horne
+Hornelund
+Hornse
+Hornsgård Mark
+Hornshøj
+Hornskov
+Hornslet
+Hornsmark
+Hornstrup
+Hornstrup Mark
+Hornstrup Mølleby
+Hornsyld
+Hornum
+Hornum Trant
+Hornum Østermark
+Horreby
+Horsbyg
+Horsbyg Gårde
+Horsbyg Nørremark
+Horsbøl
+Horseballe
+Horsebækgyde
+Horsens
+Horsens Enge
+Horsens Hedegårde
+Horserød
+Horserød Overdrev
+Horsetofte
+Horsevad
+Horsfelt
+Horskær
+Horslund
+Horslunde
+Horsted
+Horstved
+Hosby
+Hostrup
+Hostrup Mark
+Hostrupskov
+Hou
+Houlbjerg
+Houstrup
+Houtved
+Hov
+Hovbak
+Hovborg
+Hovdam
+Hove
+Hove Overdrev
+Hovedgård
+Hovedsbanke
+Hovedskov
+Hoven
+Hoveng
+Hovengen
+Hover
+Hover Gårde
+Hovertoft
+Hovgyden
+Hovgård
+Hovgårde
+Hovhave
+Hovkrog
+Hovmade
+Hovmark
+Hovmarken
+Hovslund
+Hovslund Stationsby
+Hovst
+Hovstrup
+Hovsør
+Hovvinkel
+Hug
+Hugdrup
+Hugdrup Fælled
+Hugget
+Hugkrog
+Huholt
+Hulby
+Hulbæk
+Hulbæk Hede
+Hulebæk Huse
+Hulegård
+Hulemølle
+Hulen
+Hulgaden
+Hulgårde
+Hulhøj
+Hulkær
+Hullebæk
+Hullegård
+Hulmose
+Hulsig
+Hulveje
+Hulvig
+Humble
+Humble Kohave
+Humble Ålemose
+Humlebæk
+Humledal
+Humlegårdshuse
+Humlum
+Hummelhede
+Hummelure
+Hundbjerg
+Hundborg
+Hundebøl
+Hundekrog
+Hundelev
+Hunderup
+Hunderup Mark
+Hundested
+Hundkær
+Hundshale
+Hundshoved
+Hundskær
+Hundslev
+Hundslund
+Hundstoft
+Hundstrup
+Hundtofte
+Hundtofte Mark
+Hundtoftered
+Hune
+Hunetorp
+Hunkebjerg
+Hunseby
+Hunstrup
+Hurup
 Husby
+Huse Herrestrup
+Huseby
+Husmandsgyden
+Husted
+Husted Gårde
 Husum
-Hybo
+Husum Gårde
+Husum-Ballum
+Hvalløs
+Hvalløs Vie
+Hvalskov
+Hvam
+Hvam Mejeriby
+Hvam Stationsby
+Hvarre Hede
+Hvarre Huse
+Hvarre Mark
+Hvedde
+Hvedehave
+Hvedstrup
+Hvejnkær
+Hvejsel
+Hvelplund Mark
+Hvent
+Hverremose
+Hverrestrup
+Hvidbjerg
+Hvidbjergkær
+Hvidding
+Hvidding Skovagre
+Hvidding Sønderhede
+Hvide Sande
+Hvidegård
+Hvidegårde
+Hvidemose
+Hvidevold
+Hvidkilde
+Hvidovre
+Hvidsted
+Hvidsten
+Hvidstensmark
+Hvileholm
+Hvilested
+Hvilhuse
+Hvilsager
+Hvilshøj
+Hvilshøj Mark
+Hvilsom
+Hvilsom Hede
+Hvilsted
+Hvims
+Hvinderup
+Hvinderuprude
+Hvingel
+Hvingelby
+Hvingelhat
+Hvinningdal Hede
+Hvirrekær
+Hvirring
+Hvolby
+Hvolbæk
+Hvoldal
+Hvolgård Ødemark
+Hvolgårds Mark
+Hvornum
+Hvornum Høje
+Hvorslev
+Hvorup
+Hvorupgård
+Hvorupgård Mark
+Hvorvarp
+Hybjerg Huse
+Hydesby
+Hydevad
+Hydevad Mark
+Hygild
+Hygind
+Hygum
+Hygum Gammelmark
+Hygum Nymark
+Hygum Nørremark
+Hygumskov
+Hyldager
+Hyldal
+Hyldelund
+Hyldemark
+Hyldig Gårde
+Hyldshuse
+Hyldtofte
+Hyldtofte Fæland
+Hylholt
+Hylke
+Hylken
+Hylken Strand
+Hyllebjerg
+Hyllebjerg-Svenstrup
+Hyllede
+Hyllerslev
+Hyllerslev Hede
+Hyllerslev Østermark
+Hyllerup
+Hyllerød
+Hylleslevholm
+Hyllested
+Hyllested Enghave
+Hyllested Skovgårde
+Hylletofte
 Hyllinge
-Hyltebruk
-Hyssna
-Håbo-Tibble Kyrkby
-Håga
-Håksberg
-Hållsta
-Hålsjö
-Hånger
-Häggeby
-Vreta
-Häggenås
-Häljarp
-Hällabrottet
-Hällaryd
-Hällberga
-Hällbybrunn
-Hällefors
-Hälleforsnäs
-Hällekis
-Hällestad
-Hällesåker
-Hällevadsholm
-Hällevik
-Hälleviksstrand
-Hällingsjö
-Hällnäs
-Hälsö
-Härad
-Häradsbygden
-Härnösand
-Härryda
-Härslöv
-Hässleholm
-Hästhagen
-Hästholmen
-Hästveda
-Höganäs
-Högboda
-Högsby
-Högsjö
-Högsäter
-Höja
-Hökerum
-Hökåsen
-Hököpinge
-Höllviken
-Hölö
-Hönö
-Hörby
-Hörnefors
-Hörvik
-Höviksnäs
-Höör
-Idala
-Idkerberget
-Idre
-Igelfors
-Igelstorp
-Iggesund
-Ilsbo
-Immeln
-Indal
-Ingared
-Ingaröstrand
-Ingatorp
-Ingelstad
-Ingelsträde
-Innertavle
-Insjön
-Irsta
-Johannedal
-Johannesudd
-Johannishus
-Johansfors
-Jokkmokk
-Jonsered
-Jonslund
-Jonstorp
-Jordbro
-Jukkasjärvi
-Jung
-Juniskär
-Junosuando
-Junsele
-Juoksengi
-Jursla
-Jäderfors
-Jädraås
-Jämjö
-Jämshög
-Jämtön
-Järbo
-Järlåsa
-Järna
-Järna
-Järnforsen
-Järpen
-Järpås
-Järvsö
-Jättendal
-Jävre
-Jönköping
-Jönåker
-Jörlanda
-Jörn
-Jössefors
-Kalix
-Kallax
-Kallinge
-Kalmar
-Kalvsund
-Kangos
+Hylstrup
+Hynding
+Hyndingdam
+Hyndingholm
+Hyrdehuse
+Hyrup
+Hyrup Hede
+Hyrup Vestermark
+Hytten
+Hyvild
+Hæggerup
+Hækkebølle
+Hælde
+Hærup
+Hæst
+Hæstrup Hede
+Hæstrup Mejeriby
+Hæstrup Stationsby
+Hæsum
+Hæsø
+Hætterne
+Høbjerg
+Høbjerg Orned
+Høed
+Høedgyde
+Høgdal
+Høgedal
+Høgelund
+Høgild
+Høgsbro
+Høgsholt
+Høgslund
+Høgslund Mark
+Høgsted
+Høgsted Mark
+Høgsvig
+Højballe
+Højbjerg
+Højbjerg Huse
+Højbjerg Overdrev
+Højbro
+Højby
+Højby Huse
+Højby Mark
+Højbygårdshuse
+Høje
+Høje Mark
+Højelse
+Højelt
+Højen Fyr
+Højen Hede
+Højene
+Højenskov
+Højentang
+Højer
+Højer Dige
+Højer Kog
+Højerup
+Højes Dong
+Højes Ris
+Højet
+Højfjelde
+Højgårde
+Højlund
+Højmark
+Højmose
+Højreby Huse
+Højrimmen
+Højrup
+Højrup Overskov
+Højrupled
+Højsager
+Højset
+Højskov
+Højslev
+Højslev Stationsby
+Højslunde
+Højsmarke
+Højsmose
+Højsted
+Højsted Overdrev
+Højsten
+Højstrup
+Højtved
+Højvang
+Høkkelbjerg
+Høkær Huse
+Høkærrør
+Hølkerup
+Hølled
+Hølleskov
+Høllet
+Høllund
+Hølsgårde
+Høm
+Høm Østermark
+Hømlund
+Hømvejle
+Hønborg Mark
+Høndrup
+Høng
+Høngård
+Høngårde
+Hønkys
+Hønnerup
+Hønning
+Hønsehave
+Hønsehøj
+Hønsinge
+Hønske
+Hønsnap
+Hønsnap Mark
+Hørby
+Hørbylund
+Hørdal
+Hørdum
+Hørhave
+Hørkær
+Hørløkke
+Hørmested
+Hørning
+Hørret
+Hørsholm
+Hørslev
+Hørslevbol
+Hørsted
+Hørtoft
+Hørup
+Høruphav
+Hørve
+Hørve Enghave
+Høsnæs
+Høstemark
+Høsten
+Høsten Torp
+Høsterkøb
+Høstrup
+Høtbjerg
+Høve
+Høved
+Høvedskov
+Høvelte
+Høveltsvang
+Høver
+Høvids
+Høvænge
+Hågendrup
+Hågerup
+Hågårde
+Håls
+Haar
+Hårby
+Haarby
+Hårbølle
+Hårbølle Kobbel
+Hårdeng
+Hårdmark
+Hårdmark Mark
+Håre
+Håred
+Hårlev
+Hårlev Overdrev
+Hårslev
+Hårup
+Hårup-Krannestrup
+Håstrup
+Håstrup Fælled
+Håsum
+Håsum Torp
+I Engene
+I Krakken
+I Myrene
+Ibsgårde
+Ibshuse
+Ibsted
+Ibæk
+Idasminde Mark
+Idestrup
+Idom
+Idomlund
+Idskov
+Idskov Hede
+Igelsø
+Igelsø Græsmark
+Iglsø
+Ikast
+Ikær
+Ilbjerg
+Ilbjerge
+Ilbro
+Ilderhede
+Ilderhuse
+Ildved
+Ildved Mark
+Illebølle
+Iller
+Iller Hede
+Iller Huse
+Iller Mark
+Iller Nedermark
+Iller Strand
+Illerup
+Illerup Møllebro
+Illum
+Ilskov
+Ilsted
+Ilsted Mark
+Ilsø
+Ilsø Mark
+Impgårde
+Indelukket
+Inder Bjerrum
+Indholt
+Indrupgårde
+Indslev
+Indslev Tårup
+Indtægten
+Ingelstrup
+Ingerby
+Ingerslev
+Ingerslev Hede
+Ingstrup
+Ingstrup Hede
+Intrup
+Irup Hede
+Isenvad
+Ishøj
+Ishøj Landsby
+Istebjerg
+Isterød
+Isterød Storskov
+Istrup
+Iversens Gårde
+Janderup
+Janderup Mark
+Jannerup
+Janum
+Jarlebjerg
+Jarmsted
+Jattrup
+Jattrup Huse
+Javngyde
+Jebjerg
+Jedsted Bjerge
+Jedsted Mark
+Jegerup
+Jegerup Frihed
+Jegerup Mark
+Jegind
+Jegsmark
+Jegstrup
+Jegum
+Jejsing
+Jejsing Mark
+Jeksen
+Jelling
+Jelling Mark
+Jels
+Jels Bjerg
+Jels Troldkær
+Jelsskov
+Jelstrup
+Jenle
+Jennet
+Jenning
+Jennum
+Jensby Gårde
+Jenslev
+Jenstrup
+Jenstrup Huse
+Jerlev
+Jerlev Engmark
+Jernbjerg
+Jerndal Mølle
+Jernhyt
+Jernkærmark
+Jernskovs Hjørne
+Jernved
+Jerrig
+Jershave
+Jersie
+Jersild
+Jerslev
+Jersore
+Jerup
+Jesby
+Jeskær
+Jestrup
+Jomfruløkken
+Jonstrup
+Jordbjerg
+Jordbroen
+Jordløse
+Jordrup
+Jorløse
+Jorløse Sand
+Juelsminde
+Jukkerup
+Julehøjkrog
+Julianeborg
+Jullerup
+Jullerup Enghave
+Julsgård
+Julsgårde
+Jungedal
+Jungen
+Junget
+Jungshoved Hovmark
+Juvre
+Jydegårde
+Jydeholmen
+Jyderup
+Jydevangen
+Jydevænge
+Jyllandsgyden
+Jyllerup
+Jyllinge
+Jyndevad Mark
+Jysted
+Jystrup
+Jægerlund
+Jægerspris
+Jægerum
+Jævndal
+Jødeland
+Jørgensby
+Jørgensø
+Jørlunde
+Jørlunde Overdrev
+Jørsby
+Jørslev
+Jørslev Overdrev
+Kabbeltved
+Kabdrup
+Kagerup
+Kagsmark
+Kagstrup
+Kajemose
+Kalbjergtorn
+Kalby
+Kalbæk
+Kaleko
+Kalhave
+Kalhaveskov
+Kalkværkshuse
+Kalkær
+Kallehave
+Kallerup
+Kallesø
+Kallø
+Kallø Skovby
+Kalovnshuse
+Kalsemade
+Kalsensgård Kær
+Kalshavebæk
+Kalstrup
+Kalum
+Kalundborg
+Kalvehave
+Kalvehaveskov
+Kalvehuse
+Kalvehøj
+Kalveskov Huse
+Kalvslund
+Kalvø
+Kammerdal
+Kammergave Mark
+Kammersgård
+Kammerslusen
+Kamp
+Kampgårde
+Kamstrup
+Kamtrup
+Kandborg
+Kanderød
+Kankbølle
+Kanne
+Kannerup
+Kannikegærdet
+Kannikegård
+Kannikeskov
+Kannikhus
+Kanstrup
+Kantedam
+Kappel
+Kappelagre
+Kappelgårde
+Kappelskov
+Kappendrup
 Karby
-Kareby
-Karesuando
-Karlholmsbruk
-Karlsborg
-Karlshamn
-Karlskoga
-Karlskrona
-Karlstad
-Karlsvik
-Karungi
-Karups Sommarby
-Kastlösa
-Katrineholm
-Kattarp
-Kaxholmen
-Kebal
-Kil
-Kilafors
-Killeberg
-Kilsmo
-Kimstad
-Kinna
-Kinnared
-Kinnarp
-Kinnarumma
-Kiruna
-Kisa
-Kivik
-Kjulaås
-Klagstorp
-Klevshult
-Klingsta
-Allsta
-Klintehamn
-Klippan
-Klippans Bruk
-Klockestrand
-Klockrike
-Klågerup
-Klädesholmen
-Kläppa
-Klässbol
-Klöverträsk
-Klövsjö
-Knislinge
-Knivsta
-Knutby
-Knäred
-Kode
-Kolbäck
-Kolsva
-Konga
-Kopparberg
-Kopparmora
-Koppom
-Korpilombolo
-Korsberga
-Korsberga
-Korsträsk
-Koskullskulle
-Kosta
-Kovland
-Kramfors
-Kristdala
-Kristianstad
-Kristineberg
-Kristinehamn
-Kristvallabrunn
-Krokek
-Krokom
-Krägga
-Kulltorp
-Kullö
-Kumla
-Kumla Kyrkby
-Kummelnäs
-Kungsbacka
-Kungsberga
-Kungsgården
-Kungshamn
-Kungshult
-Kungsängen
-Kungsäter
-Kungsör
-Kungälv
-Kurland
-Kusmark
-Kuttainen
-Kvibille
-Kvicksund
-Kvidinge
-Kvillsfors
-Kvisljungeby
-Kvissleby
-Kvänum
-Kvärlöv
-Kyrkheddinge
-Kyrkhult
-Kyrksten
-Kåge
-Kågeröd
-Kåhög
-Kållekärr
-Kållered
-Kånna
-Kårsta
-Kälarne
-Källby
-Källö-Knippla
-Kärda
-Kärna
-Kärsta
-Bredsdal
-Kättilsmåla
-Kättilstorp
-Kävlinge
-Köping
-Köpingebro
-Köpingsvik
-Köpmanholmen
-Lagan
-Laholm
-Lammhult
-Landeryd
-Landfjärden
-Landsbro
-Landskrona
-Landvetter
-Lanesund
-Lanna
-Lanna
-Latorpsbruk
-Laxvik
-Laxå
-Lekeryd
-Leksand
-Lenhovda
-Lerdala
-Lerkil
-Lerum
-Lesjöfors
-Lessebo
-Liatorp
-Lidatorp
-Liden
-Lidhult
-Lidingö
-Lidköping
-Lilla Edet
-Lilla Harrie
-Lilla Stenby
-Lilla Tjärby
-Lillhaga
-Lillhärdal
-Lillkyrka
-Lillpite
-Lima
-Limedsforsen
-Limmared
-Linderöd
-Lindesberg
-Lindholmen
-Lindome
-Lindsdal
-Lindö
-Lingbo
-Linghed
-Linghem
-Linköping
-Linneryd
-Listerby
-Lit
-Ljugarn
-Ljung
-Ljunga
-Ljungaverk
-Ljungby
-Ljungbyhed
-Ljungbyholm
-Ljunghusen
-Ljungsarp
-Ljungsbro
-Ljungskile
-Ljungstorp
-Jägersbo
-Ljusdal
-Ljusfallshammar
-Ljusne
-Loftahammar
-Lomma
-Los
-Lotorp
-Lottefors
-Lucksta
-Ludvigsborg
-Ludvika
-Lugnet
-Skälsmara
-Lugnvik
-Lugnås
-Luleå
+Karby Mark
+Kardyb
+Kare
+Karensby
+Karholm
+Karise
+Karise Gårde
+Karise Overdrev
+Karise-Olstrup
+Karlby
+Karlebjerg
+Karlebo
+Karlebo Overdrev
+Karleby
+Karleby Huse
+Karlelund
+Karlemose
+Karlsgårde
+Karlsminde
+Karlsmose
+Karlstrup
+Karlsvrå
+Karmark
+Karmisholt
+Karrebæksminde
+Karrebækstorp
+Karred
+Karsbæk
+Karsebæk Huse
+Karskov Huse
+Karstoft
+Kartofte
+Karup
+Kaslunde
+Kasmose
+Kassebølle
+Kassø
+Kassø Kådnergade
+Kassø Mark
+Kastbjerg
+Kasted
+Kastel
+Kastelev
+Kastholm
+Kastkær
+Kastrup
+Kastrup Enge
+Kastrup Fælled
+Kastrup Nørremark
+Kastrup Vestermark
+Kastrup Østermark
+Kastvrå
+Katballe
+Katbjerg
+Katbøl
+Katholm
+Katholm Mark
+Katrad
+Katrinebjerg
+Katrinebjerg Hovmark
+Katrinedal
+Katrinedal Mark
+Katry
+Kattebjerg
+Kattehale
+Kattekilde
+Katterød
+Katteskov
+Kattinge
+Kattrup
+Kauslunde
+Kavben
+Kegnæs Færge
+Kegnæshøj
+Kejlstrup
+Keldbjerg
+Keldby
+Keldbylille
+Keldernæs
+Keldernæsskov
+Keldet
+Keldskov Huse
+Keldsløkke
+Keldsnor
+Keldsvang
+Keldsømade
+Kelleby
+Kelleklinte
+Kelleklintemose
+Kellerup
+Kellerød
+Kelsbjerg
+Kelseby
+Kelstrup
+Kelstrupskov
+Kerte
+Kertebro
+Kerteminde
+Kertinge
+Kestrup
+Ketting
+Ketting Mark
+Kettinge
+Kettinge Bækkeskov
+Kettingskov
+Kettrup
+Kibsgård Hede
+Kibshede
+Kibæk
+Kiddelund
+Kideris
+Kiding Østermark
+Kidinglund
+Kidingmark
+Kielstrup
+Kikkenborg
+Kik-op Huse
+Kik-ud Huse
+Kilde
+Kildebrønde
+Kildedalshuse
+Kildehave
+Kildehuse
+Kildemark
+Kildemose
+Kilden
+Kildevadshuse
+Kildevænget
+Kildsig
+Kildskov
+Kile
+Kile Mosehuse
+Kilen
+Killerup
+Kinderballe
+Kindertofte
+Kinderup
+Kindvig
+Kindvig Skov
+Kingstrup
+Kinnemose
+Kirial
+Kirke Eskilstrup
+Kirke Fjenneslev
+Kirke Flinterup
+Kirke Helsinge
+Kirke Hvalsø
+Kirke Hyllinge
+Kirke Hørup
+Kirke Skensved
+Kirke Sonnerup
+Kirke Stillinge
+Kirke Syv
+Kirke Søby
+Kirke Såby
+Kirke Værløse
+Kirkebakken
+Kirkebjerg
+Kirkebo
+Kirkebogård
+Kirkeby
+Kirkeby Mark
+Kirkeby Sand
+Kirkeby Vestermark
+Kirkeby Østermark
+Kirkebæk
+Kirkedal
+Kirkegårde
+Kirkehavn
+Kirkehuse
+Kirkehøj
+Kirkeledshuse
+Kirkelte
+Kirkemark Gårde
+Kirkemarken
+Kirkerup
+Kirkerup Mark
+Kirkerup Overdrev
+Kirkeskov
+Kirkeskov Huse
+Kirketerp
+Kirkevad
+Kirkevang
+Kirkholm
+Kirkholt
+Kirsbøl
+Kirsebærhuse
+Kirstinebjerg Huse
+Kisbæk
+Kiskelund
+Kiskelund Mark
+Kissendrup
+Kisserup
+Kistebroen
+Kistofte
+Kistrup
+Kistrup Hede
+Kistrup Skovhuse
+Kisum
+Kisum Kær
+Kivsmose
+Kjallerup
+Kjeldbjerg
+Kjelder
+Kjeldgårdsminde
+Kjeldsmark
+Kjellerup
+Kjelst
+Kjelstrup
+Kjemtrup
+Kjæstrup
+Klammose Huse
+Klaptoft
+Klaringen
+Klarskov
+Klarup
+Klastrup
+Klattrup
+Klavsebølle
+Klavsholm Mark
+Klebæk
+Klejbo
+Klejnbjerg
+Klejnsmedhuse
+Klejnstrup
+Klejs
+Klejs Vestermark
+Klejsbro
+Klejsgård
+Klejsskov
+Klejtrup
+Klelund
+Klem
+Klemensker
+Klemstrup
+Kleppehuse
+Klim
+Klim Fjordholme
+Klim Mark
+Klim Odde
+Klim Strand
+Klingbjerg
+Klink
+Klinkby
+Klinte
+Klintebjerg
+Klinteby
+Klinteby Frihed
+Klintegård
+Klintholm
+Klintholm Havn
+Klinting
+Klintrup
+Klintrup Hede
+Klintsmark
+Kliplev
+Kliplev Mark
+Kliplev Nørremark
+Kliplev Søndermark
+Klippede
+Klippinge
+Klitgårds Fiskerleje
+Klithuse
+Klitlund
+Klitmose
+Klitmøller
+Klitten
+Klode Mølle
+Klodske
+Klodskov
+Klokkedal
+Klokkergårde
+Klokkerholm
+Klokmose
+Kloster
+Klostergårde
+Klostermark
+Klotrup
+Klovborg
+Klovby
+Klovtoft
+Klæstrup
+Klæstrupholm
+Klæstruplund
+Klæsø
+Kløjing
+Klørup
+Klørup Mark
+Kløv
+Kløv Kær
+Kløvgårde
+Kløvsenskov
+Klåvang
+Knabstrup
+Knagstrup
+Knaplund
+Knapsholm
+Knardrup
+Knarrebakkerne
+Knastebjerg
+Knav
+Knebberhede
+Knebel
+Knebel Bro
+Knejsted
+Knepholt
+Knevelsholm
+Kni
+Kni Kilde
+Kni Kær
+Knold
+Knolde
+Knoldeflod
+Knolden
+Knoldshave
+Knoldshøj
+Knop
+Knopdrup
+Knorborg
+Knubbeløkke
+Knud
+Knud Lyng
+Knudby
+Knuddalhuse
+Knude
+Knudegård
+Knudgårde
+Knudmose Huse
+Knudsbjerg
+Knudsbøl
+Knudsbølle
+Knudsgård
+Knudsig
+Knudsker
+Knudsmade
+Knudsmark
+Knudsskov
+Knudstrup
+Knudstrup Hede
+Knurrehave
+Knækkeborg
+Knæsted
+Knæverhede
+Knøsen
+Knøsgård
+Knøshede
+Kobbelgårde
+Kobbelgårdshuse
+Kobbelhuse
+Kobberholm
+Kobbersholt
+Kobbersted
+Kobbertoft
+Kobberup
+Kobberø
+Kodal
+Kodallund
+Kodbøl
+Koed
+Koelbjerg
+Kogager
+Kogholm
+Kogsbølle
+Kohave
+Kohavebanken
+Koholm
+Kohuse
+Kokborg
+Kokborg Huse
+Kokhave
+Kokholm
+Kokhus
+Kokkedal
+Kokkedal Mark
+Kokkedals Kær
+Kokkehaverne
+Kokkehuse
+Kokkestræde
+Kokspang
+Kokspang Gårde
+Kokvad
+Kokær
+Kolby
+Kolby Kås
+Koldborg Mark
+Koldbro
+Koldby
+Koldbæk
+Kolding
+Koldinghus
+Koldkilde
+Koldkur
+Koldkær
+Koldkåd
+Koldmose
+Kolind
+Kolindbro
+Kolle
+Kollekolle
+Kollemorten
+Kollerup
+Kollerød
+Kollund
+Kollund Bjerg
+Kollund Mark
+Kollund Østerskov
+Kolonihuse
+Kolonisthuse
+Kolsbæk
+Kolshave
+Kolsnap
+Kolsnap Mark
+Kolsnaplund
+Kolstrup
+Kolstrup Udflyttere
+Koløkke
+Komdrup
+Komdrup Holm
+Kom-igen
+Kondrup
+Kongemarken
+Kongens Lyngby
+Kongens Lyngby Enghave
+Kongens Tisted
+Kongensbro
+Kongenshede
+Kongensmark
+Kongerslev
+Kongerslev Hede
+Kongeskov Huse
+Kongestolpe
+Kongsbjerg
+Kongsbjerg Mark
+Kongsengene
+Kongsgårde
+Kongsholm
+Kongshoved
+Kongshøj
+Kongsmark
+Kongsted
+Kongsted Holme
+Kongsted-Borup
+Kongstrup
+Kongstubbe
+Koppenbjerg
+Korinth
+Korkendrup
+Kornerup
+Korning
+Korning Klak
+Korning Nørremark
+Korning Søndermark
+Korning Tange
+Korning Østermark
+Korntved
+Kornum
+Korreborg
+Korsbjerg
+Korsebølle Kohave
+Korselitse
+Korshavn
+Korsholm
+Korshullet
+Korshøj
+Korslingkrog
+Korslund
+Korsnakke
+Korsø
+Korsør
+Korteby
+Korterup
+Korup
+Korup Gårde
+Korup Mark
+Korup Skovhuse
+Kosmose Huse
+Koster
+Kosterslev
+Kostræde
+Kousted
+Koustrup
+Kovad
+Kovdal
+Kovshede
+Kovsholt
+Kovstrup
+Kovtrup
+Krabbesbro
+Krabdrup
+Kragager
+Kragdrup
+Krage
+Kragebjerg
+Krageborg
+Kragekær
+Kragelund
+Kragelund Fælled
+Kragemade
+Kragemose
+Kragenæs
+Krageris
+Kragerup
+Krages
+Kragesand
+Krageskovbakke
+Kragevig
+Kraggårde
+Kraghede
+Kragholm
+Kragholm Huse
+Kragkær
+Kragnæs
+Kragskov
+Kragskov Hede
+Kragvad
+Kragøre Huse
+Krajbjerg
+Krajbjerg Hede
+Krakken
+Krakær
+Krammarkskobbel
+Kraneled
+Krange
+Krarup
+Krasborg
+Krashave
+Krastrup
+Kratbanke
+Krathuse
+Krattet
+Kravlund
+Kravlund Mark
+Kravnsø
+Krejbjerg
+Krejsel
+Krekær
+Krenkerup
+Krik
+Kringel
+Kringelborn
+Kringelstederne
+Kringlum
+Kristiansminde
+Krog
+Krogager Gårde
+Krogbuske
+Krogebæk
+Krogen
+Krogenlund
+Krogerup
+Krogholm
+Kroghøj
+Krogsager
+Krogsbjerg
+Krogsbæk
+Krogsbølle
+Krogsgård
+Krogsgård Mark
+Krogshede
+Krogslund
+Krogstrup
+Krogsø
+Krollerup
+Kronborg
+Krondal
+Kronenshede
+Kronsbjerg
+Krummeled
+Krummemark
+Krummerup
+Krummerup Enghave
+Krunderup
+Krungerup
+Krusbakke
+Krusbjerg
+Krusborg
+Krusegård
+Krustrup
+Kruså
+Kryb-i-Ly
+Krækket
+Kræmmerkrog
+Kræmmerled
+Kræmmerstenshuse
+Krænkerup
+Krættrup
+Krøgholt
+Krøjerup
+Krøjerup Overdrev
+Krøldrup
+Krølhuse
+Krømlinge
+Krønge
+Krørup
+Krårup
+Krårupskov
+Kuditze
+Kuglebjerg
+Kukhuse
+Kukkenbjerg
+Kukkerhuse
+Kulbjerg
+Kulby
+Kuldbjerg
+Kulerup
+Kulerup Enghave
+Kulhede
+Kulhuse
+Kulhøj
+Kullerup
+Kullerup Hede
+Kulstirenden
+Kumled
+Kumlehuse
+Kumlehøje
+Kundby
+Kurkmark
+Kurreholm
+Kurup
+Kurvemose
+Kustrup
+Kvanløse
+Kvanløse Havremark
+Kvejnbjerg
+Kvie
+Kvindbjerg
+Kvinderup
+Kvindevad Gyden
+Kvislemark
+Kvissel
+Kvissel Brænding
+Kvisselholt
+Kvistgård
+Kvisthuse
+Kvistrup
+Kvistskov
+Kvium
+Kvium Hede
+Kvolbæk
+Kvols
+Kvolsbæk Gårde
+Kvolsbæk Huse
+Kvong
+Kvong Langhede
+Kvorning
+Kvorup
+Kvorup Kær
+Kvorup Mark
+Kvosted
+Kvostedlund
+Kvottrup
+Kvægsholm
+Kværkeby
+Kværndrup
+Kværndrup Vænge
+Kværnholt
+Kværrede
+Kværs
+Kværs Balle
+Kværs Hede
+Kværs Løkke
+Kværs Østermark
+Kyllebæk Huse
+Kyllesbæk
+Kymark
+Kyndby
+Kyndeløse
+Kyringe
+Kyringe Holm
+Kyse
+Kyse Overdrev
+Kysing
+Kyttrup
+Kyvling
+Kyø Mark
+Kyø Skovhuse
+Kædeby
+Kædeby Haver
+Kædebybro
+Kædebyhas
+Kæderup
+Kællingeby
+Kællingtandgårde
+Kællingtofte
+Kællingvadsted
+Kæpsmark
+Kær
+Kær Hestehave
+Kær Vestermark
+Kærbjerg
+Kærby
+Kærby Fed
+Kærbybro
+Kærbygård
+Kærbyholm
+Kærbæk
+Kærbøl
+Kærbøl Mark
+Kærbølling
+Kærbølling Huse
+Kærende
+Kæret
+Kærgård
+Kærgård Mark
+Kærgårde
+Kærgårdsmark
+Kærhede
+Kærhuse
+Kærsgård
+Kærsgård Hede
+Kærsgårde
+Kærsholm
+Kærsigen
+Kærskifter
+Kærum
+Kærup
+Kærup Holme
+Købelev
+Købelevhede
+Købelevskov
+København
+Københoved
+Københovedskov
+Køberup
+Købeskov
+Købingsmark
+Købsted
+Køge
+Køge Søhuse
+Kølby
+Kølholt
+Kølkær
+Kølleregård
+Kølsen
+Kølsen Gårde
+Kølvring
+Kølvring Kær
+Kølvrå
+Køng
+Køng Firgårde
+Køng Flæskholm
+Køng Togårde
+Køng Torp
+Kønsborg
+Kørup
+Køstrup Mark
+Kådekilde
+Kådnermark
+Kårup
+Kårup Vænge
+Kås
+Kås Mark
+Kåsby
+Kåstrup
+Kåstrup Holme
+Kåtrup
+Labing
+Labæk Huse
+Labølle
+Ladby
+Ladegård
+Ladegård Mark
+Ladegårds Parceller
+Ladegårdskov
+Ladegårdsmark
+Ladelund
+Lading
+Lading-Bjørnkær
+Laen
+Lagersgårde
+Lakkendrup
+Laksfang Huse
+Lambertsdam
+Lambjerg
+Lambjergskov
+Lamborg
+Lambæk
+Lamdrup
+Lammehave Søgård
+Lammestrup
+Lammesø
+Landbolsmark
+Landbolyst
+Landbolyst Mark
+Landborup
+Landeby
+Landerhuse
+Landerslev
+Landet
+Landting
+Landting Mark
+Landvad
+Landvadhøj
+Lang
+Lang Mørke
+Langager
+Langager Gårde
+Langagre
+Langbak
+Langballe
+Langballe Mark
+Langbjerg
+Langbygård
+Langdal
+Langdal Gårde
+Langdel
+Langebjerg
+Langebæk
+Langebæk Lyng
+Langebæk Stationsby
+Langedeby
+Langegyde
+Langehede Huse
+Langeledsgård
+Langelinie
+Langelund
+Langeløkke
+Langemark
+Langemose
+Langerhuse
+Langerim
+Langerud
+Langerød
+Langeskov
+Langeslund Mark
+Langesnave
+Langesø
+Langesø Skovhave
+Langet
+Langetved
+Langetved Mark
+Langetvedskov
+Langevang
+Langevrætte
+Langholm
+Langholt
+Langhorn
+Langjord Huse
+Langkastrup
+Langkrog
+Langkær
+Langsig
+Langskov
+Langsom
+Langsted
+Langsted Hede
+Langstrup
+Langt-hjem
+Langtved
+Langvad
+Langæble
+Langø
+Langør
+Langå
+Langå Mark
+Laugø
+Laurbjerg
+Lavbjerg
+Lavborg
+Laven
+Lavensby Mark
+Lavensby Strand
+Lavhede
+Lavlundgårde
+Lavringemose
+Lavrsgård
+Lavstrup
+Leby
+Leby Kobbel
+Lebøl
+Lebøl Løkke
+Lebølgård
+Ledet
+Leding
+Ledøje
+Lee
+Leestrup
+Legerholm
+Legind
+Lejbølle
+Lejestofte
+Lejre
+Lejregårdene
+Lejrmarken
+Lejrskov
+Lek
+Lellinge
+Lellinge Overdrev
+Lem
+Lemb
+Lemb Mark
+Lemmer
+Lemming
+Lemming Nygårds Mark
+Lemming Nørrehede
+Lemming Vesterby
+Lemming Vesterskov
+Lemtorp
+Lemtorp Huse
+Lemvig
+Lendrup
+Lendrup Huse
+Lendum
+Lennestved
+Lensbjerge
+Lerager
+Lerbjerg
+Lerbæk
+Lerbæk Huse
+Lerdrup
+Lerdrupskov
+Lere
+Leret
+Leretsbjerg
+Lergrave
+Lergravshuse
+Lerhuse
+Lersig
+Lerskov
+Lerup Klithuse
+Lervad
+Lestrup
+Letholt
+Levetofte
+Levka
+Levring
+Levring Vesterhede
+Libakken
+Lidemark
+Lidemark Præstemark
+Lie Gårde
+Lien Gårde
+Lifstrup
+Lifstrup Hede
+Lihme
+Lihmskov
+Lild Strand
+Lildbjerg
+Lildfrost
+Lilholt
+Lilkær
+Lille Ajstrup
+Lille Almstok
+Lille Andst
+Lille Anslet
+Lille Arden
+Lille Aversi
+Lille Avnede
+Lille Binderup
+Lille Bissinge
+Lille Brande
+Lille Bredlund
+Lille Bregninge
+Lille Brøndum
+Lille Dalby
+Lille Damme
+Lille Darum
+Lille Dyrehavevang
+Lille Ebberup
+Lille Egebjerg
+Lille Elmue
+Lille Emmerske
+Lille Esbønderup
+Lille Favrby
+Lille Fjellenstrup
+Lille Flakkebjerg
+Lille Folby
+Lille Fuglede
+Lille Gedved
+Lille Gislinge
+Lille Grandløse
+Lille Gunderød
+Lille Havdrup
+Lille Havelse
+Lille Heddinge
+Lille Hellevad
+Lille Herringløse
+Lille Herskind
+Lille Hillerslev
+Lille Hjeds
+Lille Hjøllund
+Lille Humlum
+Lille Højrup
+Lille Høm
+Lille Jyndevad
+Lille Karleby
+Lille Kindvig
+Lille Knabstrup
+Lille Knivsig
+Lille Labing
+Lille Ladager
+Lille Langkær
+Lille Langtved
+Lille Linde
+Lille Lindet
+Lille Lundtoft
+Lille Lyngby
+Lille Lyngerup
+Lille Løjtofte
+Lille Mommark
+Lille Musse
+Lille Musse Skov
+Lille Myregård
+Lille Nørlund
+Lille Pandrup
+Lille Ramsing
+Lille Rise
+Lille Roager
+Lille Rørbæk
+Lille Salby
+Lille Selskær
+Lille Sjørup
+Lille Skensved
+Lille Skærbæk
+Lille Slemminge
+Lille Spandet
+Lille Spjellerup
+Lille Stokkebjerg
+Lille Stårup
+Lille Sønderup
+Lille Thorlund
+Lille Thorum
+Lille Todbjerg
+Lille Torup
+Lille Torøje
+Lille Tvede
+Lille Tykskov
+Lille Tåning
+Lille Tårnby
+Lille Tårup
+Lille Udstrup
+Lille Valby
+Lille Vallensved
+Lille Vasby
+Lille Vedbøl
+Lille Veksebo
+Lille Velling
+Lille Vester Højst
+Lille Vetterslev
+Lille Viby
+Lille Virring
+Lille Vorbjerg
+Lille Vorslunde
+Lille Vrøj
+Lille Ørtoft
+Lille Åbøl
+Lillebro Huse
+Lillebrænde
+Lillehede
+Lilleholm
+Lillekobbel
+Lillelund
+Lillemark
+Lillemose
+Lillemølle
+Lillemølle Huse
+Lillering
+Lillerød
+Lilleskov
+Lilleskovland
+Lillevang
+Lillevorde
+Lillevorde Kær
+Lilleø
+Lilleøre
+Liltved
+Limbjerg
+Lime
+Limensgade
+Limose
+Lindbjerg
+Lindbjerg Bakke
+Lindbjerg Gårde
+Lindbjerg Mark
+Lindbæk
+Linde
+Linde Gårde
+Lindeballe
+Lindebjerg
+Lindebjerggård
+Linded
+Lindekrogshuse
+Lindelse
+Lindenborg
+Linderum
+Linderup
+Lindeskov
+Lindet
+Lindet Skov
+Lindgårde
+Lindholm
+Lindholmsgyden
+Lindholt
+Lindholt Hede
+Linding
+Lindingbro
+Lindknud
+Lindkær
+Lindsbjerg
+Lindum
+Lindved
+Lindø
+Lindå
+Lindå Hede
+Lineborg
+Linien
+Linnerup
+Lintrup
+Lintrup Mark
+Lintrup Skov
+Linå
+Lisbjerg
+Lisbjerg-Terp
+Liseby
+Liseleje
+Lismose
+Listed
+Listrup
+Livbjerg
+Ljørring
+Ljørslev
+Lobbæk
+Lodal
+Lodbjerggård
+Lodshuse
+Lodskov
+Lodskovvad
+Loft
+Loftsgård
+Lohals
+Lokeshede
+Loldrup
+Lolholm
+Lombjerg
+Lomborg
+Lomforbæk
+Lommelev
+Lomose Huse
+Longelse Sønderskov
+Lorup
+Lottedal
+Louisenlund
+Lov
+Lovdal
+Lovns
+Lovrup
+Lovtrup
+Lovtrup Vestermark
+Ludshøj
+Lumby
+Lumby Torp
+Lumby-Dalskov
+Lumbygyde
+Lumbyholm
+Lumsås
 Lund
-Lund
+Lund Huse
+Lund Mark
+Lundager
+Lundbak
+Lundbjerg Gårde
+Lundbro
+Lundby
+Lundby Torp
+Lundbæk
+Lundbæk Mark
+Lunddorp
 Lunde
-Lundsbrunn
-Lunnarp
-Lurudden
-Lycksele
-Lyrestad
-Lysekil
-Lysvik
-Långasjö
-Långsele
-Långshyttan
-Långvik
-Långviksmon
-Långås
-Låssby
-Läby
-Läckeby
-Länghem
-Länna
-Lärbro
-Löberöd
-Löddeköpinge
-Löderup
-Lödöse
-Löftaskog
-Lögdeå
-Lönsboda
-Lörby
-Löttorp
-Löwenströmska Lasarettet
-Lövestad
-Lövstalöt
-Lövånger
-Madängsholm
-Mala
-Malmberget
-Malmbäck
-Malmköping
-Malmslätt
-Malmö
-Malnbaden
-Malung
-Malungsfors
-Malå
-Mantorp
-Marbäck
-Margretetorp
-Mariannelund
-Marieby
-Mariedal
-Mariefred
-Marieholm
-Marielund
-Mariestad
-Markaryd
-Marma
-Marmaskogen
-Marmaverken
-Marmorbyn
-Marstrand
-Matfors
-Medle
-Medåker
-Mehedeby
-Mellansel
-Mellbystrand
-Mellerud
-Mellösa
-Merlänna
-Misterhult
-Mjällby
-Mjällom
-Mjöbäck
-Mjöhult
-Mjölby
-Mjönäs
-Mockfjärd
-Mogata
-Mohed
-Moheda
-Moholm
-Moliden
-Molkom
-Mollösund
-Mora
-Morgongåva
-Morjärv
-Morup
-Moskosel
-Motala
-Mullhyttan
-Mullsjö
-Munga
-Munka-Ljungby
-Munkedal
-Munkfors
-Munktorp
-Muskö
-Myckle
-Myggenäs
-Myresjö
-Myrviken
-Mysingsö
-Mysterna
-Måga-Rolfhamre
-Målerås
-Målilla
-Målsryd
-Månkarbo
-Måttsund
-Märsta
-Möklinta
-Mölle
-Mölltorp
-Mölnbo
-Mölnlycke
-Mönsterås
-Mörarp
-Mörbylånga
-Mörlunda
-Mörrum
-Mörsil
-Mörtnäs
-Naglarby
-Enbacka
-Nedansjö
-Nedre Gärdsjö
-Nikkala
-Nissafors
-Nitta
-Njurundabommen
-Njutånger
-Nogersund
-Nolvik
-Nora
-Norberg
-Nordanö
-Nordingrå
-Nordkroken
-Nordmaling
-Nordmark
-Nore
-Norje
-Norr Amsberg
-Norra Bro
-Norra Lagnö
-Norra Rörum
-Norra Åsum
-Norrfjärden
-Norr-Hede
-Norrhult-Klavreström
-Norrköping
-Norrlandet
-Norrskedika
-Norrsundet
-Norrtälje
-Norrö
-Norsesund
-Norsholm
-Norsjö
-Nossebro
-Nusnäs
-Nya Långenäs
+Lunde Mark
+Lundebanken
+Lundeborg
+Lunde-Dalskov
+Lundegård
+Lundegårde
+Lundehuse
+Lundehøje
+Lundejorden
+Lundemarkshuse
+Lunden
+Lundenæs
+Lundenæs Mark
+Lunderbjerg
+Lundergård Mark
+Lunderhede
+Lunderskov
+Lunderup Mark
+Lunderød
+Lundfod
+Lundforlund
+Lundgård
+Lundgård Hede
+Lundgårde
+Lundgårdenge
+Lundgårds Mark
+Lundsbjerg
+Lundsby
+Lundsbæk
+Lundsbæk Mark
+Lundsgårde
+Lundsgårdsmark
+Lundsmark
+Lundsmark Hede
+Lundstoft
+Lundstorp
+Lundtang
+Lundtoft
+Lundtoft Mark
+Lundtofte
+Lundum
+Lundum Hede
+Lundumskov
+Lundø
+Luneborg
+Lung
+Lunge Bjerge
+Lunge Mark
+Lungehave
+Lunget
+Lungholm
+Lunghuse
+Lunkebugten
+Lunkeris
+Lureby
+Lusig
+Lustrup
+Lyby
+Lybæk
+Lybæk Mose
+Lybækshuse
+Lydersholm
+Lyderslev
+Lydinge
+Lydinge Gårde
+Lydinge Haver
+Lydum
+Lykkebjerg
+Lykkeby
+Lykkensro
+Lykkensspil
+Lykkesgård Mark
+Lykkeskær
+Lymose
+Lyndby
+Lyndelse
+Lynderup
+Lyne
+Lyne-Husted
+Lyng
+Lyng Huse
+Lyngbjerg
+Lyngby
+Lyngby Torp
+Lyngbyskov
+Lyngdrup
+Lynge
+Lynge-Eskilstrup
+Lyngen
+Lyngerup
+Lynget
+Lyngholm
+Lynghuse
+Lyngkrog
+Lyngmose
+Lyngrode
+Lyngs
+Lyngsbæk
+Lyngshede
+Lyngsig
+Lyngsø
+Lyngså
+Lyngså Fælled
+Lyngå
+Lynnerup Gårde
+Lyrsby
+Lysabild
+Lysabildskov
+Lysdalgårde
+Lysemose Huse
+Lysenvad
+Lysgård
+Lysgård Mark
+Lysholm
+Lysholt
+Lysmose
+Lyst
+Lystager Torp
+Lystbæk
+Lystbækkær
+Lysterkær
+Lystlund
+Lystrup
+Lystrup Skov
+Lyø By
+Læborg
+Læbro
+Lægens
+Lægårde
+Læhuse
+Lærkedalen
+Lærkegårde
+Lærkeholt
+Lærkehuse
+Læsten
+Læsø
+Løbners
+Løbækgårde
+Lødderup
+Lødderupvang
+Løens
+Løftgårde
+Løgager
+Løgballe
+Løgeskov
+Løgismoseskov
+Løgsted
+Løgsted Skalle
+Løgstrup
+Løgstør
+Løgten
+Løgtholtsled
+Løgtved
+Løgtved Fælled
+Løgtved Huse
+Løgum Bjerge
+Løgumgårde Mark
+Løgumkloster
+Løjenkær
+Løjet
+Løjt Kirkeby
+Løjt Skovby
+Løjtved
+Løkke
+Løkkeby
+Løkkegårde
+Løkkegårdshuse
+Løkkehuse
+Løkkemarken
+Løkken
+Lønborg
+Løndal
+Lønholm
+Lønholt
+Lønne
+Lønne Hede
+Lønne Klint
+Lønnerup
+Lønnestak
+Lønninge
+Lønstrup
+Lønt
+Lønå
+Lørslev
+Lørslev Vesterhede
+Lørslev Østerhede
+Lørsted
+Lørup
+Lørup Hede
+Løserup
+Løsning Nørremark
+Løt
+Løth
+Løvdal
+Løve
+Løvehave
+Løvel
+Løvesbjerg Gårde
+Løvet
+Løvig
+Løvlund
+Løvskal
+Løvstrup
+Lådne Brøndstrup
+Lådnehuse
+Låge
+Låge Mark
+Lågerup
+Låninggårde
+Laanshøj
+Lånum
+Lårup
+Låsby
+Låsled
+Låstrup
+Madeholm
+Madeholm Huse
+Madekær
+Madelung
+Maderne
+Maderup
+Maderupskov
+Madeskov
+Madsdige
+Madsgård
+Madslunde
+Madsted
+Madum
+Madum Gårde
+Madumflod
+Magelund Huse
+Magelunde
+Magersped
+Magistratshuse
+Maglebjerg
+Maglebrænde
+Magleby
+Magleby Ravnemark
+Maglegårde
+Magleholm
+Maglehøjgård
+Maglemose
+Magleskov Huse
+Magletving
+Magletving Holme
+Magtenbølle
+Magtenbølle Mark
+Magårde
+Majbøl
+Majbøl Løkke
+Majbølle
+Majbølle Fæland
+Majemose
+Majgårde
+Majled
+Makholm
+Malhøj
+Malle
+Malling
+Malling Bjerge
+Malling Huse
+Malling Nymark
+Malling Østerskov
+Malmhøj Huse
+Malmkær
+Malmose Huse
+Malskær
+Malt
+Maltbæk
+Maltbæk Mark
+Mammen
+Mamrelund
+Mandbjerg
+Mandehoved
+Mandemarke
+Manderup
+Mandsholm
+Mandø
+Manna
+Manna Enge
+Manstrup
+Manstrup Mark
+Marbjerg
+Marbjerg Mølle
+Marbæk
+Margretelund
+Margrethelund
+Mariager
+Maribo
+Mariegårde
+Mariemark
+Mariendal
+Mariendals Mark
+Marienhof
+Markbæk
+Marke
+Marke Skovhuse
+Markedsdal
+Markeslev
+Markhusene
+Markskel
+Markskelgårde
+Markusminde
+Marrebæk
+Marslev
+Marstal
+Marstrup
+Marstrup Østermark
+Martofte
+Marup
+Marvede
+Masnedø
+Mastrup
+Mastrup Mark
+Mattrup Ladegård
+Maugstrup
+Maugstrup Vestermark
+Maugstrupskov
+Mausing
+Mausing Mark
+Medsted
+Medum
+Meelse
+Mejlbjerg
+Mejlby
+Mejlby Mark
+Mejlhede
+Mejling
+Mejls
+Mejlsig
+Mejlskov
+Mejlsted
+Mejlstrup
+Mejlvang
+Mejrup Hede
+Mejsling
+Mejsling Skov
+Melby
+Melby Ender
+Melby Sønderstrand
+Meldgård
+Meldgårde
+Meldhede
+Meldrup
+Melhede
+Melholt
+Melkær
+Mellem Jølby
+Mellem Lert
+Mellemballe
+Mellemby
+Mellemgårde
+Mellemhaverne
+Mellemholm
+Mellemled
+Mellemvang
+Mellerup
+Melskov
+Meltofte
+Melvad
+Meløse
+Meng
+Menholt Mark
+Menstrup
+Menstrup Enghave
+Mergelland
+Mern
+Mern Hestehave
+Mern Skovhuse
+Merrild
+Merring
+Mesballe
+Mesing
+Mesinge
+Middel Frederiksdal
+Middelfart
+Middelhede
+Midskov
+Midstrup
+Midtby
+Midtkobbel
+Midtskov
+Mikkelborg
+Mikkelsdam
+Mikkelstrup
+Miklenborg
+Mileskov
+Milholt
+Milholt Mark
+Milholtvad
+Millinge
+Minde
+Minderækken
+Mindeshoved
+Minds
+Minkemark
+Mintebjerg
+Mintebjerghav
+Mjallerup
+Mjang
+Mjang Mark
+Mjanghøj
+Mjels
+Mjels Mark
+Mjolden
+Mjøls
+Moderup
+Moesgård
+Moesgård Huse
+Mogensbjerg
+Mogensbæk
+Mogensgårde
+Mogenstrup
+Mojbøl
+Molbjerg Mark
+Moldbjerg
+Molger
+Molhøj
+Mollerup
+Moltrup
+Mommark
+Monbjerg
+Mondrup
+Monstrup
+Morild
+Morre
+Morsbøl
+Morsholt
+Mortenskær
+Mortenstrup
+Morud
+Morum
+Morup Mølle
+Mosbjerg
+Mosbæk
+Mosbøl
+Mosdal
+Mose
+Moseby
+Mosebølle
+Mosegård
+Mosegårde
+Mosehuse
+Mosehusene
+Moseknolde
+Mosekær
+Moselavet
+Moselund
+Mosemarken
+Mosen
+Mosevrå
+Moshale
+Moshuse
+Mostrup
+Mou
+Mou Kær
+Moukær
+Movstgårde
+Muldbjerg
+Muleby
+Mullerup
+Mullerød
+Mulstrup
+Mulvad
+Mumgårde
+Mundbjerg
+Mundelstrup
+Munkdrup
+Munke
+Munke Bjergby
+Munkebjerg
+Munkebo
+Munkeby
+Munkeby Fæland
+Munkegård
+Munkegårde
+Munkemølle
+Munkerud Gårde
+Munkholm
+Munkhule
+Munkhuse
+Munklinde
+Munksjørup
+Muregård
+Musehuse
+Muspyt
+Musse Mader
+Musse Stilunder
+Mustrup
+Myager
+Mygdal
+Mygind
+Mygind Skovhuse
+Mygindlund
+Myllerup
+Mylund
+Mynderup
+Mynderup Hestehave
+Myreby
+Myregård
+Myrhøj
+Myrtue
+Myrup
+Mæby
+Mærkedal
+Mærskhuse
+Møballe
+Møbjerg
+Møborg
+Møgelballe
+Møgelbjerg
+Møgelby
+Møgelholt
+Møgelkær
+Møgelmose
+Møgelsig
+Møgelthorum
+Møgeltønder
+Møgelvang
+Møgelvold
+Møjbæksbro
+Mølballe
+Mølby
+Mølby-Ballum
+Møldam
+Møldrup
+Mølgård Huse
+Mølgårde
+Mølgårdsmark
+Mølhave
+Mølhede
+Mølholm
+Mølholt
+Mølkær
+Mølle Borup
+Møllebakken
+Møllebjerg
+Møllebækshuse
+Mølledamshuse
+Møllegyde
+Møllegård
+Møllegård Huse
+Møllegårde
+Mølleheden
+Møllehus
+Møllehuse
+Møllehøj
+Møllelavet
+Møllemark
+Møllemarken
+Møllemose Huse
+Møllerled
+Møllerup
+Mølleskov
+Møllesø
+Møllevang
+Møllevænge
+Møltrup Hede
+Mølvad
+Mølvang
+Mønge
+Mønge Huse
+Mønsted
+Mørdrup
+Mørke
+Mørkebjerg
+Mørkholt
+Mørkøv
+Mørup
+Mørup Mark
+Møsthuse
+Møsvrå
+Mågård
+Måholt
+Måle
+Måløv
+Mårbæk
+Måre
+Måreskov
+Mårholm
+Mårslet
+Mårsø
+Mårum
+Mårup
+Mårupgård
+Måstrup
+Måstrup Hede
+Nab
+Nabbe
+Nabben
+Nabe
+Naderup
+Nagbøl
+Nagelsti
+Nagstrup
+Najbjerg
+Nakke
+Nakkenshuse
+Nakskov
+Naldmose
+Naldtang
+Nannerup
+Nappedam
+Napstjært
+Naur
+Naur Kirkeby
+Nautrup
+Navndrup
+Navntoft
+Navrbjerg
+Navtrup
+Nebbelunde
+Nebel
+Nebel Hede
+Neble
+Neble Lyng
+Neble Torp
+Nebsager Bøge
+Nebsager Løkke
+Nebsagerskov
+Nedenskov
+Neder Bjerre
+Neder Bjerregrav
+Neder Blåkrog
+Neder Feldborg
+Neder Fidde
+Neder Fløjstrup
+Neder Frederiksdal
+Neder Frederiksmose
+Neder Geestrup
+Neder Ginderup
+Neder Gram
+Neder Hinding Gårde
+Neder Hjerk
+Neder Hvam
+Neder Hvolris
+Neder Jerstal
+Neder Julianehede
+Neder Kestrup
+Neder Kokholm
+Neder Lert
+Neder Randlev
+Neder Simmelkær
+Neder Slemming
+Neder Sønderby
+Neder Thyregodlund
+Neder Torup
+Neder Tved
+Neder Uhre
+Neder Ustrup
+Neder Vrigsted
+Neder Vrønding
+Neder Åstrup
+Nederballe
+Nederbro
+Nederby
+Nedergårde
+Nederhede
+Nederkarls
+Nederland
+Nedermark
+Nedermarken
+Nederste Række
+Nees
+Nees Kirkeby
+Neest
+Nejede
+Nejede Vesterskov
+Nejrup
+Nejs
+Nellemose
+Nellerud
+Nellerud Brohuse
+Nellerød
+Nevermose
+Nevershuse
+Nevre
+Nexø
+Nibe
+Nielsby
+Nielshave
+Nielstrup
+Nielstrup Mark
+Niløse
+Niløse Holme
+Nim
+Nimdrup
+Nimtofte
+Nipgård
+Nissemose Huse
+Nisset
+Nisset Indelukke
+Nisset Overhede
+Nisset Sønderhede
+Nissum
+Nissum Bjerge
+Nittrup
+Nivå
+Njær Mark
+No
+Nold
+Nolde
+Nolde Mark
+Nollund
+Nonbo
+Nonnebo
+Nordborg
+Nordby
+Nordbæk
+Nordenbro
+Nordenbro Vesteregn
+Nordenhuse
+Nordenskov
+Nordenå
+Nordgårde
+Nordhuse
+Nordkap
+Nordkrog
+Nordkær
+Nordmandshede
+Nordmarken
+Nordost
+Nordrup
+Nordskov
+Noret
+Norge
+Norgårde
+Normark
+Normsted
+Norre
+Norre Skovhuse
+Norring
+Nors
+Nors Havreland
+Norsminde
+Nortved
+Nortvig
+Norup
+Norupgårde
+Noruphøje
+Nostrup
+Notmarkskov
+Novrup
+Nustrup Hede
+Nustrup Nørremark
+Ny Bjergby
+Ny Bjerreby
+Ny Esbjerg
+Ny Gesinge
+Ny Hagested
+Ny Hellebæk
+Ny Horserød
+Ny Højen
+Ny Jystrup
+Ny Kløv
+Ny Kolstrup
+Ny Krogstrup
+Ny Møllehus
+Ny Nyby
+Ny Nørup
+Ny Pøl
+Ny Skelhuse
+Ny Skovbøl
+Ny Skovsgård
+Ny Stampemølle
+Ny Stavnsbøl
+Ny Stenderup
+Ny Strågeby
+Ny Søby
+Ny Tolstrup
+Ny Vemmenæs
+Nybo
+Nyboder
 Nyborg
 Nybro
-Nybrostrand
+Nyby
+Nyby Mark
+Nybygdgårde
+Nybøl
+Nybøl Mark
+Nybøl Nor
+Nybøl Vandmølle
+Nybøl Vestermark
+Nybøl Østermark
+Nybølle
+Nybølle Hede
+Nydam
+Nyeng
+Nyenlund
 Nygård
-Nygårds Hagar
-Nyhammar
-Nykil
-Nykroppa
-Nykvarn
-Nykyrka
-Nyköping
+Nygårde
+Nygårds Hjørne
+Nygårds Mark
+Nyhave
+Nyhede
+Nyholm
+Nyholm Mark
+Nyhuse
+Nyker
+Nykro
+Nykøbing F
+Nykøbing M
+Nykøbing S
 Nyland
-Nymölla
-Nynäshamn
-Nås
-Nälden
-Näs Bruk
-Nässjö
-Näsum
-Näsviken
-Näsåker
-Nättraby
-Nävekvarn
-Nävragöl
-Nöbbele
-Nödinge-Nol
-Obbola
-Ockelbo
-Odensbacken
-Odensberg
-Odensjö
-Oleby
-Olofstorp
-Olofström
-Olsfors
-Olshammar
-Olstorp
-Onsala
-Onslunda
-Ope
-Optand
-Ormanäs
-Stanstorp
-Ornäs
-Orrefors
-Orrviken
-Orsa
-Osby
-Osbyholm
-Oskar-Fredriksborg
-Oskarshamn
-Oskarström
-Ostvik
-Otterbäcken
-Ovanåker
-Ovesholm
-Oxelösund
-Oxie
-Pajala
-Parksidan
-Pauliström
-Persberg
-Persbo
-Pershagen
-Perstorp
-Persön
-Pilgrimstad
-Piperskärr
-Piteå
-Porjus
-Pukavik
-Påarp
-Pålsboda
-Påläng
-Påryd
-Påskallavik
-Rabbalshede
-Raksta
-Ramdala
-Ramnäs
-Ramsberg
-Ramsele
-Ramstalund
-Ramvik
-Ransta
-Rappestad
-Reftele
-Rejmyre
-Rengsjö
-Repbäcken
-Resarö
-Revingeby
-Riala
-Riddarhyttan
-Riksten
-Rimbo
-Rimforsa
-Ringarum
-Ringsegård
-Rinkaby
-Rinkabyholm
-Risögrund
-Rixö
-Robertsfors
-Rockhammar
-Rockneby
-Roknäs
-Rolfs
-Rolfstorp
-Roma
-Romakloster
-Ronneby
-Ronnebyhamn
-Rosenfors
+Nylars
+Nyled
+Nylukke
+Nyløkke
+Nyløkke Huse
+Nymark
+Nymarkshuse
+Nymindegab
+Nymølle
+Nyord
+Nyprøve
+Nyrup
+Nyrup Mark
+Nyråd
+Nyråd-Stensved
+Nyskov
+Nyslund
+Nystaden
+Nysted
+Nystedskov
+Nysum
+Nysum Hede
+Nysø
+Nytorp
+Nyvang
+Nyvangsgårde
+Nyvænge
+Næbbegård
+Næbbehuse
+Næblerød
+Næbs Mølle
+Nærum
+Næs
+Næsbjerg
+Næsborg
+Næsby
+Næsby Fed
+Næsby Huse
+Næsby Overdrev
+Næsby ved Stranden
+Næsbyhoved-Broby
+Næsbyskov
+Næsbæk
+Næsdal
+Næsgård
+Næssevang
+Næstebølle
+Næstelsø
+Næstholt
+Næstild
+Næstrup
+Næstved
+Nøbbet
+Nøbbet Østerskov
+Nødager
+Nøddelund
+Nødebo
+Nødholm
+Nøjsomhed
+Nøkkentved
+Nølev
+Nørager
+Nørager Mark
+Nørbak
+Nørballe
+Nørby
+Nørby Gårde
+Nørbæk
+Nørbæk Skovager
+Nørbølling
+Nørdam
+Nøreng
+Nørgård
+Nørgårdshede
+Nørhalne
+Nørhalne Hedehuse
+Nørhalne Markhuse
+Nørhede
+Nørhede Mark
+Nørholm
+Nørholm Enge
+Nørhoved
+Nørhøe
+Nørhå
+Nørklit
+Nørkær
+Nørlang
+Nørlev
+Nørlund
+Nørmark
+Nørre Abild
+Nørre Agerbæk
+Nørre Aldum
+Nørre Alslev
+Nørre Andrup
+Nørre Arup
+Nørre Asmindrup
+Nørre Billum
+Nørre Bindslev Hede
+Nørre Bjerge
+Nørre Bork
+Nørre Borup
+Nørre Bratbjerg
+Nørre Broby
+Nørre Bøel
+Nørre Dalby
+Nørre Dråby
+Nørre Egebølle
+Nørre Eskilstrup
+Nørre Esp
+Nørre Esterbølle
+Nørre Farup
+Nørre Fastrup
+Nørre Felding
+Nørre Felding Kirkeby
+Nørre Feldingbjerg
+Nørre Fjand
+Nørre Folding
+Nørre Frejlev
+Nørre Frenderup
+Nørre Galten
+Nørre Grene
+Nørre Grimmelstrup
+Nørre Gunderup
+Nørre Harritslev
+Nørre Haurvig
+Nørre Havbro
+Nørre Herlev
+Nørre Hjarup
+Nørre Holsted
+Nørre Hostrup
+Nørre Hug
+Nørre Hvalsø
+Nørre Hvam
+Nørre Hvidbjerg
+Nørre Hvillum
+Nørre Hyllinge
+Nørre Højrup
+Nørre Kejlstrup
+Nørre Kirkeby
+Nørre Knudstrup
+Nørre Kollund
+Nørre Kongerslev
+Nørre Langelund
+Nørre Lem
+Nørre Lind
+Nørre Longelse
+Nørre Lovrup
+Nørre Lydum
+Nørre Lyndelse
+Nørre Løgum
+Nørre Nebel
+Nørre Nissum
+Nørre Nærå
+Nørre Onsild
+Nørre Radsted
+Nørre Rind
+Nørre Rubjerg
+Nørre Rævind
+Nørre Sahl
+Nørre Sejerslev
+Nørre Skjoldborg
+Nørre Skovsende
+Nørre Skovsgård
+Nørre Snede
+Nørre Staby
+Nørre Stenderup
+Nørre Stænge
+Nørre Søby
+Nørre Søby Mark
+Nørre Søller
+Nørre Sørå
+Nørre Tarp
+Nørre Thise
+Nørre Tinnet
+Nørre Tornby
+Nørre True
+Nørre Trækær
+Nørre Tulstrup
+Nørre Tvede
+Nørre Tvismark
+Nørre Tåstrup
+Nørre Vallenderød
+Nørre Vedby
+Nørre Vilstrup
+Nørre Vissing
+Nørre Vittrup
+Nørre Vium
+Nørre Voerså Hede
+Nørre Vognbjerg
+Nørre Vollum
+Nørre Vornæs
+Nørre Vorupør
+Nørre Vrå
+Nørre Økse
+Nørre Økse Enge
+Nørre Økse Kær
+Nørre Økse Sø
+Nørre Ønlev
+Nørre Ørslev
+Nørre Ørum
+Nørre Aaby
+Nørre Ålum
+Nørreballe
+Nørreby
+Nørreby Hals
+Nørredam
+Nørredige
+Nørregård
+Nørregårde
+Nørrehave
+Nørrehede
+Nørreheden
+Nørreherred
+Nørreholm
+Nørrehåb
+Nørreløkke
+Nørremark
+Nørremarken
+Nørremarksgyden
+Nørremose
+Nørremølle
+Nørreskov
+Nørresundby
+Nørrevang
+Nørrevejle
+Nørrevænge
+Nørskov
+Nørskovlund
+Nørtarp
+Nørtoft
+Nørtorup Hede
+Nørtorup Kær
+Nørtorup Mark
+Nørtved
+Nørum
+Nørup
+Nørupdal
+Nørvang
+Nørå
+Nøtten
+Nøttrup
+Nøvling
+Nåbjerg
+Nåby
+Nålebakke
+Nårup
+Nårup Bjerge
+Nårupskov
+Obbekær
+Obdrup
+Obitsø
+Obling
+Obstrup
+Odby
+Odde
+Oddegårde
+Odden Mark
+Oddense
+Odder
+Odderbæk
+Oddermark
+Odderup
+Oddesund Nord
+Oddesund Syd
+Odense
+Odgårde
+Odsgårde
+Okkels
+Oksbøl
+Oksenbjerge
+Oksenbøl
+Oksenvad
+Oksenvad Mark
+Oksfeld
+Oksgårde
+Okslund
+Oksvang
+Olde
+Olde Mark
+Oldekrog
+Oldhuse
+Oldrup
+Olesbjerg
+Ollerup
+Ollerup Kohave
+Olling
+Olsker
+Olstrup
+Olstrup Overdrev
+Omme
+Ommel
+Ommelshoved
+Ommestrup
+Ommosegård
+Omvrå
+Omvrå Nordby
+Omvrå Søndermark
+Omø
+Ondrup
+Onsbjerg
+Onsbæk
+Onsevig
+Onsted
+Onsved
+Onsved Huse
+Onsved Mark
+Opager
+Opagerskov
+Oplev
+Oppelstrup
+Opperby
+Opsneum
+Opstrup
+Opsund
+Ordrup
+Ordrupholm
+Ore
+Ore Grave
+Orebo
+Oreby
+Oreby Huse
+Orehave
+Orehoved
+Orevad
+Orholm
+Ormenavsgårde
+Ormeslev
+Ormslev
+Ormstrup
+Ornebjerg
+Ornebjerg Vrå
+Ornebjerglund
+Ornum
+Orte
+Orten
+Ortved
+Orup
+Orupgårdshuse
+Osager
+Osbæk
+Osmark
+Osted
+Osted Hestehave
+Ostrup
+Ottersbøl
+Otterup
+Ottestrup
+Otting
+Otting Udmark
+Ottrup Huse
+Oudrup
+Oue
+Ougtved
+Oure
+Oustrup
+Outrup
+Oved
+Ovenby
+Ovenskov
+Over Blåkrog
+Over Even
+Over Fidde
+Over Fløjstrup
+Over Frederiksdal
+Over Fussing
+Over Fussingholm
+Over Geestrup
+Over Ginderup
+Over Glud
+Over Hjerk
+Over Holluf
+Over Hvam
+Over Hvolris
+Over Isen
+Over Jels
+Over Jerstal
+Over Julianehede
+Over Kestrup
+Over Kokholm
+Over Kærby
+Over Lert
+Over Randlev
+Over Slemming
+Over Sønderby
+Over Torup
+Over Uhre
+Over Ustrup
+Over Vindinge
+Over Viskum
+Over Vrønding
+Over Åstrup
+Overballe
+Overbjerg
+Overby
+Overdam
+Overdrev
+Overdrevet
+Overdrevshuse
+Overgård
+Overgård Mark
+Overgårde
+Overhøl
+Overkarls
+Overlade
+Ovnbøl
+Ovnstrup
+Ovsbjerg
+Ovstrup
+Ovtrup
+Ovtrup Stræde
+Pabsø Huse
+Padborg
+Paddesø
+Padholm
+Padkær Mark
+Palleshave
+Palleshave Hede
+Palmegårde
+Pamhule
+Pandrup
+Pandrup Mark
+Pandum Mark
+Pandumbro
+Pannerup
+Paradis
+Paradisgårde
+Paragraf Fem
+Paris
+Passebæk
+Peberbakken
+Peberbjerg
+Pebringe
+Pebringe Overdrev
+Pedersker
+Pederskov Huse
+Pederstrup
+Pedholt
+Pejrup
+Pennsylvanien
+Perbøl
+Perbøl Mark
+Permelille
+Persillegade
+Petersborg
+Petersholt
+Petersværft
+Pibemølle
+Pikhede
+Pikkerhuse
+Pilegård
+Pilehave
+Pilemølle
+Pilet
+Pilgård
+Pilhuse
+Pillemark
+Pilshuse
+Pindstofte
+Pindstrup
+Pinnesholm
+Pinsebakken
+Pinvig
+Pisselager
+Pisselhøj
+Pistevang
+Pjedsted
+Pjedsted Spang
+Pladshuse
+Planteheld
+Plejelt
+Plejelt Overdrev
+Plejerup
+Plessens Overdrev
+Plomgårde
+Plougslund
+Plovsgårde
+Plovstrup
+Plovsvad
+Pluskær
+Pogemosetofte
+Polden
+Poldergårde
+Polen
+Pollerhuse
+Pollerup
+Pollerup Kokkegård
+Pollerup Kullegård
+Polleskov Huse
+Pommersgårde
+Pomose
+Pomphole
+Poppenbøl
+Porrehuse
+Porsbakke
+Porsheden
+Porskær
+Porsmark
+Porsmose
+Pottehuse
+Poulstrup
+Povlsker
+Povlsker Højlyng
+Povlstrup
+Prebensgård
+Prejlerup
+Profithuse
+Profitten
+Præstbro
+Præstbøl
+Præstebrogyden
+Præsteeng
+Præstegårde
+Præstegårdsmarken
+Præstehede
+Præstehuse
+Præstelods Huse
+Præstemark
+Præstemarken
+Præstens Kær
+Præsterum
+Præsteskov
+Præstevænge
+Præstholm
+Præstø
+Præstø Overdrev
+Pugholm
+Pughøj
+Puglund
+Pulsen
+Purhus
+Purkær
+Purup
+Pusseløkke
+Putheden
+Putten
+Pythuse
+Pyttenshede
+Pæleværk
+Pøel
+Pøl
+Pølsekrog
+Pølsmark
+Pøt
+Pøthuse
+På Gryet
+På Klint
+På Lyngen
+På Løkker
+På Sandet
+Påby
+Påbøl
+Påkær
+Pårup
+Pårup Hede
+Påstrup
+Påø
+Rabenshuse
+Rabis
+Rabæk
+Radbjerg
+Radby
+Radsted
+Radsted-Langet
+Radstrup
+Ragebøl
+Ragebølskov
+Rajen
+Rakkeby
+Rakkeby Hede
+Raklevhøje
+Rallebæk
+Ramløse
+Ramme
+Rammeskov
+Ramsdal
+Ramsherred
+Ramsing
+Ramskov
+Ramsø Gårde
+Ramsølille
+Ramsømagle
+Ramten
+Ramten Hede
+Randbæk
+Randbøl
+Randbøldal
+Randers
+Randerup
+Randerup Østermark
+Randkløve
+Randlev Mose
+Randrup
+Randrup Mark
+Rands
+Randsig
+Rangstrup
+Rangstrup Gårde
+Rangstrup Mark
+Rangtang
+Rankenbjerg
+Rannerød
+Rantzausminde
+Ranum
+Rappenborg
+Rasborg
+Rasdal
+Rask Mark
+Rask Mølle
+Rat
+Rauf
+Raved
+Raved Mark
+Ravhede
+Ravlund
+Ravndal
+Ravndrup
+Ravndrup Vænge
+Ravnebakke
+Ravnebjerg
+Ravnebjerggyden
+Ravnegravene
+Ravnemark
+Ravneryd
+Ravngårde
+Ravnholt
+Ravnholt Hede
+Ravnholt Mark
+Ravnholtlund
+Ravnhøj
+Ravning
+Ravningskov
+Ravnkilde
+Ravnsbakke
+Ravnsbjerg
+Ravnsbjerg Løjed
+Ravnsby
+Ravnsbæk
+Ravnsholt
+Ravnsholte
+Ravnshøj
+Ravnshøjgyden
+Ravnskov
+Ravnsmose
+Ravnsnæs
+Ravnstrup
+Ravnstrup Hede
+Ravnsvad
+Ravnsø
+Ravsted
+Ravsted Mark
+Rebbøl
+Rebelsig
+Rebild
+Rebild Skovhuse
+Rebstrup
+Redsted
+Redsø
+Reerslev
+Reersnæs
+Reerstrup
+Reersø
+Refs
+Refsgårde
+Refskov
+Refsnæs
+Refstrup
+Refsvindinge
+Regel
+Regerup
+Regnemark
+Regstrup
+Rejkær
+Rejnstrup
+Rejsby
+Rejsby Østermark
+Rejsby-Ballum
+Rejstrup
+Rekkende
+Remkolde
+Remme
+Remmer
+Remmerlund
+Renbækgård
+Rendbjerg
+Rendborg
+Rendbæk
+Rendebæk
+Rendeløb
+Render
+Render Mark
+Renehuse
+Renge
+Rennebjerg
+Rens
+Rens Mark
+Resdal
+Resen
+Resen Østerhede
+Resendal
+Resenfelde
+Resenstad
+Reshøj Huse
+Restrup Enge
+Restrupkær
+Retholt
+Rettestrup
+Rettrup
+Reveldrup
+Revitse
+Revl
+Revn
+Revning
+Revninge
+Revsgårde
+Revshale
+Revshøj
+Revsing
+Revslund
+Revsø
+Revsø Mark
+Revsø Parceller
+Revsøre
+Revsøre Fiskerleje
+Ribberholt
+Ribe
+Ribe Mark
+Ribe Søndermark
+Ridderstien
+Riddertofte
+Rifbjerg
+Rigtrup
+Riis
+Rimmehuse
+Rimmen
+Rimmerhus
+Rimmerne
+Rimsø
+Rind
+Rindby
+Rindebæk
+Rindhuse
+Rindsholm
+Ring
+Ring Mark
+Ringdale
+Ringe
+Ringeby
+Ringholm
+Ringive
+Ringkøbing
+Ringsbjerg
+Ringsbjerg Tved
+Ringseby
+Ringsebølle
+Ringsholt
+Ringsted
+Ringstrup
+Ringsø
+Ringtved
+Ringtvedskov
+Ringvang
+Rinkenæs
+Rinkenæs Mark
+Ris
+Risager
+Risbjerg
+Risby
+Risby Mark
+Risbøl
+Rise
+Rise Mark
+Rise-Hjarup
+Rise-Hjarup Østermark
+Risen
+Risenholm
+Riserup
+Riseskov
+Risgårde
+Rishave
+Rishøj
+Riskær
+Rislev
+Rispebjerg
+Ristinge
+Ristinge Hale
+Ristoft
+Risum
+Risvang
+Risø Huse
+Roager
+Roager Østermark
+Robbedale
+Robdrup
+Roborg
+Robstrup
+Rode
+Rodebæk
+Rodelund
+Rodemark
+Roden Skov
+Rodskov
+Rodsted
+Rodstrup
+Roe
+Roerslev
+Roesgård
+Rohde
+Rojbøl
+Roland
+Rold
+Roldsløkker
+Rolighed
+Rolsted
+Rolund
+Roløkke
+Rom
+Romlund
+Rommerhuse
+Romvig Gårde
+Roneklint
+Roneklint Skov
+Ronesbanke
+Ronnum
+Ronæs
+Ronæsskov
+Roost
+Roost Vestermark
+Ropperhede
+Rorup
+Rosenbusk
+Rosenby
+Rosendal
+Rosendale
 Rosenlund
-Rosersberg
-Rossön
-Rosvik
-Rot
-Roteberg
-Rottne
-Rottneros
-Ruda
-Rundvik
-Runemo
-Runhällen
-Runtuna
-Rusksele
-Rutvik
-Rya
-Ryd
-Rydaholm
+Rosenvold
+Rosenvænget
+Rosgårde
+Roskilde
+Roskildehave
+Roslev
+Roslev Snabe
+Rosmus
+Rosningen
+Rosted
+Rostrup
+Rostved
+Rotbøl
+Rottarp
+Rottrup
+Roum
+Rountved
+Roust
+Rousthøje
+Roved
+Rovstrup
+Rovt
+Rubjerg
+Rubjergskov
+Ruby
+Rud
+Rudbjerg
+Rudbjerg Huse
+Rudbøl
+Rude
+Rude-Eskilstrup
+Rudkøbing
+Rudme
+Rudmose
+Ruds Vedby
+Rudskov Huse
+Rue
+Rue Hede
+Rue Lundsgårde
+Ruehuse
+Rueled
+Ruerne
+Rufas
+Rugballe
+Rugbjerg
+Rugdalshuse
+Rughaven
+Rugholm
+Rugkrog
+Rugløkke
+Rugsted
+Rugtorvet
+Rugtved
+Rugtved Fælled
+Rundbjerg
+Runddelen
+Rundkær Bjerg
+Runsten
+Rurup
+Rurup Nørremark
+Rurup Vestermark
+Ruseng
+Ruskær
+Rusland
+Rustrup
+Rutsker
+Rutsker Højlyng
+Rutsker Plantage
+Ry
+Rybjerg
 Rydal
-Rydbo
-Rydboholm
-Rydebäck
-Rydsgård
-Rydsnäs
-Rydöbruk
-Ryssbo
-Ryssby
+Ryde
+Ryde Hede
+Rydemark
+Ryderne
+Rydskov
+Rye
+Rye Gårde
+Ryebro
+Rye-Glarbo
+Rygbjerg
+Rygård Strand
+Rygårde
+Ryholmshuse
+Ryk-ind
+Rykkerup
+Ryletorv
+Rynkeby
+Rynkeby Hede
+Rynkeby Hestehave
+Rynkeby Kohave
+Rynken
+Ryomgård
+Ryslinge
+Ryslinge Mark
+Rytsebæk
+Ryttermose
+Ryå
+Rædkær
+Ræhr
+Rækkeborg
+Rækkehuse
+Rækken
+Rækker Mølle
+Rælling
+Rælling Huse
+Rærup
+Rætebøl
+Rævdal
+Rævhede
+Rævskær
+Rø
+Røbro
+Rødager
+Rødby
+Rødby Fæland
+Rødbyhavn
+Rødbylund
+Rødding
+Rødding Søndermark
+Rødding Vestermark
+Rødding Østermark
+Røddinge
+Røde Huse
+Rødebæk
+Rødehede
+Rødehuse
+Rødekro
+Rødeled
+Rødeledshuse
+Rødelåge
+Rødemose
+Rødeng
+Rødesig
+Rødhede
+Rødhus Klit
+Rødkilde
+Rødkulle Huse
+Rødkærsbro
+Rødme
+Rødmegyden
+Rødovre
+Rødskebølle
+Rødvig
+Røgelborg
+Røgelhede
+Røgen
+Røgerup
+Røgerup Old
+Røgeskov
+Røgild
+Røgilhuse
+Røgind
+Røgle
+Røjbæk
+Røjdrup
+Røjen
+Røjklit
+Røjkum
+Røjkær
+Røjle
+Røjle Nyhave
+Røjle Tårup
+Røjleskov
+Røjskov
+Røkkendal
+Røllum
+Røllumskov
+Rømet
+Rømø Kirkeby
+Rønbjerg
+Røndal
+Rønde
+Rønge
+Røngårde
+Rønhede
+Rønholt
+Rønhuse
+Rønkilde
+Rønlanger
+Rønne
+Rønnebjerg Hede
+Rønnebæk
+Rønnebækshuse
+Rønnebæk-Sibberup
+Rønnede
+Rønnevang
+Rønninge
+Rønningen
+Rønnovsholm Mark
+Rønsdam
+Rønshoved
+Rønslunde
+Rørby
+Rørbæk
+Rørbæk Mark
+Rørbæk-Langet
+Rørholt
+Rørkær
+Rørmose
+Rørsløkke
+Rørt
+Rørt Elle
+Rørt Skov
+Rørtang Overdrev
+Rørte Huse
+Rørup
+Rørvig
+Røsted
+Røstofte
+Røved
+Røverskoven
+Røverstedbro
+Råbjerg
 Råby
-Råda
-Råneå
-Rångedala
-Rånnaväg
-Rånäs
-Rälla
-Rängs Sand
-Ränneslöv
-Rättarboda
-Rättvik
-Rävemåla
-Rävlanda
-Röbäck
-Röda Holme
-Rödbo
-Rödeby
-Röfors
-Röke
-Rönneshytta
-Rönnäng
-Rörvik
-Rörö
-Röstånga
-Sala
-Salbohed
-Saleby
-Saltsjöbaden
-Saltvik
-Sandared
-Sandarne
-Sandhem
-Sandhult
-Sandskogen
-Sandslån
-Sandviken
-Sandviken
-Sangis
-Sankt Olof
-Sannahed
-Saxdalen
-Saxtorpsskogen
-Segersta
-Segersäng
-Segmon
-Selja
-Sennan
-Seskarö
-Sexdrega
-Sibbhult
-Sibble
-Sibo
-Sidensjö
-Sifferbo
-Sigtuna
-Siljansnäs
-Silverdalen
-Simlångsdalen
-Simonstorp
-Simris
-Simrishamn
-Sjuhalla
-Sjulsmark
-Sjunnen
-Sjuntorp
-Sjöberg
-Sjöbo
-Sjöbo Sommarby
-Svansjö Sommarby
-Sjödiken
-Sjögestad
-Sjömarken
-Sjörröd
-Sjösa
-Sjötorp
-Sjövik
-Skagersvik
-Skanör
-Falsterbo
-Skara
-Skattkärr
-Skattungbyn
-Skavkulla
-Skebobruk
-Skeda Udde
-Skedala
-Skede
-Skedvi Kyrkby
+Råby Kær
+Råby Sandlodder
+Råby Sønderhede
+Råbylille
+Råbymagle
+Rådal
+Rådbjerg
+Råde
+Råde Mark
+Rådekrog
+Rådvad
+Raadvad
+Rådved
+Rådved Kær
+Rågelund
+Rågelunde Bækkeskov
+Rågeskov
+Rågholm
+Rågø
+Rågårde
+Råhede
+Råhede Mark
+Råmose
+Rårud
+Rårup
+Rårup Østermark
+Råsig
+Råst
+Råsted
+Sabro
+Sabro-Bjørnkær
+Sadbjerg
+Sadderup
+Sageby
+Sahl
+Saksborg
+Saksebro
+Saksild
+Sakskær
+Sakskøbing
+Saksmose Huse
+Sakstrup
+Salby
+Saldrup
+Salene
+Sall
+Sall Hede
+Sallerup
+Sallinge
+Sallinge Lunde
+Sallinge Mark
+Sallingsund
+Salløv
+Salsmose
+Saltbæk
+Salten
+Salten Skov
+Saltofte
+Saltofte Holme
+Saltov
+Saltrup
+Saltum
+Saltum Kær
+Saltum Mark
+Saltuna
+Saltvig
+Saltø By
+Samletgårde
+Sammelstedby
+Sandager
+Sandager Kohave
+Sandager Næs
+Sandagerskær
+Sandbakke
+Sandbjerg
+Sandbjerg Gårde
+Sandbjerg Hede
+Sandby
+Sandby Lundemark
+Sandbæk
+Sanden
+Sander
+Sanderhuse
+Sandet
+Sandfeld
+Sandfeld Bjerge
+Sandgrav
+Sandholm
+Sandkær
+Sandkær Huse
+Sandlyng
+Sandmosen
+Sandvad
+Sandvad Overdrev
+Sandved
+Sandvig
+Sandvig Kohave
+Sangstrup
+Sankt Klemens
+Sankt Thomas Huse
+Sarup
+Sarupskov
+Sasserod
+Sasserod Kohave
+Sasserup
+Sattrup
+Saugstrup
+Saunte
+Saunte Overdrev
+Savnsø
+Savstrup
+Schæfergårde
+Sebbelev
+Sebbelev Mark
+Sebbersund
+Sebberup
+Sebstrup
+Seden Strand
+Seem
+Seem Mark
+Seerdrup
+Seest Vesterskov
+Seest Østerskov
+Seggelund
+Sejbæk
+Sejerby
+Sejerslev
+Sejet
+Sejet Nørremark
+Sejlflod Kær
+Sejling
+Sejling Hede
+Sejlstrup
+Sejlstrup Mark
+Sejrup
+Sejs-Svejbæk
+Sejstrup
+Sejt
+Seksgårde
+Sekshusene
+Sekær
+Selde
+Seldrup
+Selkær
+Sellerupskov
+Sellerupvang
+Selling
+Selsinggårde
+Selskær
+Sem
+Semb
+Sengeløse
+Sennels
+Sentved
+Sepstrup
+Sepstrup Krat
+Serridslev
+Serritslev
+Serup
+Sevadshuse
+Sevel
+Sevel Skovby
+Sevelskov
+Sevelsted
+Sibberup
+Sibirien
+Sidager
+Sidinge
+Siem
+Siem Udflyttere
+Sig
+Sigersholm
+Sigerslev
+Sigerslevvester
+Sigerslevøster
+Sigersted
+Sigersted Huse
+Siggård
+Siggårde
+Siggårdsholm
+Signekær
+Sigsgårdsmark
+Sigtenborg
+Sikær
+Sildeballe
+Sildestrup
+Silkeborg
+Silkesigen
+Sillerslev
+Sillerup
+Sillerup Bjerg
+Silstrup
+Siltoft
+Simested
+Simestedbro
+Simmel
+Simmelbæk
+Simmelgårde
+Simmelkær
+Simmendrup
+Simmerbølle
+Simmersted
+Simonshoved
+Sindal
+Sindal Hede
+Sindballe
+Sindbjerg
+Sindbjerglund
+Sindet
+Sinding
+Sinding Hede
+Sindkær
+Sindrup
+Sinebjerg
+Sinkbæk
+Sir
+Sir Gårde
+Sir Mark
+Sirsbæk
+Siveagre
+Sivested
+Sivet
+Sivkær
+Sjelle
+Sjelle Mark
+Sjellerup Mark
+Sjellerupskov
+Sjodgård
+Sjolte
+Sjolte Strandhuse
+Sjunkeby
+Sjælborg
+Sjælsmark
+Sjælstofte
+Sjælstofte Fæland
+Sjælstofteskov
+Sjølund
+Sjørring
+Sjørslev
+Sjørup
+Sjørup Gårde
+Sjøstrup
+Skablund
+Skade
+Skader
+Skadhede
+Skads
+Skaftelev
+Skaftelevgårdshuse
+Skafterup
+Skafterup Huse
+Skagelfaldet
+Skagen
+Skakkenborg
+Skal Huse
+Skalbjerg
+Skalborg Huse
+Skald
+Skalkendrup
+Skallebjerg
+Skallebæk
+Skallebølle
+Skallehage
+Skallerne
+Skallerup
+Skallerød
+Skalmstrup
+Skals
+Skalsbjerg
+Skalsby
+Skalstrup
+Skalø
+Skamby
+Skamling
+Skamstrup
+Skanderborg
+Skanderup
+Skanderup Kirkeby
+Skannerup
+Skansen
+Skarmose Gårde
+Skarndal
+Skarp Salling
+Skarpeskade
+Skarre
+Skarresø
+Skarrild
+Skarrild Nederby
+Skarrild Overby
+Skartved
+Skarum
+Skarø By
+Skast
+Skattebølle
+Skautrup
+Skave
+Skaven
+Skavenborg
+Skaverup
+Skavhede
+Skebjerg
+Skeby
+Skedebjerg
 Skee
-Skegrie
-Skelleftehamn
-Skellefteå
-Skepparkroken
-Skepplanda
-Skeppsdalsström
-Skeppshult
-Skillingaryd
-Skillinge
-Skillingenäs
-Skinnskatteberg
-Skivarp
-Skoby
-Skog
-Skoghall
-Skogsby
-Skogstorp
-Skogstorp
-Skottorp
-Skottsund
-Skrea
-Skreanäs
-Skriketorp
-Skruv
-Skultorp
-Skultuna
-Skummeslövsstrand
-Skumparp
-Skurup
-Skutskär
-Skyttorp
-Skånes-Fagerhult
-Skåpafors
-Skåre
-Skällinge
-Skänninge
-Skärblacka
-Skärgårdsstad
-Skärhamn
-Skärplinge
-Skärstad
-Sköldinge
-Sköllersta
-Skölsta
-Skövde
-Slaka
-Slite
-Slottsbron
-Slottsskogen
-Slätten
-Slöinge
-Smedby
-Smedjebacken
-Smedstorp
-Smygehamn
-Smålandsstenar
-Smögen
-Snöveltorp
-Solberga
-Solberga
-Sollebrunn
-Sollefteå
-Sollerön
-Solsidan
-Solvarbo
-Sommen
-Sonstorp
-Sorsele
-Sorunda
-Sparreholm
-Spjutsbygd
-Spångsholm
-Staffanstorp
-Stallarholmen
-Starrkärr
-Näs
-Stava
-Stavreviken
-Stavsjö
-Stavsnäs
-Stehag
-Stenared
-Stenhamra
-Steninge
-Stensele
-Stensjön
-Stenstorp
-Stensund
-Krymla
-Stenungsund
-Stenungsön
-Sticklinge Udde
-Stidsvig
-Stigen
-Stigtomta
-Stjärnhov
-Stoby
-Stocka
-Stockamöllan
-Stockaryd
-Stockholm
-Stockvik
-Stora Bugärde
-Stora Dyrön
-Stora Herrestad
-Stora Höga
-Stora Levene
-Stora Mellby
-Stora Mellösa
-Stora Skedvi
-Stora Vika
-Storebro
-Storfors
-Storuman
-Storvik
-Storvreta
-Storå
-Strandnorum
-Striberg
-Strålsnäs
-Strångsjö
-Stråssa
-Strängnäs
-Strömma
-Strömsbruk
-Strömsfors
-Strömsholm
-Strömsnäsbruk
-Strömstad
-Strömsund
-Strövelstorp
-Stugun
-Sturefors
-Sturkö
-Styrsö
-Stånga
-Stångby
-Ställdalen
-Stöcke
-Stöcksjö
-Stöde
-Stöllet
-Stöpen
-Sulvik
-Sund
-Sundborn
+Skee Old
+Skeen
+Skee-Tåstrup
+Skelby
+Skelbæk
+Skeldal
+Skeldam
+Skelde
+Skelde Kobbel
+Skelde Mark
+Skelde Vig
+Skeldrup
+Skelhave
+Skelhøje
+Skellebjerg
+Skellerup
+Skellerup Nygårde
+Skellerød
+Skellet
+Skellingsted
+Skelmose
+Skelsgårde
+Skeltved
+Skelund
+Skenkelsø
+Skerne
+Skerping
+Skerris
+Skibbild
+Skibby
+Skibby Old
+Skibeholt
+Skibelund
+Skibelund Bjerg
+Skibet
+Skibinge
+Skibsby
+Skibsby Hede
+Skibsholt
+Skibsted
+Skibstrup
+Skibstrup Overdrev
+Skibtved
+Skidenstræde
+Skiffard
+Skiftemose
+Skikkildmund
+Skimlen
+Skinbjerg
+Skindbjerg
+Skindbjerglund
+Skinderholm
+Skindersø
+Skinderup
+Skinnerup
+Skippinge
+Skive
+Skiveren
+Skivholme
+Skivum
+Skivum Nørrekrat
+Skivum Østerkrat
+Skjedsbøl
+Skjellerup
+Skjellund
+Skjerk
+Skjern
+Skjern Birk
+Skjold
+Skjoldager
+Skjoldbjerg
+Skjoldelev
+Skjoldelev Mødal
+Skjoldemose
+Skjoldhøj
+Skjoltrup
+Skjortholt
+Skjulsmark
+Skjærskovhede
+Skjød
+Skjørring
+Skodborg
+Skodborghus
+Skodborgskov
+Skodsborg
+Skodsbøl
+Skodsbøl Mark
+Skodsebølle
+Skoffergårde
+Skolding
+Skomagerhuse
+Skonager
+Skonagerlund
+Skorup
+Skottehuse
+Skottemarke
+Skov
+Skov Børstrup
+Skov Hastrup
+Skov Hastrup Overdrev
+Skov Torup
+Skov Vallenderød
+Skovbakke
+Skovballe
+Skovbjerg
+Skovbo
+Skovbrynke
+Skovby
+Skovby Mark
+Skovby Nymark
+Skovby Sand
+Skovbyballe
+Skovbylund
+Skovbyskov
+Skovbølgårds Mark
+Skovbølle
+Skovbølling
+Skovbølmark
+Skovdallund
+Skove
+Skoven
+Skovengen
+Skovengene
+Skovgård
+Skovgårde
+Skovhave
+Skovhaver
+Skovhuse
+Skovjorden
+Skovkrogen
+Skovkær
+Skovladen
+Skovlund
+Skovlunde
+Skovlænge
+Skovløkke
+Skovmark
+Skovmølle
+Skovrup
+Skovrækken
+Skovrød Huse
+Skovrødgård
+Skovs Højrup
+Skovsbo
+Skovsborg
+Skovsby
+Skovsbøl
+Skovsende
+Skovsendemark
+Skovsgård
+Skovsgårde
+Skovsgårds Mark
+Skovsmose
+Skovsrod
+Skovsted
+Skovstrup
+Skovstræde
+Skovsø Lillevang
+Skovvang
+Skraldhede
+Skrallehave
+Skram
+Skranderup
+Skravad
+Skrave By
+Skraverup
+Skredtorpe
+Skrejborg
+Skrillinge Strand
+Skringstrup
+Skrivergaden
+Skrolleshede
+Skrosbjerg
+Skrosbjerg Overdrev
+Skrubbekrak
+Skruehuse
+Skrulle
+Skrumsager Mark
+Skrydsholt Mark
+Skrydstrup Mark
+Skræ
+Skrædderkrog
+Skræddervænget
+Skrækkenborg
+Skræm
+Skrødstrup
+Skråstrup
+Skuderløse
+Skuderup
+Skudstrup
+Skudstrup Mark
+Skuerup
+Skuldbøl
+Skuldelev
+Skullebjerg
+Skullerup
+Skurvemose
+Skydebjerg
+Skydebjerg Lunger
+Skydsbæk
+Skygge
+Skyggehale
+Skyhede
+Skyttehuse
+Skyttemark
+Skyum
+Skægbjerg
+Skægkær
+Skælskør
+Skærbæk
+Skærbækmølle
+Skæregårde
+Skæremølle
+Skærlund
+Skærping
+Skærshale
+Skærshede
+Skærsig
+Skærum
+Skærum Kirkeby
+Skærup
+Skærupskov
+Skærvad
+Skætholm
+Skævinge
+Skævlund
+Skødsholm
+Skødstrup
+Skølvad Mark
+Skørbæk
+Skørbæk Hedehuse
+Skørbækshede
+Skørengen
+Skørping
+Skørpinge
+Skørpingholme
+Skørrebro
+Skørring
+Skørringe Huse
+Skørringe Skovhuse
+Skøttrup
+Skåbling
+Skånebro Huse
+Skåningebro
+Skåningegårde
+Skåningehuse
+Skåphus Mark
+Skåren
+Skårenborg
+Skåret
+Skårhede
+Skårup
+Skårup Hede
+Skårupgård
+Skårupøre
+Skåstrup
+Slagballe
+Slagelse
+Slaglille
+Slagslunde
+Slagstrup
+Slamrebjerg
+Slamregård
+Slamrehuse
+Slangerup
+Slangerup Overdrev
+Slangerup Ås
+Slejtrup
+Slemminge
+Slemstrup
+Sletelte
+Sletkær
+Sletnæs
+Slettebjerg
+Sletteenge
+Sletten
+Sletteren
+Sletterød
+Sletteskov
+Sletø
+Slevstrup
+Slimminge
+Slimminge Overdrev
+Slipshavn
+Slots Bjergby
+Slotshusene
+Slotshøj
+Slude
+Sludebakken
+Sludstrup
+Slumstrup
+Slumstrup Mark
+Sluphuse
+Slutterup
+Slyk
+Slyngborg
+Slyngsten
+Slæbæk
+Slæggerup
+Sløjhuse
+Sløsse
+Sløsserup
+Slåentorn
+Slågårdshuse
+Slåvænget
+Smakkerup
+Smal Åle
+Smalby
+Smedager
+Smedeby Mark
+Smedebæk
+Smedegade
+Smedegård
+Smedegårde
+Smedehuse
+Smedemark
+Smederup
+Smedsholm
+Smedskær
+Smejrup
+Smersted
+Smerup
+Smidie
+Smidstrup
+Smidstrup Hede
+Smidstrup Old
+Sminge
+Smollerup
+Smorup
+Smouen
+Smut-igennem
+Smut-ind
+Smækbjerg
+Smøl
+Smølled
+Smørenge
+Smørpøt
+Smørumnedre
+Smørumovre
+Smågårde
+Småkær
+Smålyngen
+Snabe
+Snaphede
+Snap-ind
+Snaptun
+Snaremose
+Snarskov
+Snarup
+Snave
+Snaven
+Snavhuse
+Snedsted
+Sneglerup
+Snejstrup
+Snekkemose
+Snekkerup
+Snepsgårde
+Sneptrup
+Snerpe
+Snerpen
+Snertinge
+Snesere
+Snesere Overdrev
+Snesere Torp
+Sneslev
+Sneslev Overdrev
+Snevre
+Snittrup
+Snogbæk Vestermark
+Snogbækmark
+Snogebæk
+Snoldelev
+Snoldelev-Hastrup
+Snorhave
+Snorløkke
+Snorup
+Snostrup
+Snovdrup
+Snuderup
+Snur-om
+Snæbum
+Snærild
+Snævre
+Snævren
+Snævret
+Snødder
+Snøde
+Snøde Hesselbjerg
+Snåstrup
+Sobanke
+Sobjerg
+Sode
+Sodemark
+Soderup
+Soesmarke
+Sofiedal
+Sognstrup
+Solbakke
+Solbakken
+Solbjerg
+Solbjerg Hede
+Solderup
+Solderup Mark
+Solekær
+Soleskov
+Solevad
+Solholt Hede
+Solhøj
+Solkær
+Solrød
+Solrød Nordmark
+Solrød Strand
+Solrød Tykkemose
+Solrød Vestermark
+Solsbæk
+Solsø Hede
+Sommersted
+Sommerstedskov
+Sondrup
+Sondrup Strand
+Sonnerup
+Sorgenfri
+Sorrild
+Sorring
+Sortebjerg
+Sortebro
+Sorteby
+Sortekammer
+Sortekro
+Sortelung
+Sortemose
+Sortenborg
+Sortenshave
+Sorterup
+Sorthede
+Sortkær Hede
+Sortsø
+Sorvad
+Sorø
+Sose
+Sottrup
+Sottrup Mark
+Sottrupskov
+Sovbæk
+Sovkrog
+Spagergård
+Spajlsgårde
+Spanager
+Spandet
+Spandet Gårde
+Spandet Mark
+Spang
+Spangbjerg
+Spangbæk
+Spangdale
+Spangerhede Mark
+Spanget
+Spanggårde
+Spangsbro
+Spangshuse
+Spar-Es
+Sparkær
+Sparlund
+Sparrehuse
+Sparretoft
+Sparrevogn
+Spavngårde
+Spedsbjerg
+Spejlsby
+Spejlsgårde
+Spentrup
+Sperrestrup
+Sperring
+Spettrup
+Spidsbjerg
+Spidsby
+Spillehuse
+Spindborg
+Spjald
+Spjarup
+Spjellerup
+Splidholm
+Splitsgård
+Spodsbjerg
+Spolum
+Sporup
+Spragelse
+Spragelselille
+Spramshuse
+Springenbjerg
+Spring-forbi
+Spurvelund
+Spydelund
+Spændbakken
+Spørring
+Spøttrup
+Spåbæk
+Spånehøj
+Stabolt
+Stabrand
+Staby
+Stabæk
+Stade
+Stade Mark
+Stadil
+Stadilø
+Stae
+Stae Mark
+Staggehuse
+Stagshede
+Stagsted
+Stagsted Enge
+Stagsted Hede
+Stagsted Mark
+Stagstrup
+Stakdelene
+Stakroge
+Staksrode
+Staldene
+Staldtømmerhøj
+Stallerup
+Stampebakken
+Stampen
+Stangebakkerne
+Stangemarken
+Stangerum
+Stangerum Mark
+Stangerup
+Stanghede
+Starbakken
+Starholm
+Starreklinte
+Starup
+Staslunde
+Stat-af
+Stat-ene
+Stat-hartstræde
+Stauning
+Staurby
+Stausgård
+Stausø
+Stavad
+Stavehøl
+Stavelsager
+Stavelund
+Staverslund
+Stavlund
+Stavn
+Stavnehuse
+Stavns
+Stavnsholt Overdrev
+Stavnstrup
+Stavre
+Stavreby
+Stavsdal
+Stavshede
+Stavsholm
+Stavskær
+Steg
+Stege
+Stegerset
+Stegsted
+Stejl
+Stejlebakke
+Stejlund
+Stemmild
+Stenagre
+Stenalt
+Stenbakken
+Stenbanker
+Stenbergholt
+Stenbjerg
+Stenby
+Stenbæksholm
+Stendal Mark
+Stenderup
+Stenderup Fælled
+Stenderup Gårde
+Stenderup Mark
+Stenderup Mose
+Stenderupskov
+Stendis
+Stengade
+Stengelmose
+Stengård
+Stenhave
+Stenheden
+Stenholt
+Stenholtsvang
+Stenhulsdal
+Stenhuse
+Stenhøj
+Stenild
+Stenildvad
+Stenis Enge
+Stenkilde
+Stenkobbel
+Stenlille
+Stenmagle
+Stenmagle Huse
+Stenmark
+Stenmarksgårde
+Stenmose
+Stenodde
+Stenrand
+Stenrøgel
+Stenrøgle
+Stens
+Stensby
+Stensby Linie
+Stensbæk
+Stenseby
+Stensgård
+Stensholt
+Stensig
+Stenskov Huse
+Stenskrog
+Stensmark
+Stenstrup
+Stenstrup Hede
+Stenstrup Skovvænge
+Stensvang
+Stensved
+Stentoft
+Stenum
+Stenum Hede
+Stenvad
+Stenvad Hede
+Stepping
+Sterup
+Sterup Vestermark
+Stestrup
+Stestrup Bjerg
+Stestrup Old
+Stevelt
+Stevn
+Stevning
+Stevningnor
+Stevnstrup
+Stibanken
+Stibjerg
+Stidsholt
+Stiftshøje
+Stigmose
+Stigs Bjergby
+Stihøj
+Stilbjerg
+Stilhøjt
+Stillebæk
+Stilund
+Stimose
+Stinesminde
+Stisager
+Stistrup
+Stivelshuse
+Stivænge
+Stjerslev
+Stjovl
+Stjær
+Stobdrup Gårde
+Stoholm
+Stokbro
+Stokbro Hede
+Stokbæk
+Stokholm
+Stokholtshuse
+Stokkebjerg
+Stokkebro
+Stokkeby
+Stokkebæk Huse
+Stokkehuse
+Stokkemarke
+Stokkemarke Skovhuse
+Stokkemose
+Stokkerhoved
+Stokkerup
+Stoklund
+Stoksted
+Stoksted Mark
+Stolbro
+Stolbro Løkke
+Stoldysse Gårde
+Stollig
+Stolpegårdshuse
+Stolpehuse
+Stolsbjerg
+Stoltelund
+Storde
+Store Ajstrup
+Store Almstok
+Store Andst
+Store Anslet
+Store Arden
+Store Avnede
+Store Binderup
+Store Bredlund
+Store Brøndum
+Store Dalby
+Store Damme
+Store Darum
+Store Ebberup
+Store Elmue
+Store Emmerske
+Store Favrby
+Store Fuglede
+Store Grandløse
+Store Havelse
+Store Heddinge
+Store Heddinge Overdrev
+Store Hillerslev
+Store Hjøllund
+Store Jyndevad
+Store Karleby
+Store Knivsig
+Store Kongsmark
+Store Kvisthus
+Store Ladager
+Store Langkær
+Store Lihme
+Store Lihme Østermark
+Store Lind
+Store Linde
+Store Linde Overdrev
+Store Lindet
+Store Lyngby
+Store Lyngby Jung
+Store Lyngbyskov
+Store Løjtofte
+Store Merløse
+Store Mose
+Store Musse
+Store Nørlund
+Store Pederstrup
+Store Restrup
+Store Rise
+Store Rørbæk
+Store Røttinge
+Store Salby
+Store Sjørup
+Store Spjellerup
+Store Thorlund
+Store Torup
+Store Torøje
+Store Tårnby
+Store Valby
+Store Velling
+Store Vorslunde
+Store Ørtoft
+Storedal
+Storedalen
+Storefælled
+Storemark
+Storemose
+Storenor
+Storhaven
+Storholm
+Storhøj
+Storkehuse
+Storlund
+Stormarken
+Stormhusene
+Stormose
+Stormsgårde
+Storring
+Storskov
+Storskoven
+Storup
+Storvorde
+Storvorde Nørkær
+Storvorde Østerenge
+Stouby
+Stouby Mark
+Stoubyskov
+Stourup
+Stovby
+Stovbæk
+Stovgård
+Stovgårds Mark
+Stovstrup
+Strade
+Straden
+Strammelse
+Strandager
+Strandby
+Strandby Gårde
+Strandby Hede
+Strandby Mark
+Strandbygård
+Strande
+Strandelhjørn
+Strandelhjørnskov
+Stranden
+Stranderød
+Strandgade
+Strandhoved
+Strandhuse
+Strandkær
+Strands
+Strandtved
+Strandvangen
+Strandvejen
+Strarup
+Strat
+Strellev
+Strib
+Stribegårde
+Stride
+Strovstrup
+Strudvad
+Struer
+Strynø By
+Strynø Kalv
+Strædegårde
+Strærup
+Strø
+Strø Enghave
+Strøby
+Strøby Egede
+Strøby Grøftemark
+Strøby Møllemark
+Strøbylille
+Strølille
+Strømhuse
+Strømmesbøl
+Strøvang
+Strårup Mark
+Stråsø
+Stubbe
+Stubbehage
+Stubbekrogen
+Stubbekøbing
+Stubbene
+Stubberup
+Stubberup Enghave
+Stubberup Have
+Stubberup Østermark
+Stubberupgård
+Stubbom
+Stubbæk
+Stubbæk Mark
+Stubdrup
+Stubkær
+Stude
+Studeby
+Studsgård
+Studshoved
+Studstrup
+Stumphul Huse
+Stundsig
+Stursbøl
+Styding
+Stydingdam
+Stydingskov
+Styrsbro
+Styrt-om
+Styvel
+Styvel Gårde
+Styvel Mark
+Stængelris
+Stærdal
+Stæreby
+Stærkende
+Stærkær
+Stærmose
+Stærremark
+Stævnebro
+Stødby
+Stødov
+Stødstrup
+Stønbakken
+Størlinge
+Størsbøl
+Støttrup
+Støvring
+Støvring Hede
+Ståby
+Stågerup
+Stålmose Huse
+Stånum
+Stårby
+Stårup
+Sudergårde
+Sudkær
+Suldrup
+Sulkendrup
+Sullerup
+Sulsted
+Sult
+Sultenkrog
 Sundby
-Sundbyholm
-Sundhultsbrunn
-Sundsbruk
-Sundsvall
-Sunnansjö
-Sunne
-Sunnemo
-Sunningen
-Surahammar
-Surte
-Svalsta
-Svalöv
-Svanberga
-Svanesund
-Svanskog
-Svanvik
-Svappavaara
-Svartbyn
-Svarte
-Svartlå
-Svartvik
-Svartå
-Svedala
-Sveg
-Svenljunga
-Svensbyn
-Svenshögen
-Svenstavik
-Svenstorp
+Sundbylille
+Sunds
+Sundsted
+Sundstrup
+Sundsøre
+Surhave
+Surkær
+Surløkke
+Sursænkegård
+Suserup
+Susgård
+Svalebæk
+Svalebølle
+Svallerup
+Svalmstrup
+Svaneke
+Svaneke Vang
+Svanekær
+Svanemose
+Svanfolk
+Svanfolk Bakker
+Svangensholt
+Svankær
+Svanninge
+Svanninge Huse
+Svanninge Nørremark
+Svansbjerg Overdrev
+Svansmose
+Svapkær
+Svarre
+Svebølle
+Svejbæk
+Svejdal
+Sveje
+Svejlund
+Svejrup
+Svejstrup
+Svejstrup Hede
+Sveltekrog
+Svendborg
+Svendebjerg
+Svendlund
+Svendsgårde
+Svendshede
+Svendstrup
+Svennerup
+Svennerup Skovhuse
+Svennum
+Svensmarke
+Svenstrup
+Svenstrup Hede
+Svenstrup Hestehave
+Svenstrupholm
+Sverdrup
+Sverige
+Sverkilstrup
+Sverrig
+Svestrup
+Svilshave
+Svinballe
+Svinbo
+Svindborg
+Svindbæk
+Svinding
+Svinding Mark
+Svindinge
+Svingelbjerg
+Svinghulen
+Svinholt
+Svinhøj
+Svink
+Svinkløv
 Svinninge
-Svängsta
-Svärdsjö
-Svärtinge
-Sya
-Sysslebäck
-Sågmyra
-Säffle
-Sälen
-Sälgsjön
-Särna
-Särö
-Säter
-Sätila
-Sätofta
-Sätra Brunn
-Sävar
-Sävast
-Säve
-Sävja
-Sävsjö
-Söderala
-Söderby
-Söderby-Karl
-Söderbärke
-Söderfors
-Söderhamn
-Söderköping
-Söderskogen
-Södersvik
-Södertälje
-Söderåkra
-Södra Bergsbyn
-Stackgrönnan
-Södra Klagshamn
-Södra Näs
-Södra Sandby
-Södra Sunderbyn
-Södra Vi
-Södra Vrams Fälad
-Sölvesborg
-Söregärde-Drag
-Sörfors
-Sörforsa
-Sörmjöle
-Sörstafors
-Sörvik
-Söråker
-Sösdala
-Sövde
-Sövestad
-Taberg
-Tahult
-Tallvik
-Tallåsen
-Tandsbyn
-Tanumshede
-Tavelsjö
-Teckomatorp
-Tenhult
-Tibro
-Tidaholm
-Tidan
-Tidö-Lindö
-Tierp
-Tillberga
-Timmele
-Timmernabben
-Timmersdala
-Timrå
-Timsfors
-Tingsryd
-Tingstäde
-Tjautjas/Cavccas
-Tjuvkil
-Tjällmo
-Tjörnarp
-Toarp
+Svinsager
+Svinsbjerg
+Svinsbjerg Lunder
+Svinø
+Svogerslev
+Svoldrup
+Svorbæk
+Svostrup
+Sværdborg
+Sværdsholte
+Sylager Næbbe
+Sylt
+Synnedrup
+Syrehuse
+Systofte
+Syttenbanken
+Syv Holme
+Syvbæk Huse
+Syvsten
+Syvtallet
+Syvveje
+Sæby
+Sæby Præstemark
+Sæbyhøj
+Sæd
+Sæd Grænse
+Sæd Mark
+Sædballe
+Sædde
+Sædder
+Sædding
+Sædding Hede
+Sæderup
+Sædholm
+Sædinge
+Sædingeskov
+Sækbæk
+Sælvig
+Sæne
+Særløse
+Særmark
+Særslev
+Særslev Hede
+Sæsing
+Sø Søby
+Sø Torup
+Søballe
+Søbjerg
+Søbo
+Søbo Løkker
+Søborg
+Søborg Hestehave
+Søby
+Søby Mark
+Søbylund
+Sødam
+Søderup
+Søderup Mark
+Sødinge
+Sødinge Hede
+Sødover
+Sødover Mark
+Sødring
+Sødring Kær
+Sødrup
+Søen
+Søenge
+Søften
+Søften Præstemark
+Søfælde
+Søgyden
+Søgård
+Søgård Mark
+Søgårde
+Søgårdshede
+Søgårdsmark
+Søhale
+Søheden
+Søholm
+Søholt
+Søhuse
+Søkbæk
+Søkær
+Søle
+Sølgårde
+Sølille
+Søller Gårde
+Søllerup
+Søllerup Overdrev
+Søllerød
+Søllested
+Søllinge
+Søllingvrå
+Sølodderne
+Sølperup
+Sølsted
+Sølt
+Sølund
+Sølung
+Sølvbjerg
+Sølvbjerghoved
+Sølvhuse
+Sølvsten
+Sølyst
+Sømark
+Sømarke
+Sømarken
+Sømose
+Sømosen
+Søndagshuse
+Søndagsvang
+Søndbjerg
+Søndenbro
+Søndenåen
+Sønder Aggersund
+Sønder Aldum
+Sønder Alslev
+Sønder Andrup
+Sønder Arup
+Sønder Asmindrup
+Sønder Bindslev
+Sønder Bindslev Hede
+Sønder Bjerge
+Sønder Bjert
+Sønder Bork
+Sønder Bork Kær
+Sønder Borup
+Sønder Bratbjerg
+Sønder Bøel
+Sønder Bøel Mark
+Sønder Dråby
+Sønder Egebølle
+Sønder Esp
+Sønder Esterbølle
+Sønder Farup
+Sønder Farup Mark
+Sønder Felding
+Sønder Feldingbjerg
+Sønder Frederiksdal
+Sønder Frenderup
+Sønder Gildesbo
+Sønder Gislum
+Sønder Gravlund
+Sønder Gravlund Mark
+Sønder Grene
+Sønder Grimmelstrup
+Sønder Harritslev
+Sønder Hjerm
+Sønder Homå
+Sønder Horslunde
+Sønder Hostrup
+Sønder Hurup
+Sønder Hvam
+Sønder Hvillum
+Sønder Hygum
+Sønder Højrup
+Sønder Jellinge
+Sønder Jernløse
+Sønder Kabdrup
+Sønder Kejlstrup
+Sønder Kettrup
+Sønder Kirkeby
+Sønder Kjul
+Sønder Knudstrup
+Sønder Kollemorten
+Sønder Langelund
+Sønder Lem
+Sønder Longelse
+Sønder Lovrup
+Sønder Lydum
+Sønder Lyngby
+Sønder Lyngvig
+Sønder Nissum
+Sønder Omme
+Sønder Onsild
+Sønder Onsild Stationsby
+Sønder Rind
+Sønder Rubjerg
+Sønder Rævind
+Sønder Saltum
+Sønder Sejerslev
+Sønder Skovhuse
+Sønder Skovsgård Mark
+Sønder Stenderup
+Sønder Strødam
+Sønder Sørå
+Sønder Tarp
+Sønder Thise
+Sønder Tinnet
+Sønder Tåstrup
+Sønder Vedby
+Sønder Vedby Skovhuse
+Sønder Vejrup
+Sønder Vennemose
+Sønder Vilstrup
+Sønder Vinge
+Sønder Vissing
+Sønder Vium
+Sønder Voerså Hede
+Sønder Vognbjerg
+Sønder Vollum
+Sønder Vornæs
+Sønder Vorupør
+Sønder Vrå
+Sønder Ydby
+Sønder Økse
+Sønder Ønlev
+Sønder Ørum
+Sønder Åby
+Sønderager
+Sønderballe
+Sønderbjerg
+Sønderborg
+Sønderborg Huse
+Sønderbro Østeregn
+Sønderbroen Mark
+Sønderby
+Sønderby Bjerge
+Sønderby Kær
+Sønderby Mosemark
+Sønderbæk
+Sønderbøl
+Sønderdiger
+Sønderende
+Søndergård
+Søndergårde
+Søndergårdsmark
+Sønderhav
+Sønderhave
+Sønderhede
+Sønderheden
+Sønderherred
+Sønderho
+Sønderholm
+Sønderholm Hede
+Sønderholt
+Sønderhuse
+Sønderhøe
+Sønderhå
+Sønderhåb
+Sønderkobbel
+Sønderkær
+Sønderlade
+Sønderlev
+Sønderlund
+Søndermark
+Søndermarken
+Søndernæs
+Sønderos
+Søndersig
+Sønderskov
+Sønderskov Hede
+Sønderskov Mark
+Søndersted
+Søndersted-Borup
+Søndersthoved
+Sønderstrup
+Søndersø
+Søndersø Skovhuse
+Søndertange
+Sønderup
+Sønderupsønder
+Søndervang
+Sønderød
+Sørbylille
+Sørbymagle
+Sørbymagle Overdrev
+Sørig
+Sørig Enge
+Sørig Mose
+Sørkel
+Sørninge
+Sørup
+Sørup Løjed
+Sørup Overdrev
+Sørvad
+Sørå Mark
+Søskov
+Søst
+Søst Mark
+Søsted
+Søster Svenstrup
+Søstrup
+Søstrup Elle
+Søsum
+Søtofte
+Søttrup
+Søvang
+Søvig Huse
+Søvig Mark
+Søvind
+Søvsø
+Søvængerne
+Såby
+Såby Huse
+Såbydal
+Såderup
+Såne
+Sårup
+Tadebæk
+Tageholm
+Tagholm
+Tagsighede
+Tambjerg Gårde
+Tambohuse
+Tamdrup
+Tamholt
+Tammestrup
+Tammestrup Øde
+Tamrodshuse
+Tamstrup
+Tander
+Tanderup
+Tanderup Huse
+Tanderupkær
+Tandholt
+Tandrup
+Tandrup Mark
+Tandselle
+Tandshede
+Tandsholm
+Tandskov
+Tandsryde
+Tane
+Tang
+Tangbjerg
+Tange
+Tange Fælled
+Tange Nørrehede
+Tangelbjerg
+Tangen
+Tangerhuse
+Tangeris
+Tanggård
+Tanggårde
+Tanghus
+Tangkær
+Tangsig
+Tangå
+Tankefuld
+Tapdrup
+Tappernøje
+Taps
+Tapsøre
+Tarm
+Tarp
+Tarpholm
+Tarup
+Tase Mølle
+Tastrup
+Tastum
+Taulov
+Tavlgårde
+Tavlund
+Tebbestrup
+Tebbestrup Kær
+Tebelgård
+Tebstrup
+Teestrup
+Tegager
+Teglbjerg
+Tegldamsgyde
+Teglgård
+Teglgårdshuse
+Teglhuse
+Teglkås
+Teglmose
+Teglstrup
+Teglum
+Teglværkshuse
+Tejn
+Tellerup
+Telling
+Temmeshave
+Tempelhuse
+Tendrup
+Tengslemark
+Terkelsbøl
+Terkelsbøl Mark
+Termestrup
+Terndrup
+Terndrup Hede
+Terndrup Mark
+Terp
+Terpager
+Terpet
+Terpet Hede
+Terpling
+Terslev
+Terslev Havemark
+Terslev Overdrev
+Tersløse
+Tessebølle
+Testrup
+Testrup Mark
+Tevring
+Tevringe
+Them
+Them Skov
+Them-Glarbo
+Thise
+Thisetorp
+Thisted
+Thomaskær
+Thorning
+Thorning Vestermark
+Thorsager
+Thorshøj
+Thorsminde
+Thorsted
+Thorstrup
+Thorsø
+Thorsø Hede
+Thorum
+Thorup
+Thorup Hede
+Thorøhuse
+Thurø By
+Thybogård
+Thyborøn
+Thyregod
+Thyregodlund
+Tidselbak
+Tidselhuse
+Tidsholm
+Tiendekær
+Tiendemarken
+Tikøb
+Tikøb Skovhuse
+Tillerup
+Tillitze
+Tim
+Tim Kirkeby
+Timling
+Timring
+Tindbæk
+Tindbæk Fælled
+Tindbæk Udflyttere
+Tindingebanke
+Tindskov
+Ting Jellinge
+Ting Jellinge Enghave
+Tingerup
+Tinget
+Tinggyde
+Tinghede
+Tinghuse
+Tinghøj
+Tinglev
+Tinglev Mark
+Tingsager
+Tingskoven
+Tingskovhede
+Tingsted
+Tingstrup
+Tingtræhuse
+Tingtved
+Tingtved-Borup
+Tingvad
+Tinkerdal
+Tinkerdal Huse
+Tinkerup
+Tinning
+Tinning Hede
+Tiphede
+Tirslund
+Tirstrup
+Tirsvad
+Tise
+Tise Kær
+Tise Udflyttere
+Tiset
+Tiset Nørremark
+Tiset Søndermark
+Tiset Vestermark
+Tislum
+Tissinghuse
+Tisted
+Tistedholter
+Tistrup
+Tisvilde
+Tiufkær
+Tiufkær Mark
+Tiufkær Skov
+Tivoli
+Tjele
+Tjennemarke
+Tjerrild
+Tjærby
+Tjærbæk
+Tjæreborg
+Tjæreborg Nørremark
+Tjæreborgvad
+Tjæreby
+Tjæreby Tang
+Tjørneby
+Tjørneby Hede
+Tjørnede
+Tjørneholm
+Tjørnehoved
+Tjørnelunde
+Tjørnemarke
+Tjørntved
+Tjåse
+Tobberup
+Tobjerge
 Tobo
-Tofta
-Toftbyn
-Tollarp
-Tollered
-Tomelilla
-Torarp
-Torbjörntorp
-Torekov
-Torestorp
-Torhamn
-Tormestorp
-Torna Hällestad
-Torpsbruk
-Torpshammar
-Torreby
-Torsby
-Torsby
-Torsebro
-Torshälla
-Torshälla Huvud
-Torsåker
-Torsång
-Torsås
-Tortuna
+Tobøl
+Todbjerg
+Todbjerg Præstemark
+Todbøl
+Toderup
+Todsbøl
+Toelt
+Toft
+Tofte
+Tofte Hede
+Toftebjerg
+Toftemark
+Toften
+Tofterup
+Tofteskov
+Toftevang
+Tofthuse
+Tofthøj
+Toftlund
+Toftnæs
+Toftnæs Vestermark
+Toftum
+Togeholt
+Toggerbo
+Toghale
+Togårde
+Tohede
+Tohuse
+Tokkelundshuse
+Tokkendrup
+Tokkerup
+Tokkesdal
+Toksværd
+Tolbøl
+Tollerød
+Tollestrup
+Tollestrup Hede
+Tollund
+Tolne
+Tolne Kirkeby
+Tolsager
+Tolshave
+Tolstrup
+Tolstrup Gårde
+Tolstrup Hede
+Tolsvad
+Tolvhuse
+Tommered
+Tommerup
+Tommerup Made
+Tommerup Nørremark
+Tommerup Stationsby
+Tommestrup
+Topgårde
+Toppene
+Topshøj
+Torbenfeld
+Torbøl
+Tordensgårde
+Torderup
+Torderup Skal
+Toreby
+Torhuse
+Torkilstrup
+Torkilstrup Huse
+Torlund
+Tornby
+Tornbygård
+Torndal
+Tornebakke
+Tornehave
+Tornemark
+Tornhøj
+Torning
+Torning Mark
+Tornled
+Tornsbjerg
+Tornshede
+Tornskov
+Tornskov Bjerg
+Tornskær
+Tornum
+Tornum Mark
+Tornumgårds Mark
+Tornumskov
+Tornved
+Tornvig
+Torp
+Torp Mark
+Torpe
+Torpegavn
+Torpet
+Torpet Kær
+Torpgårde
+Torplille
+Torpmagle
+Torremark
+Torrendrup
+Torrig Kranger
+Torrild
+Torrild Nørreskov
+Torrup
+Torsbjerg
+Torsbæk
+Torsholm
+Torslev Enge
+Torslev Kær
+Torslev Mark
+Torslev Præstegårdsmark
+Torslunde
+Torsted
+Torsted Mølleby
+Torsted Vestermark
+Torsthoved
+Torsø
 Torup
-Tosseryd
-Totebo
-Totra
-Tranemo
-Tranholmen
-Transtrand
-Tranås
-Traryd
+Torup Holme
+Torup Kohave
+Torup Kær
+Torup Strand
+Torupdal
+Toruphede
+Tosmose
+Tostedmark
+Tostenæs
+Tostenæs Kobbel
+Tostholm
+Tostrup
+Tostrup Hede
+Toustrup
+Tovbro
+Tovgård
+Tovrup
+Tovsig
+Tovstrup
+Trabjerg
+Trabjerg Gårde
+Tradsbjerg
+Tradsborg
+Trampelmose
+Trampenbjerg
+Tranbjerg
+Tranderup
+Trandum
+Trandum Hede
+Trandum Kirkegårde
+Trandum Skovby
+Tranebjerg
+Traneflod
+Tranegilde
+Tranehuse
+Tranekær
+Tranemose
+Tranestederne
+Trangbæk
+Tranget
+Trangets Mark
+Tranholm
+Trankær
+Trans
+Transbøl
+Tranum
+Tranum Enge
+Tranum Klit
+Trappedal Huse
+Trappeskov
+Trashuse
+Traun
+Travsted
+Treager
+Trebjerg
+Trehuse
 Trekanten
-Trelleborg
-Trollhättan
-Trosa
-Trulsegården
-Trångsviken
-Tråvad
-Trädet
-Träslövsläge
-Trödje
-Trönninge
-Trönninge
-Tulebo
-Tumba
-Tumbo
-Tumlehed
-Tun
-Tuna
-Tuna
-Tunadal
-Tunnerstad
-Tureholm
+Trekroner
+Tremandsmarken
+Tremarksmose
+Tremhuse
+Trend
+Trespring
+Tressebølle
+Trevad
+Trige
+Trillinggårde
+Tril-om
+Trindbjerg
+Trinderup
+Trinnerup
+Troelse
+Troelseby
+Troelstrup
+Troense
+Troestrup
+Troldbjerg Gårde
+Troldebjerg Gårde
+Troldemose Huse
+Troldesø
+Troldhede
+Troldholm
+Troldhuse
+Troldtoft
+Trollerup
+Tromborg
+Trondhjemshuse
+Tronsmark
+Trovsløkke
+Trudslev
+Trudslev Kær
+True
+Truelstrup
+Trunbro
+Trunderup
+Trunderup Dong
+Trunderup Hælde
+Trustrup
+Truust
+Try
+Try Hede
+Tryggelev
+Tryghuse
+Trympellyng
+Trynbakker
+Trædemark
+Træden
+Trædholm
+Træholm
+Træholt
+Trælborg
+Trælleborg Gårde
+Trællerup
+Trælløse
+Trælund
+Trænge
+Trængstrup
+Trøderup
+Trøgdrup
+Trøgdrup Hede
+Trøjborg
+Trøllund
+Trønninge
+Trørød
+Trøstrup
+Tråsbøl
+Tudved
+Tuehuse
+Tuemose
+Tuen
+Tuerne
+Tuerum
+Tul
+Tullebølle
+Tulsmark
+Tulstrup
+Tumbøl
+Tumbøl Søndermark
+Tunderup
+Tune
+Tune Hede
+Tureby Overdrev
+Turup
+Tusborg
+Tusbro
+Tuse
+Tuse Huse
+Tusholt
+Tuskær
+Tusmose
+Tustrup
+Tustrup Hede
+Tustrup Kær
+Tved
+Tved Havreland
+Tved Huse
+Tvede
+Tveden
+Tvedens Huse
+Tvedeskov
+Tvedhuse
+Tveje Merløse
+Tvenstrup
+Tversted
+Tveskel
+Tvevad
+Tvile
+Tvilho
+Tvillingehusene
+Tvillinggårde
+Tvillinghuse
+Tvilstedgård
+Tvilum
+Tvilumbro
+Tvinde
+Tvindelstrup
 Tving
-Tvååker
-Tvärskog
-Tvärålund
-Tygelsjö
-Tylösand
-Tyringe
-Tystberga
-Tågarp
-Tånga
-Rögle
-Tångaberg
-Täby
-Täfteå
-Täljö
-Tällberg
-Tärnaby
-Tärnsjö
-Tävelsås
-Töcksfors
-Töllsjö
-Töre
-Töreboda
-Törestorp
-Tösse
-Ucklum
-Uddebo
-Uddeholm
-Uddevalla
-Uddheden
-Ullared
-Ullatti
-Ullervad
-Ullånger
-Ulricehamn
-Ulrika
-Ulvkälla
-Ulvåker
-Umeå
-Unbyn
-Undenäs
-Undersåker
-Unnaryd
-Upphärad
-Upplanda
-Upplands Väsby
-Uppsala
-Urshult
-Ursviken
-Utansjö
-Utby
-Utvälinge
-Vad
-Vadstena
-Vaggeryd
-Vagnhärad
-Valbo
-Valdemarsvik
-Valje
-Valla
-Vallargärdet
-Vallberga
-Vallda
-Vallentuna
-Vallsta
-Vallvik
-Vallåkra
-Valskog
-Vankiva
-Vannsätter
-Vansbro
-Vansö
-Vaplan
-Vara
-Varberg
-Varekil
-Vargön
-Varnhem
-Vartofta
-Vassbäck
-Vassmolösa
-Vattholma
-Vattjom
-Vattnäs
-Vattubrinken
-Vaxholm
-Veberöd
-Veddige
-Vedevåg
-Vedum
-Vegby
-Veinge
-Vejbystrand
-Velanda
-Vellinge
-Vemdalen
-Vena
-Venjan
-Vessigebro
-Vetlanda
-Vi
-Vibble
+Tvingholm
+Tvingsbjerg
+Tvingstrup
+Tvis
+Tvislund
+Tvorup
+Tværkær
+Tværmose
+Tværskov
+Tybjerg
+Tybjerglille
+Tybjerglille Bakker
+Tygestrup
+Tygstrup
+Tygstrup Vang
+Ty-Hastrup
+Tykhave
+Tykhøjet
+Tyklund
+Tykmose
+Tykskov
+Tylle
+Tylstrup
+Tylstrup Enge
+Tylstrup Hede
+Tylstrup Nørrehede
+Tyrehule
+Tyrholm
+Tyrhove
+Tyrrestrup Gårde
+Tyrsting
+Tyskland
+Tystofte
+Tystrup
+Tyvelse
+Tyvelse Sand
+Tyvkær
+Tyvse
+Tyvse Mark
+Tæbring
+Tærø
+Tødsø
+Tøjsmose
+Tøjstrup
+Tølløse
+Tømmerby
+Tømmerby Kær
+Tømmerby Mark
+Tømmerup
+Tømmerup Holme
+Tønder
+Tøndering
+Tøndeskov
+Tønding
+Tønning
+Tørkeriet
+Tørning Mark
+Tørresø
+Tørrild
+Tørrildhave
+Tørring
+Tørring Fælled
+Tørring Kær
+Tørring Mark
+Tørringskov
+Tørsbøl
+Tørskind
+Tørslev
+Tørslev Dal
+Tørvekær Huse
+Tørveland
+Tøsby
+Tøsbæk
+Tøstrup
+Tøttrup
+Tøvelde
+Tøvelsø Huse
+Tøving
+Tåderup
+Tågeby
+Tågehuse
+Tågelund
+Tågense
+Tågense Enge
+Tågerod
+Tågerup
+Tågerup Overdrev
+Tågeskov
+Tågeskov Overdrev
+Tågholm
+Tågholt
+Tåghøj
+Tåning
+Tånum
+Taarbæk
+Tårnby
+Tårngårde
+Tårs
+Tårs Skovby
+Tårup
+Tårup Kær
+Tårup Østerskov
+Tårupdam
+Tåstebjerg
+Tåstrup
+Taastrup
+Tåstrup Overdrev
+Ubberup
+Ubby
+Ubjerg
+Udby
+Udbyhøj
+Udbyhøj Vasehuse
+Udbyneder
+Udbyover
+Udløbet
+Udstolpe
+Udstrup
+Uge
+Uge Hede
+Uge Mark
+Ugelbølle
+Ugelbølle Strand
+Ugelris
+Ugerløse
+Uggelhuse
+Uggeløse Krog Huse
+Uggeløse Skov
+Uggerby
+Uggerhal
+Uggerhalne
+Uggerholt
+Uggerslev
+Uggerslev Hede
+Ugilt
+Uglbjerg
+Uglebjerg
+Ugledige
+Ugleenge
+Uglegade
+Uglemose
+Uglerup
+Uglestrup
+Uglev
+Uglkær
+Uglvig
+Uhe
+Uhe Krat
+Uhe Mark
+Uhre
+Ulbjerg
+Ulbølle
+Uldal
+Uldallund
+Uldbæk
+Uldum
+Uldum Hede
+Uldum Kær
+Uldum Langager
+Uldum Søndermark
+Ulfborg
+Ulfborg Kirkeby
+Ulfkær
+Ulkebøl Nørremark
+Ulkebølskov
+Ulkendrup
+Ulkensdal
+Ulkestrup
+Ulkind
+Ulknud
+Ulkær
+Ullede
+Ullehuse
+Ullemarke
+Ullemose
+Ullemølle
+Ullerslev
+Ullerup
+Ullerup Mark
+Ullerød
+Ullits
+Ulse
+Ulslev
+Ulslev Strandhuse
+Ulsted
+Ulsted Kær
+Ulstedlund
+Ulstrup
+Ulstrup Hede
+Ulsund Hede
+Ulsø
+Ultang
+Ulvehave
+Ulvehøj
+Ulvekær
+Ulveskov
+Ulvhøj
+Ulvig
+Ulvkær
+Ulvskov
+Undelev
+Under Bakken
+Under Skoven
+Underlien
+Understed
+Understrup
+Underup
+Underåre
+Undløse
+Ungersbjerg
+Unghave Huse
+Ungstrup
+Unnerud
+Unnerup
+Urehoved
+Urlev
+Urmose
+Urne
+Urskov
+Urup
+Uslev
+Ustrup
+Uth
+Utoft
+Utterslev
+Utterslev Mader
+Uvelse
+Uvelse Enghave
+Vadbjerg
+Vadbøl
+Vadet
+Vadhuse
+Vadshuse
+Vadsted
+Vadum
+Vagtborg
+Vagthøjsfald
+Valby
+Valby Huse
+Valby Overdrev
+Valingebjerg
+Vallebo
+Vallehuse
+Vallemark
+Vallensbæk Landsby
+Vallensbæk Strand
+Vallensgård Huse
+Vallensved
+Vallerbæk
+Vallestrup
+Vallund
+Valløby
+Valore
+Valore Hestehave
+Valsgård
+Valsted
+Valsølille
+Valsømagle
+Valsømagle Huse
+Vamdrup
+Vammen
+Vandborg
+Vandel
+Vandet
+Vandkær
+Vandling
+Vandmose Huse
+Vandsted
+Vandstedet
+Vandvænge
+Vang
+Vang Mark
+Vangen
+Vanggårde
+Vangså
+Vangvad
+Vanløse
+Vannerup
+Vanting
+Vantinge
+Vantore
+Vantore Strandhuse
+Varbjerg
+Varbro
+Varde
+Vargårde
+Varhede
+Varho
+Varmark
+Varming
+Varminglund
+Varmkær
+Varnæs
+Varnæs Løkke
+Varnæs Vig
+Varpelev
+Vasby
+Vasen
+Vassingerød Old
+Vattrup
+Vebbestrup
+Ved Bregneshave
+Ved Gaden
+Ved Hallen
+Ved Kirken
+Ved Nydammen
+Ved Åen
+Vedby
+Vedbynørre
+Vedbysønder
+Vedbøl
+Vedde
+Veddelev
+Veddinge
+Veddum
+Veddum Have
+Veddum Hylt
+Veddum Vorn
+Vedelshave
+Vedersø
+Vedersø Kær
+Vedhoved
+Vedskov
+Vedskølle
+Vedslet
+Vedsted
+Vedsted Kær
+Vedtofte
+Veerst
+Veerstskov
+Veflinge
+Veflinge Hede
+Veflinge Nymark
+Veflinge Stormark
+Vegger
+Vegger Gårde
+Veggerby
+Veggerby Hede
+Veggerslev
+Vejborg
+Vejby
+Vejby Nørrehede
+Vejby Sønderhede
+Vejbæk
+Veje
+Vejen
+Vejenbrød
+Vejenknude
+Vejenskov
+Vejers
+Vejerslev
+Vejhuse
+Vejlager
+Vejlby
+Vejlbyskov
+Vejle
+Vejle Lung
+Vejlebro
+Vejleby
+Vejleby Holle
+Vejlebyskov
+Vejlemade
+Vejlen
+Vejlgårde
+Vejly
+Vejlø
+Vejrbæk
+Vejrholm
+Vejrholt
+Vejrhøj
+Vejringe
+Vejrum Kirkeby
+Vejrum Nørremark
+Vejrumbro
+Vejrumstad
+Vejrup
+Vejrup Mark
+Vejrø
+Vejsbjerg Gårde
+Vejsig
+Vejsmark
+Vejsnæs
+Vejstrup
+Vejstruprød
+Vejstrupskov
+Vejvad
+Veksebo
+Vekslund
+Veksø
+Veldbæk
+Velds
+Velds Huse
+Velgårde
+Velhusted
+Vellensbygård
+Vellerup
+Vellerup Mark
+Vellev
+Vellev Mose
+Velling
+Vellinge Huse
+Vellingshøj
+Vemb
+Vemmedrup
+Vemmelund
+Vemmenæs
+Vemmetofte
+Vemmingbund
+Venborg
+Venemose
+Veng
+Vennebjerg
+Vennelyst
+Vennemose
+Vennemose Mark
+Venner
+Vennergård
+Venning
+Venslev
+Venslev Enghave
+Ventehuse
+Venø By
+Verninge
+Verninge Sydmark
+Verup
+Vesbæk
+Vesemose
+Vesløs
+Vesløs Huse
+Vesløs Mark
+Vestbirk
+Vestbjerg
+Vestbjerg Eng
+Vestbjerg Kær
+Vestbymark
+Vesten Bjerget
+Vestenbæk
+Vestenskov
+Vester Alling
+Vester Assels
+Vester Bisholt
+Vester Boderne
+Vester Bording
+Vester Broby
+Vester Bur
+Vester Bøgebjerg
+Vester Børsting
+Vester Christianshøj
+Vester Debel
+Vester Doense
+Vester Dølby
+Vester Egede
+Vester Egense
+Vester Egesborg
+Vester Faldgårde
+Vester Finderup
+Vester Gammelby
+Vester Gasse
+Vester Gimsing
+Vester Gjerndrup
+Vester Gludsted
+Vester Grene
+Vester Gårdsholt
+Vester Halne
+Vester Halne Enge
+Vester Harrild
+Vester Hassing
+Vester Hassing Enge
+Vester Hjermitslev
+Vester Hjermitslev Kær
+Vester Holmen
+Vester Hornstrup
+Vester Hornum
+Vester Hunderup
+Vester Hvidbjerg
+Vester Hærup
+Vester Hæsinge
+Vester Høgild
+Vester Højst
+Vester Højst Mark
+Vester Hørdum
+Vester Idskov
+Vester Isen
+Vester Jølby
+Vester Karleby
+Vester Kippinge
+Vester Korup
+Vester Kærby
+Vester Kærup
+Vester Lem
+Vester Lidegårde
+Vester Lind
+Vester Linderup
+Vester Lindet
+Vester Lyby
+Vester Løve
+Vester Melholt
+Vester Mellergårde
+Vester Nebel
+Vester Nordlunde
+Vester Nybøl
+Vester Rendbæk
+Vester Skerninge
+Vester Skivum
+Vester Skovby
+Vester Skovhuse
+Vester Skørringe
+Vester Smidstrup
+Vester Snogbæk
+Vester Sottrup
+Vester Strødam
+Vester Svenstrup
+Vester Syv
+Vester Såby
+Vester Terp
+Vester Terp Fælled
+Vester Tim
+Vester Tirsted
+Vester Torp
+Vester Torsted
+Vester Torsted Udflyttere
+Vester Torup
+Vester Tostrup
+Vester Tved
+Vester Tversted
+Vester Tørslev
+Vester Ulslev
+Vester Vandet
+Vester Vase
+Vester Vedsted
+Vester Vejrup
+Vester Velling
+Vester Vistorp
+Vester Vrøgum
+Vester Ørbæk
+Vester Ørum
+Vester Åby
+Vester Åbølling
+Vesterager
+Vesterbjerge
+Vesterbo
+Vesterborg
+Vesterborg Skovhuse
+Vesterborg Småhuse
+Vesterby
+Vesterbæk
+Vesterbølle
+Vesterdal
+Vesterende Ballum
+Vesterenge
+Vestergård
+Vestergårde
+Vesterhave
+Vesterhede
+Vesterheden
+Vesterhuse
+Vesterhåb
+Vesterkobbel
+Vesterkær
+Vesterlund
+Vesterløkke
+Vesterløkker
+Vestermarie
+Vestermark
+Vestermarken
+Vesternæs
+Vesterpurre
+Vesterris
+Vesterskov
+Vesterskov Mark
+Vesterslette
+Vestertredje
+Vestervad
+Vestervang
+Vestervig
+Vesterø Havn
+Vesterø Mejeriby
+Vesterå
+Vestkær
+Vestrup
+Vesttarp
+Vestterp
+Vetterslev
+Vibberstoft
+Vibegård
+Vibekær
+Viberup
+Vibjerg
+Viborg
+Viborg Vestermark
+Vibshede
+Vibsig
 Viby
-Vickleby
-Vidja
-Vidsel
-Vidöåsen
-Vik
-Vika
-Vikarbyn
-Viken
-Vikingstad
-Vikmanshyttan
-Viksjöfors
-Viksäter
-Vilhelmina
-Villshärad
-Vilshult
-Vimmerby
-Vinberg
-Vinbergs Kyrkby
-Vindeln
-Vingåker
-Vinninga
-Vinnö
-Vinslöv
-Vintrie
-Vintrosa
-Vinäs
-Virsbo
-Virserum
+Vibæk
+Vibøge
+Videbæk
+Videkær Huse
+Viderupkær
+Videslet
+Vidstrup
+Vidstrup Hede
+Vie
+Viehusene
+Vielsted
+Viemose Overdrev
+Viemose Skov
+Viermose
+Vierne
+Vieskoven
+Viesø
+Viet
+Vievang
+Vig
+Vigen
+Vigerslev
+Vigersted
+Vigerø
+Vigsnæs
+Vigstrup
+Vigsø
+Vigtoft
+Vildbjerg
+Vile
+Vilgestrup
+Vilhelmsminde Mark
+Vilholm
+Vilholt
+Villebøl
+Villendrup
+Villerslev
+Villersø
+Villerup
+Villerup Kær
+Villerup Mark
+Villingerød
+Villumstrup
+Vils
+Vilsbæk
+Vilsbæksminde
+Vilsgårds Mark
+Vilslev
+Vilslev Spang
+Vilsted
+Vilstrup
+Vilsund Vest
+Vimmelmose
+Vimtrup
+Vimtrup Mark
+Vind
+Vind Kirkeby
+Vindblæs
+Vindby
+Vindbyholt
+Vindbæk
+Vinde Helsinge
+Vinde Nørremark
+Vindeballe
+Vindeby
+Vindeby Hede
+Vindebyskov
+Vindebyøre
+Vindebæk
+Vindebæk Kobbel
+Vindegårde
+Vindehuse
+Vindekilde
+Vindelev
+Vindeltorp
+Vinderslev
+Vinderup
+Vinderød
+Vindgab
+Vinding
+Vindinge
+Vindinge Lillevang
+Vindum
+Vindum Hede
+Vindø
+Vingborg
+Vinge
+Vinge Hede
+Vingevænge Gårde
+Vingsted
+Vingtoft
+Vingum
+Vinkel
+Vinkel Hede
+Vinkel Vesterby
+Vinkelhuse
+Vinkelplet
+Vinkælderhuse
+Vinskoven
+Vinstrup
+Vinstrup Hestehave
+Vinten Lindholm
+Vinum
+Vippel
+Vipperød
+Virket
+Virklund
+Virring
+Virring Hede
+Virring Mose
+Virum
+Visbjerg
+Visborg
+Visborg Skovmark
 Visby
-Viskafors
-Vislanda
-Vissefjärda
-Vistträsk
-Vitaby
-Vittangi
-Vittaryd
+Visgårde
+Visselbjerg
+Vissenbjerg
+Vissing
+Vissingkloster
+Vistoft
+Vistorp
+Vittarp
+Vitten
+Vittenbjerg
 Vittinge
-Vittjärv
-Vittsjö
-Vittskövle
-Vollsjö
-Vrena
-Vretstorp
-Vrigstad
-Vrångö
-Vuollerim
-Vålberg
-Våmhus
-Vånga
-Vårdsätra
-Vårgårda
-Vårsta
-Våxtorp
-Väckelsång
-Väderstad
-Väggarp
-Väjern
-Väländan
-Vänersborg
-Väne-Åsaka
-Vänge
-Vännäs
-Vännäsby
-Väring
-Värmdö-Evlinge
-Värmlandsbro
-Värnamo
-Värsås
-Väröbacka
-Väse
-Väskinde
-Västanvik
-Västerberg
-Västerby
-Västerfärnebo
-Västerhaninge
-Västerhejde
-Västerhus
-Västerljung
-Västerlösa
-Västermyckeläng
-Västervik
-Västerås
-Västibyn
-Västra Bispgården
-Västra Bodarna
-Västra Hagen
-Västra Husby
-Västra Ingelstad
-Västra Karaby
-Västra Karup
-Västra Klagstorp
-Västra Tommarp
-Västra Ämtervik
-Västra Ljungby
-Växjö
-Yngsjö
-Ysby
-Ystad
-Ytterhogdal
-Ytternäs
-Vreta
-Yttersjö
-Ytterån
-Zinkgruvan
+Vittrup
+Vittrup Gårde
+Vittrup Hede
+Vitved
+Viuf
+Vium
+Vium Mark
+Vium Østermark
+Vive
+Vive Hede
+Vivede
+Vivede Overdrev
+Viverup
+Viverup Overdrev
+Vivild
+Vivild Huse
+Vivtrup
+Vodder
+Vodderbro
+Voderup
+Vodskov
+Vodstrup
+Voel
+Voel Østermark
+Voer
+Voer Hede
+Voerladegård
+Voerså
+Voervadsbro
+Vogn
+Vognsbjerg
+Vognsbæk
+Vognsild
+Vognslund
+Vognstrup
+Vogntoft
+Vojel
+Vojens
+Vojens Mark
+Vojenslund
+Vokslev
+Vokstrup
+Voldbjerg
+Voldborg Hede
+Voldbro
+Voldby
+Voldby Hede
+Voldbyholt
+Volderslev
+Voldkær
+Voldtofte Vænge
+Voldum
+Vollerslev
+Vollerup
+Vollerup Gårde
+Vollerup Kobbel
+Vollerup Vestermark
+Volling Sønderby
+Volling Vesterby
+Volling Østerby
+Vollum Østermark
+Vollund
+Volsballe
+Volsgård
+Volshave
+Volsted
+Volstrup
+Volstrup Hede
+Volstrup Mark
+Volstrupby
+Vong
+Vonge
+Vonge Mark
+Vonge Sønderhede
+Vongeskov
+Vongshøj
+Vonsbæk
+Vor Frue
+Vorbasse
+Vorbasse Sønderhede
+Vorbjerg
+Vorde
+Vordingborg
+Vorgod Østerby
+Vorgod-Barde
+Vork
+Vork Bakker
+Vork Mark
+Vork Søndergårde
+Vormark
+Vormstrup
+Vorning
+Vorning Grønning
+Vorre
+Vorret
+Vorring
+Vostrup
+Vostrup Østerby
+Votkær
+Vovlund
+Vrads
+Vranderup
+Vrangbæk
+Vrangdrup
+Vrange Huse
+Vrangeagre
+Vrangstrup
+Vranum
+Vrejlev Mark
+Vrejlev Mølle
+Vrenderup
+Vrensted
+Vrensted Kær
+Vrensted Østerhede
+Vridsløse
+Vridsløsemagle
+Vridsted
+Vriet
+Vrigsted
+Vringelby
+Vrinners
+Vroue
+Vrænge
+Vrængmose
+Vrønding Nedermark
+Vrønding Østermark
+Vrå
+Vrå Mark
+Vrå Skovhuse
+Vråby
+Vråby Lund
+Vrålyng
+Vråmose
+Vullum
+Vust
+Vust Holme
+Vust Kær
+Vust Rimme
+Vysteby
+Væde
+Væde Have
+Væde Hed
+Væde Mark
+Vædeled
+Væggerløse
+Væggerskilde
+Vælkær
+Vængemose
+Vængesgård
+Vænget
+Vænghuse
+Vængsø
+Vær
+Værholm
+Værløse
+Værmelandshuse
+Værslev
+Værum
+Værum Fælled
+Væth
+Vævergårde
+Vævervænget
+Vøjremose
+Våbensted
+Vådager
+Vågholt
+Vålse
+Vår
+Vår Mark
+Vårby Mark
+Vårskovgård
+Vaarst
+Vårø
+Ydby
+Yderby
+Yderhede
+Yderik
+Yderstræde
+Yderup
+Yding
+Yding Rode
+Ydø
+Yllebjerg
+Ypnasted
+Yppenbjerg
+Yttrup
+Æbelholtsdam
+Æbelholtsvang
+Æbelnæs
+Æble
+Æblemade
+Æblemose Huse
+Ærtebjerg
+Ærtevænge
+Ærøskøbing
+Øager Huse
+Øbening
+Øbjerg
+Øby
+Ødal Huse
+Øde Hastrup
+Ødegård
+Ødemark
+Ødis
+Ødis Kroge
+Ødis-Bramdrup
+Ødsted
+Ødum
+Øen
+Øen Skovhuse
+Øen Smidstrup
+Øerne
+Øgelund
+Øgårde
+Øjehuse
+Øksendrup
+Øksenhede
+Øksenmølle
+Øksenvad
+Øksnebjerg
+Øksnehave Krog
+Øksnehaven
+Økær
+Ølby
+Ølegård
+Ølene
+Ølgod
+Ølgryde
+Ølholm
+Ølholm Huse
+Ølholm Kær
+Øllebølle
+Øllemose
+Øllerup
+Øls
+Ølsegård
+Ølsemagle
+Ølst
+Ølsted
+Ølsted Nederholm
+Ølsted Overholm
+Ølsted Vestermark
+Ølstrup
+Ølufvad
+Ølund
+Øm
+Ømark
+Ømarkshuse
+Ømose
+Ønslev
+Ørby
+Ørbyhage
+Ørbæk
+Ørderup
+Ørding
+Ørebro
+Ørevejle
+Ørkenbjerg
+Ørnbøl
+Ørndrup Mark
+Ørneborg
+Ørnhøj
+Ørninge
+Ørnsholt
+Ørnstrup
+Ørnstrup Overmark
+Ørre
+Ørre Gårde
+Ørridslev
+Ørrild
+Ørris
+Ørritslev
+Ørritslev Mose
+Ørritslev Skovhuse
+Ørs
+Ørsbjerg
+Ørsbjerg Knold
+Ørsbjerg Ler
+Ørskov
+Ørslev
+Ørslev Enghaver
+Ørslev Kohave
+Ørslev Lillevang
+Ørslev Overdrev
+Ørslev under Skoven
+Ørslevfrage
+Ørslevkloster
+Ørslev-Stensved
+Ørslevvester
+Ørsløkke
+Ørsnæs Gårde
+Ørsted
+Ørsted Hestehave
+Ørsted Holme
+Ørsted Mark
+Ørsø
+Ørsø Gårde
+Ørting
+Ørting Mose
+Ørtoft Hede
+Ørum
+Ørum Hede
+Ørum Mose
+Ørum Nørremark
+Ørum Overdrev
+Ørum Sønderhede
+Ørum Søndermark
+Ørum Vestermark
+Ørum Østermark
+Ørumskov
+Ørup
+Ørvad
+Øsby
+Øse
+Øse Lund
+Øslev
+Øslevholme Huse
+Øsløs
+Østbirk
+Østbjerg
+Østby
+Østendal
+Østenfjeld
+Østenkær
+Østenåen
+Øster Ajstrup
+Øster Alling
+Øster Assels
+Øster Bindslev Hede
+Øster Bjerregrav
+Øster Bording
+Øster Brønderslev
+Øster Bur
+Øster Bøgebjerg
+Øster Børsting
+Øster Christianshøj
+Øster Debel
+Øster Doense
+Øster Dølby
+Øster Egebjerg
+Øster Egesborg
+Øster Faldgårde
+Øster Folding
+Øster Frederiksmose
+Øster Gammelby
+Øster Gasse
+Øster Gejl
+Øster Grønning
+Øster Halne Enge
+Øster Halne Hede
+Øster Hassing
+Øster Hassing Kær
+Øster Hegnet
+Øster Hjerm
+Øster Hjermitslev
+Øster Hjermitslev Enge
+Øster Holmen
+Øster Hornum
+Øster Hurup
+Øster Hvidbjerg
+Øster Hvillum
+Øster Hærup
+Øster Hæsinge
+Øster Høgild
+Øster Højst
+Øster Hørdum
+Øster Jølby
+Øster Karleby
+Øster Kippinge
+Øster Kondrup
+Øster Kølsen
+Øster Lem
+Øster Lind
+Øster Linderup
+Øster Lindet
+Øster Lyby
+Øster Løgum
+Øster Løgum Mark
+Øster Løgum Østermark
+Øster Melholt
+Øster Mellerup
+Øster No
+Øster Nordlunde
+Øster Nykirke
+Øster Rendbæk
+Øster Skerninge
+Øster Skjern
+Øster Skovby
+Øster Skørringe
+Øster Skårup
+Øster Snede
+Øster Snogbæk
+Øster Sottrup
+Øster Starup
+Øster Stillinge
+Øster Svenstrup Hede
+Øster Svenstrup Mark
+Øster Syv
+Øster Terp
+Øster Tirsted
+Øster Tirup
+Øster Tjørring
+Øster Torsted
+Øster Tulstrup
+Øster Tørslev
+Øster Ulslev
+Øster Vandet
+Øster Vase
+Øster Vedsted
+Øster Velling
+Øster Vemb
+Øster Vistorp
+Øster Vrøgum
+Øster Ørbæk
+Øster Åbølling
+Øster Årbjerg
+Østerballe
+Østerbol
+Østerby
+Østerby Gårde
+Østerby Havn
+Østerby Mark
+Østerbæk
+Østerbølle
+Østerende Hede
+Østerenge
+Østergade
+Østergårde
+Østerhede
+Østerheden
+Østerholm
+Østerhoved
+Østerhuse
+Østerhåb
+Østerild
+Østerkær
+Østerlars
+Østerled
+Østerlund
+Østermarie
+Østermark
+Østermarken
+Østerris
+Østerskov
+Østersø
+Østerterp Nørremark
+Østerterp Vestermark
+Østervang
+Østervig
+Østervrå
+Østerågård
+Østrig
+Østrup
+Østrup Holme
+Østrup Mark
+Østtarp
+Øverste Række
+Øverup
+Å
+Å Højrup
+Åbakken
+Aabenraa
+Åbjerg
+Åbo
+Åbro
 Åby
-Åbyggeby
-Åbytorp
-Ådran
-Åhus
-Åkarp
-Åkers Styckebruk
-Åkersberga
-Ålberga
-Åled
-Ålem
-Åmmeberg
-Åmot
-Åmotfors
-Åmsele
-Åmynnet
-Åmål
-Ånge
-Ånneröd
-Ånäset
-Åre
-Årjäng
-Årstad
-Årsunda
-Åryd
-Åryd
+Aaby Hede
+Aaby Kær
+Aaby Mose
+Aabybro
+Åbyen
+Åbylund
+Aabylund
+Åbyskov
+Åbøl
+Åbølling
+Ådal
+Ådum
+Åensgårde
+Ågabet
+Ågeby
+Ågerup
+Ågesbøl
+Ågård
+Ågård Hede
+Ågård Mark
+Ågård Skovhuse
+Ågårde
+Ågårdsmark
+Åholm
+Åhuse
+Aaker Højlyng
+Aakirkeby
+Åkær
+Åkær Huse
+Ål
+Aalborg
+Ålborgdal
+Ålbæk
+Åle
+Åle Kær
+Åle Vestermark
+Åle Østermark
+Ålebæk
+Ålegårds Mark
+Ålehoved
+Ålested
+Ålestokshuse
+Aalestrup
+Aalestrup Mark
+Ålkær
+Ålling
+Ålry
+Ålsbo
+Ålskov
+Ålsmose
+Ålsrode
+Ålstrup
+Ålstrup Mark
+Ålsø
+Ålum
+Ålund
+Ålunde
+Åløkke
+Åløse
+Åmark
+Åmose
+Åmose Huse
+Ånum
+Årbjerg
+Årby
+Årestrup
+Aarestrup
+Årgab
+Aarhus
+Årlund
+Årløse
+Årre
+Aars
+Årsballe
+Årsdale
+Årslev
+Årslev Hede
+Årtoft
+Årtoft Mark
+Årup
+Aarup
+Årup Gårde
+Årup Hede
+Årø
+Årøsund
 Ås
-Åsa
-Åsarne
-Åsarp
-Åsbro
-Åsby
-Åseda
-Åsele
-Åselstad
+Ås Mark
 Åsen
-Åsenhöga
-Åsensbruk
-Åshammar
-Åsljunga
-Åstol
+Åsendrup
+Åsendrup Kær
+Åsevang
+Åsgårde
+Åsholm
+Åshuse
+Åshøje
+Åside
+Åskov
+Åsted
+Åsted Hede
+Åstedbro
+Åstofte
 Åstorp
-Återvall
-Åtorp
-Åtvidaberg
-Älandsbro
-Älgarås
-Älghult
-Älmhult
-Älmsta
-Älta
-Älvdalen
-Älvkarleby
-Älvnäs
-Älvsbyn
-Älvsered
-Älvängen
-Äng
-Änge
-Ängelholm
-Ängsholmen
-Ängsvik
-Äppelbo
-Ärla
-Äsköping
-Äspered
-Äsperöd
-Ätran
-Öbonäs
-Öckerö
-Ödeborg
-Ödeshög
-Ödsmål
-Ödåkra
-Öggestorp
-Öjersjö
-Ölmanäs
-Ölmbrotorp
-Ölme
-Ölmstad
-Ölsta
-Önneköp
-Önnestad
-Örbyhus
-Örebro
-Öregrund
-Örkelljunga
-Örnsköldsvik
-Örserum
-Örsjö
-Örslösa
-Örsundsbro
-Örtagården
-Örtofta
-Örviken
-Ösmo
-Östadkulle
-Östansjö
-Östavall
-Österbybruk
-Österbymo
-Österforse
-Österfärnebo
-Österhagen
-Österslöv
-Österstad
-Östersund
-Östervåla
-Östhammar
-Östhamra
-Östmark
-Östnor
-Östra Bispgården
-Östra Frölunda
-Östra Grevie
-Östra Husby
-Östra Kallfors
-Östra Karup
-Östra Ljungby
-Östra Ryd
-Östra Sönnarslöv
-Östra Tommarp
-Östraby
-Överboda
-Överhörnäs
-Överkalix
-Överlida
-Övertorneå
-Överum
-Övre Soppero
-Öxabäck
-Öxeryd
+Åstorp Mark
+Åstrup
+Aastrup Lyng
+Åstrup Parceller
+Åstrup Søndermark
+Åstruplund
+Åsum
+Åsø
+Åtte
+Åvænget
