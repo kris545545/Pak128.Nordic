@@ -1,2 +1,15 @@
 Hastighedsgrænse i 1847: 45 km/t (de Danske Jernbaners Signaler)
 Hastighedsgrænse i 1890: 90 km/t på hovedstrækninger, op til 70 km/t på sidebaner (samme kilde)
+
+
+Fra bogen DSB Baneanlæg (1989):
+DSB indførte DSB45-skinner i 1905 og DSB60 i 1938
+
+DSB 12/46 er elektromekanisk uden sporisolationer, 
+DSB ræleanlæg (53/54) uden fjernstyring. Sporisolationer? Se danske signaler-bogen
+DSB rælegruppeanlæg (64, 69 for HKT, 72 for fjernstyring). Med sporisolationer 
+DSB 77: Halvelektroniske anlæg, datamatstyrede. Fjernstyring?
+
+S-togsmast 1934: H-stålprofil
+1989: betonmast
+S-togskøreledningsanlæg har en levetid på 30-50 år (fraset køretråden, der lever 12-20 år)
