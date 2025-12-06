@@ -6,8 +6,8 @@ Fra bogen DSB Baneanlæg (1989):
 DSB indførte DSB45-skinner i 1905 og DSB60 i 1938
 
 DSB 12/46 er elektromekanisk uden sporisolationer, 
-DSB ræleanlæg (53/54) uden fjernstyring. Sporisolationer? Se danske signaler-bogen
-DSB rælegruppeanlæg (64, 69 for HKT, 72 for fjernstyring). Med sporisolationer 
+DSB relæanlæg (53/54) uden fjernstyring. Sporisolationer? Se danske signaler-bogen
+DSB relægruppeanlæg (64, 69 for HKT, 72 for fjernstyring). Med sporisolationer 
 DSB 77: Halvelektroniske anlæg, datamatstyrede. Fjernstyring?
 
 S-togsmast 1934: H-stålprofil
