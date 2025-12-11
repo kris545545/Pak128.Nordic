@@ -1,0 +1,56 @@
+name: Build nightly for Standard
+
+on: [push]
+
+jobs:
+  build:
+    name: Build Pak128.Nordic
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y make tar zip
+
+      - name: Download makeobj
+        run: |
+          wget -O makeobj.zip "https://master.dl.sourceforge.net/project/simutrans/makeobj/60-8%20for%20124-3-1%20up/makeobj_linux-x64-60-8.zip"
+          unzip makeobj.zip -d makeobj
+          chmod +x makeobj/makeobj
+
+      - name: Verify makeobj exists
+        run: |
+          which makeobj
+          makeobj --help || true
+
+      - name: Run clean
+        run: make clean
+
+      - name: Run default build
+        run: make all
+
+      - name: Build archives
+        run: make archives
+
+      - name: List build output
+        run: |
+          echo "Artifacts from build:"
+          ls -R .
+
+      - name: Rename archives with nightly suffix
+        run: |
+          for f in *.zip *.tbz2; do
+            mv "$f" "${f%.*}${{ steps.nightly.outputs.suffix }}.${f##*.}"
+          done
+
+      - name: Upload nightly artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: pak128-nordic${{ steps.nightly.outputs.suffix }}
+          path: |
+            *.zip
+            *.tbz2
