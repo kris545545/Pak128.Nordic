@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up dependencies
         run: |
@@ -48,7 +48,7 @@ jobs:
           done
 
       - name: Upload nightly artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: pak128-nordic${{ steps.nightly.outputs.suffix }}
           path: |
