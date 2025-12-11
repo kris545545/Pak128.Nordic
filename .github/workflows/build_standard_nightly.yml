@@ -19,13 +19,13 @@ jobs:
       - name: Download makeobj
         run: |
           wget -O makeobj.zip "https://master.dl.sourceforge.net/project/simutrans/makeobj/60-8%20for%20124-3-1%20up/makeobj_linux-x64-60-8.zip"
-          unzip makeobj.zip -d makeobj
-          chmod +x makeobj/makeobj
+          unzip -o makeobj.zip
+          chmod +x makeobj
 
-      - name: Verify makeobj exists
+      - name: Verify makeobj works
         run: |
-          which makeobj
-          makeobj --help || true
+            makeobj -? | head -n 5
+
 
       - name: Run clean
         run: make clean
